@@ -1,283 +1,328 @@
-id,intitule,description,dateCreation,dateActualisation,lieuTravail,romeCode,romeLibelle,appellationlibelle,entreprise,typeContrat,typeContratLibelle,natureContrat,experienceExige,experienceLibelle,competences,salaire,dureeTravailLibelle,dureeTravailLibelleConverti,alternance,contact,agence,nombrePostes,accessibleTH,qualificationCode,qualificationLibelle,codeNAF,secteurActivite,secteurActiviteLibelle,qualitesProfessionnelles,origineOffre,offresManqueCandidats,experienceCommentaire,formations,deplacementCode,deplacementLibelle,langues,conditionExercice
-165PPDB,Data Engineer Développement Oracle ODI F/H (H/F),"Profil et prérequis :
-Vous êtes inscrit(e) à Pole Emploi
-- De formation Bac+4/5 Scientifique/Informatique/Ingénierie - connaissances de l'algorithmie/Bases de Données/Programmation
-- Vous avez un goût pour la technique, une bonne compréhension de l'environnement du projet, une facilité de communication et de rédaction et d'expression
-- Votre esprit d'analyse et votre rigueur sont des atouts indispensables
-- Votre capacité d'adaptation à de nouveaux environnements, mais aussi votre sens du travail en équipe, seront des atouts importants dans votre réussite
+id,intitule,description,dateCreation,dateActualisation,lieuTravail,romeCode,romeLibelle,appellationlibelle,entreprise,typeContrat,typeContratLibelle,natureContrat,experienceExige,experienceLibelle,competences,salaire,dureeTravailLibelle,dureeTravailLibelleConverti,alternance,contact,nombrePostes,accessibleTH,qualificationCode,qualificationLibelle,codeNAF,secteurActivite,secteurActiviteLibelle,origineOffre,offresManqueCandidats,formations,deplacementCode,deplacementLibelle,qualitesProfessionnelles,experienceCommentaire,langues,permis,agence
+165JNGF,Consultant Data (H/F),"Qui sommes-nous ?
 
-Futures missions :
-- Réaliser le produit, participer à la rédaction des briques de conception
-- Comprendre des spécifications métiers
-- Développer les traitements qui répondent à ces spécifications 
-- Recetter et tester unitairement les développements par rapport aux exigences définies
-- Transmettre les éléments nécessaires aux équipes de RUN pour assurer la continuité du BUILD
-- Produire les livrables en conformité avec la stratégie d'environnement, de l'archivage et de capitalisation des savoirs
+Nous sommes passionnés par les nouvelles technologies, et vous ? 
 
-Organisation vie de l'équipe :
-- Être sensibilisé(e) au cadre de travail Agile (Scrum; SAFe; Kanban )
-- Travailler en binôme avec un concepteur / recetteur pour construire la solution
-- Travailler sous la responsabilité du Scrum Master
-- Valider la solution auprès du référent technique de l'équipe
-- Communiquer en autonomie avec l'ensemble des parties prenantes (progression de l'activité quotidienne, levée d'alerte  )
-
-Compétences visées : 
-A l'issue de cette formation, vous posséderez le savoir-faire, le savoir-être métier et les technologies nécessaires à la prise de poste de Data Engineer Développement Oracle ODI et serez capable d'utiliser les outils et méthodologies demandées et approuvées par CGI :
-- Comprendre les modèles normalisés et décisionnels
-- Maitriser le langage SQL
-- Développer des traitements stockés en PL/SQL
-- Savoir alimenter les entrepôts de données à l'aide d'ETL
-- Requêter, analyser et restituer des données avec des outils de Dataviz
-- Savoir se comporter en consultant",2023-11-29T16:27:49.000Z,2023-12-01T11:33:34.000Z,"{'libelle': '92 - PUTEAUX', 'latitude': 48.884156, 'longitude': 2.237199, 'codePostal': '92800', 'commune': '92062'}",M1805,Études et développement informatique,Développeur / Développeuse Big Data,{'entrepriseAdaptee': False},CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,"[{'code': '109882', 'libelle': 'SQL', 'exigence': 'S'}, {'code': '113255', 'libelle': 'Business Intelligence (BI) / Informatique décisionnelle', 'exigence': 'S'}, {'code': '300688', 'libelle': 'Application web', 'exigence': 'S'}, {'code': '109846', 'libelle': 'Concevoir une application web', 'exigence': 'S'}, {'code': '115531', 'libelle': 'Sélectionner, assembler et intégrer des composants informatiques (progiciels, bases de données, développements spécifiques, ...)', 'exigence': 'S'}, {'code': '300492', 'libelle': 'Actualiser régulièrement ses connaissances', 'exigence': 'S'}, {'code': '300679', 'libelle': ""Tester un logiciel, un système d'informations, une application"", 'exigence': 'S'}, {'code': '400759', 'libelle': 'Intégrer des outils IA/Data Science', 'exigence': 'S'}, {'code': '400796', 'libelle': 'Vérifier la compatibilité des développements produits avec les spécifications', 'exigence': 'S'}]","{'libelle': 'Annuel de 38000,00 Euros à 42000,00 Euros sur 12 mois', 'complement1': 'Chèque repas', 'complement2': 'CE'}",35H Travail en journée,Temps plein,False,"{'nom': 'Pôle Emploi Puteaux', 'coordonnees1': '116 RUE de Verdun', 'coordonnees2': '92800 PUTEAUX', 'coordonnees3': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/165PPDB'}","{'courriel': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/165PPDB'}",1,False,9,Cadre,62.02A,62,Conseil en systèmes et logiciels informatiques,"[{'libelle': 'Avoir le sens du service', 'description': 'Capacité à identifier (voire anticiper) les besoins des usagers, clients (internes et externes) et à apporter une réponse adaptée afin de les satisfaire.'}, {'libelle': 'Travailler en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés.""}, {'libelle': 'Faire preuve de rigueur et de précision', 'description': ""Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles.""}]","{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165PPDB'}",False,,,,,,
-165PMPF,TECHNICIEN MASTER DATA (H/F),"Vous aurez pour mission : 
-- D'assurer la gestion des données de base.
-- Créer et maintenir les codes articles, de la pièce détachée au produit fini.
-- Créer et maintenir les nomenclatures, les gammes, les familles du plan industriel et commercial, les
-- Données de conditionnement.
-- Créer et maintenir les données des moyens de production.
-- Contribuer aux plans d'actions de l'entreprise en lien avec le domaine Master Data.
-- Maintenir et contrôler l'intégrité des données techniques (base article, codification, gamme, Conditionnement).
-- Mettre à jour les données de nomenclature, gammes et fiches articles suivant les demandes émises.
-- Assurer la cohérence des paramètres dans l'ERP.
-- Participer à la commission de modification (produits, matières et gammes).
-- Communiquer les modifications aux services concernés.
-- Conseiller les Commerciaux et le GMD sur la stratégie de recodification (évaluation de l'impact).
-- Assurer la traçabilité des demandes.
-- Effectuer les demandes de données achats au service concerné.
-- Prévenir la hiérarchie en cas d'anomalie / dysfonctionnement.
-- Appliquer et faire appliquer les consignes générales de sécurité (prévention des risques, déplacements.
-- Garantir le respect des procédures, des Bonnes Pratiques de Fabrication (BPF) en vigueur et la conformité.
-- Créer et mettre à jour les fiches d'instructions liées à la fonction.
-- Respecter et faire respecter les consignes générales relatives à l'environnement.",2023-11-29T16:02:46.000Z,2023-11-30T09:21:12.000Z,"{'libelle': '27 - LE NEUBOURG', 'latitude': 49.149004, 'longitude': 0.909047, 'codePostal': '27110', 'commune': '27428'}",H1208,Intervention technique en études et conception en automatisme,Intégrateur / Intégratrice en informatique industrielle,"{'nom': 'CRIT INTERIM', 'entrepriseAdaptee': False}",MIS,Mission intérimaire - 3 Mois,Contrat travail,E,2 ans - en Master Data ou diplôme,"[{'code': '100017', 'libelle': 'Règles de sécurité', 'exigence': 'S'}, {'code': '104535', 'libelle': ""Concevoir les spécifications de l'installation automatisée en fonction du cahier des charges"", 'exigence': 'S'}, {'code': '104536', 'libelle': ""Réaliser l'analyse fonctionnelle de l'installation et la décliner en un programme d'automatisation"", 'exigence': 'S'}, {'code': '104537', 'libelle': ""Paramétrer un programme d'automatisation pour un automate programmable"", 'exigence': 'S'}, {'code': '104540', 'libelle': ""Vérifier le programme d'automatisation par une série de tests sur plate-forme d'essais, en atelier, sur site"", 'exigence': 'S'}, {'libelle': 'environnement de production', 'exigence': 'E'}, {'libelle': 'logiciel SAP', 'exigence': 'E'}]","{'libelle': 'Horaire de 14,00 Euros à 16,00 Euros sur 12 mois', 'commentaire': 'selon profil', 'complement1': 'Autre'}",35H Travail en journée,Temps plein,False,"{'coordonnees1': 'http://app.mytalentplug.com/description-offre.aspx?ojid=unI5f8YMP9fovJUuuD0GOA==', 'urlPostulation': 'http://app.mytalentplug.com/description-offre.aspx?ojid=unI5f8YMP9fovJUuuD0GOA=='}",,1,False,7,Technicien,78.20Z,78,Activités des agences de travail temporaire,,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165PMPF'}",False,en Master Data ou diplôme,"[{'codeFormation': '31845', 'domaineLibelle': 'logistique', 'niveauLibelle': 'Bac+2 ou équivalents', 'commentaire': 'ou expérience similaire', 'exigence': 'E'}]",,,,
-165PGZH,Data Engineer - (H/F),"Nous recrutons un/une Ingénieur Data Engineer junior pour rejoindre notre Business Unit INDUSTRIE au sein de la Business Line Data & Process Intelligence. Elle accompagne nos clients dans leurs problématiques associées à la transformation digitale. Nos offres se déclinent autour de la data intelligence & de la maintenance prédictive, de la digitalisation des processus industriels et du SI Métiers.
-
-Votre mission :
-Dans le cadre de projets, vous rejoindrez notre équipe et participerez aux missions suivantes :
-- Concevoir et développer des outils de traitements et processing de données
-- Déploiement, industrialisation et tests de solutions développées,
-- Monitoring et analyse de flux de données. 
-- Rédiger les rapports d'analyse de données, et assurer la présentation au client
-- Savoir utiliser les outils d'analyse et de visualisation de données
-- Environnement cloud
-
-L'environnement technique :
-Bases de Données : AWS RDS, No SQL, MongoDB, Apache Cassandra, HBase et Amazon dynamoDB
-Framework : Hadoop, Hortonworks, Spark, Airflow
-Outils de containerisation : Docker / Kubernetes 
-Cloud computing: AWS (IAM, S3, EC2, etc.)  ou équivalent chez un autre fournisseur de services cloud
-Langages: Java, Python, Scala
-Visualisation : Dash, Grafana, Python
-
-Qui êtes-vous ?
-De formation Bac+5, vous avez une première expérience en Data Engineering ou Data Science, idéalement dans le secteur aéronautique.
-La connaissance des techniques et outils de traitement de la donnée en Python, Spark/Hadoop dans un environnement cloud vous sera demandé dans l'exercice de votre fonction. L'utilisation d'outil de data mining et analyse de données serait un plus.
-Un niveau d'anglais courant est requis.
-Vous êtes autonome et vous savez faire preuve de capacité d'analyse ? Vous êtes bon communiquant et créatif ? Alors vous êtes la pépite que nous recherchons !
-A compétences égales, ce poste est ouvert aux personnes en situation de handicap.
-
-Qui sommes-nous ?
-La Business Unit INDUSTRIE contribue aux développements de programmes dans les domaines de la simulation, la transformation digitale et le développement de systèmes critiques. Elle est un acteur référent sur l'Intelligence de la donnée (Data Engineering & Data Science), la digitalisation des processus (PLM), la simulation numérique, le développement de logiciels embarqués & certifiés ainsi que la sécurisation des systèmes (cybersécurité).",2023-11-29T14:36:53.000Z,2023-11-29T14:36:55.000Z,"{'libelle': '31 - TOULOUSE', 'latitude': 43.604082, 'longitude': 1.433805, 'codePostal': '31000', 'commune': '31555'}",M1403,Études et prospectives socio-économiques,Data scientist,"{'nom': 'CS GROUP - FRANCE', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,E,2 ans,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '300119', 'libelle': 'Réaliser une veille documentaire', 'exigence': 'S'}]","{'libelle': 'Annuel de 36000,00 Euros à 42000,00 Euros sur 12 mois', 'complement1': 'Primes', 'complement2': 'Pc portable'}",36H40 Travail en journée,Temps plein,False,"{'coordonnees1': 'https://jobs.smartrecruiters.com/CSGROUP/743999947586453-data-engineer-f-h', 'urlPostulation': 'https://jobs.smartrecruiters.com/CSGROUP/743999947586453-data-engineer-f-h'}",,2,False,9,Cadre,62.01Z,62,Programmation informatique,"[{'libelle': 'Prendre des initiatives et être force de proposition', 'description': 'Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif.'}, {'libelle': ""Être à l'écoute, faire preuve d'empathie"", 'description': ""Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie.""}, {'libelle': ""Faire preuve d'autonomie"", 'description': ""Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise).""}]","{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165PGZH'}",False,,"[{'niveauLibelle': 'Bac+5 et plus ou équivalents', 'exigence': 'S'}]",1,Jamais,,
-165NSBV,Data Steward - F/H (H/F),"Description du poste
-
-Dans le cadre de son offre « Data Intelligence », CS GROUP accompagne ses clients sur l'ensemble des étapes de valorisation de leurs données, incluant les démarches de Data Gouvernance. Ces projets d'ampleur sont opérationnellement menés par des « Data Offices » accompagnant les experts métiers dans l'application de la stratégie Data de l'entreprise.
-Au sein d'un Data Office ou d'une équipe dédiée, le Data Steward :
--	S'interface avec les Data Owners et les experts métiers
--	Définit, centralise et maintient à jour le catalogue des données métier (granularité, définition, responsabilité, consommation, classification, sourcing, mise à disposition et implémentation)
--	Applique les règles de gouvernance dictées par le Chief Data Officer pour assurer la mise en conformité des projets digitaux
--	Supporte la définition et la mise en œuvre des plans d'amélioration de la qualité des données (indicateurs, plans de remédiation)
--	Promeut l'intérêt d'une gouvernance globale et facilite l'adhésion collective des équipes métiers.
- 
-
-Qualifications
-
-Qui êtes-vous?
-De formation technique (Bac+2 et +), vous justifiez d'une première expérience sur un poste similaire.
-Environnement technique :
-Vous avez déjà travaillé sur un projet de Data Gouvernance.
-Vous maitrisez les différents types et formats de données.
-En complément vous savez :
-- Comprendre les enjeux d'un déploiement d'une gouvernance des données à l'échelle d'une entreprise.
-- Comprendre l'environnement technique et la sensibilité des données
-- Comprendre et s'adapter à une grande variété de métiers
-
-Informations complémentaires
-
-Qui sommes-nous ?
-La Business Unit INDUSTRIE contribue aux développements de programmes dans les domaines de la simulation, la transformation digitale et le développement de systèmes critiques. Elle est un acteur référent sur l'Intelligence de la donnée (Data Engineering & Data Science), la digitalisation des processus (PLM), la simulation numérique, le développement de logiciels embarqués & certifiés ainsi que la sécurisation des systèmes (cybersécurité).
-Pourquoi choisir CS GROUP ?
-Pour notre filière Expert qui valorise vos compétences techniques, notre engagement dans l'innovation avec un budget R&D de 30 millions d'euros/an, nos engagements sociétaux et environnementaux : index d'égalité professionnelle à 86/100, partenaire de l'association Elles bougent, membre de la planète Tech Care etc.
-Et bien sûr : la possibilité de télétravailler, un programme de cooptation, la complémentaire santé, les RTT, le CE.
-N'attendez plus, partagez votre CV et additionnons nos talents !
-La suite des événements :
-Si votre profil est un match, vous aurez un entretien technique avec un de nos Responsables opérationnels. Puis, un entretien RH avec l'un de nos chargé(e)s de recrutement. 
- 
-#CSGROUP #hiring",2023-11-29T10:08:48.000Z,2023-12-01T10:24:28.000Z,"{'libelle': '92 - LE PLESSIS ROBINSON', 'latitude': 48.78138, 'longitude': 2.260472, 'codePostal': '92350', 'commune': '92060'}",M1403,Études et prospectives socio-économiques,Data analyst,"{'nom': 'CS GROUP - FRANCE', 'description': ""CS GROUP assure la conception, la réalisation, le déploiement, la maintenance ainsi que l'exploitation de systèmes intelligents, sûrs, sécurisés & interconnectés. Ces systèmes, basés sur des solutions et des produits innovants, garantissent l'efficacité de la conduite et de la sécurité des opérations et des missions critiques de nos clients, sur des marchés exigeants."", 'url': 'https://www.csgroup.eu/fr/', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}]","{'commentaire': 'Compétitif', 'complement1': 'Autre'}",35H Travail en journée,Temps plein,False,"{'nom': 'CS GROUP - FRANCE - Mme Anne-Laure PAVIET', 'coordonnees1': 'https://jobs.smartrecruiters.com/CSGROUP/743999947386382-data-steward-f-h', 'urlPostulation': 'https://jobs.smartrecruiters.com/CSGROUP/743999947386382-data-steward-f-h'}",,1,False,6,Employé qualifié,62.02A,62,Conseil en systèmes et logiciels informatiques,,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165NSBV'}",False,,,,,,
-165NLBR,Ingénieur CVC - Activité DATA CENTER (H/F),"Au sein de l'activité DATACENTER les missions attendues sont de :
-- Réaliser des études techniques (missions de conception, audits techniques et énergétiques, expertise ), suivre les chantiers et participer activement aux phases de réception (Testing & Commissioning) sur des opérations à forte valeur ajoutée technique
-- Assurer le management de projet de certaines opérations (volet organisationnel, technique et financier)
-- Participer aux réunions de planning de l'activité (anticipation des besoins, synthèse des problèmes rencontrés pour définition des actions correctives, avancement des projets )
-- Proposer des axes d'amélioration au niveau de l'organisation interne (outils, rendus, principes d'intervention )
-- Participer à l'élaboration d'offres commerciales
-
-- Expérience en ingénierie technique
-- Spécialiste technique en HVAC avec une curiosité vis-à-vis des autres corps de métiers (interfaces fortes avec le courant fort notamment)
-- Être capable de tenir une conversation en anglais
-- Orientation client
-- Pas de nécessité d'avoir une expérience dans le domaine data center (formation interne assurée)
-
-La mise en place du télétravail pourra être mise en place en fonction de votre lieu d'habitation.",2023-11-28T19:01:26.000Z,2023-11-28T19:01:28.000Z,"{'libelle': '94 - IVRY SUR SEINE', 'latitude': 48.812752, 'longitude': 2.386427, 'codePostal': '94200', 'commune': '94041'}",F1106,Ingénierie et études du BTP,Ingénieur / Ingénieure bâtiment,"{'nom': 'PROJEX', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,E,5 ans,,"{'libelle': 'Annuel de 60000,00 Euros à 75000,00 Euros sur 12 mois'}",35H Travail en journée,Temps plein,False,"{'coordonnees1': 'https://taleez.com/apply/ingenieur-cvc-activite-data-center-h-f-ivry-sur-seine-projex-cdi/applying', 'urlPostulation': 'https://taleez.com/apply/ingenieur-cvc-activite-data-center-h-f-ivry-sur-seine-projex-cdi/applying'}",,1,False,9,Cadre,71.12B,71,"Ingénierie, études techniques",,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165NLBR'}",False,,,,,,
-165MZBN,Data scientist,"La division « Database Administration & Data Modeling » est chargée de recueillir les données, de les mettre en forme puis de les analyser pour faire émerger des statistiques significatives permettant aux métiers du client de prendre des décisions plus efficacement.
-
-La mission consiste à :
-- Déterminer les besoins des métiers du client
-- Donner une forme aux données, les rendre intelligibles et exploitables
-- Communiquer les résultats de manière appropriée à l'auditoire
-- Développer et animer un groupe de travail avec des représentants des métiers du client autour de la donnée
-
-PROFIL RECHERCHE:
-Diplômes / Certifications :
-- Diplôme universitaire (BAC +5) (de préférence dans un des domaines informatique, économiste, statistique, data scientist)
-- Une certification professionnelle en data scientist constitue un atout
-
-Expérience :
-- Une expérience dans un projet de data mining d'au moins 2 ans
-- Une expérience concrète d'un projet de machine learning utilisant des données d'entreprise, dans lequel vous savez faire preuve d'autonomie en conception et évaluation d'algorithmes et de modèles
-- Une expérience professionnelle dans le secteur financier
-
-Compétences techniques :
-- Une bonne expertise dans le data mining des données du secteur financier
-- Une bonne maitrise de langages de programmation pour les modèles de machine learning, la manipulation et la visualisation des données (de préférence Python, SQL)
-- Une bonne compréhension des notions de statistique et de probabilité
-- Une bonne connaissance dans la modélisation de machine learning
-
-Langues :
-- Les langues française et anglaise sont exigées au niveau B1 minimum, la langue luxembourgeoise constitue un atout",2023-11-28T15:07:22.000Z,2023-12-01T14:28:55.000Z,{'libelle': 'Luxembourg (Frontalier)'},M1403,Études et prospectives socio-économiques,Data scientist,"{'nom': 'LUX ADVISORY', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,E,2 ans,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '300119', 'libelle': 'Réaliser une veille documentaire', 'exigence': 'S'}]","{'commentaire': 'selon profil', 'complement1': 'Autre'}",40H Travail en journée,Temps plein,False,{},,1,False,7,Technicien,62.02A,62,Conseil en systèmes et logiciels informatiques,,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165MZBN'}",False,,,,,"[{'libelle': 'Anglais', 'exigence': 'E'}]",
-165MSWS,Ingénieure / Ingénieur DATA (H/F),"Description du poste
-Garant du patrimoine de l'entreprise, Artelia Digital Solutions (ADS) a pour principaux objectifs de développer les synergies entre Business Unit, d'accompagner le groupe dans ses projets de croissance, de promouvoir la transformation numérique et l'innovation au bénéfice de l'ensemble du groupe.
-En sus, ADS véritable ""Business Partner"" se doit de faciliter l'extension du Système d'Information vers les clients, qui s'accélère avec la mouvance du Cloud. Par ailleurs, ADS doit garantir un haut niveau de sécurité, car le groupe, au fur et à mesure qu'il grossit, augmente sa surface d'exposition.
-ADS accompagne le groupe dans ses projets de croissance, de promotion de la transformation numérique et l'innovation au bénéfice de l'ensemble du groupe. Vous intégrez l'équipe du département Enterprise Platforms en charge de fournir les plateformes et outils au service des processus internes et de support à la Production.
-En tant qu'Ingénieur DATA, vous mettez en œuvre les développements de nouveaux flux de données dans la Data Platform en combinant développement, interfaçages des différents composants et modélisation du patrimoine de données du groupe Artelia.
-Vos principales missions seront :
-* Participer à la définition de l'architecture Data et BI de notre Data Platform
-* Développer de nouveaux flux de données dans la Data Platform :
-    * Analyser et développer les nouveaux besoins clients combinant :
-        * L'analyse du backlog
-        * La conception, modélisation et développement informatique / paramétrage en respectant le cadre et les possibilités de la plateforme
-        * La coordination et le pilotage des différents acteurs si nécessaire
-        * La documentation des flux réalisés et du modèle de données
-    * Participer à l'exploitation de la plateforme
-* Optimiser la gestion des demandes :
-    * Fournir des KPI de suivi des performances des flux mis en œuvre
-    * Être force de proposition dans l'optimisation des processus
-Vous contribuez à l'obtention de la certification ISO 20000 garantissant que les processus de gestion de services IT sont conformes aux besoins des activités d'Artelia et aux bonnes pratiques internationales.
-L'environnement technique de la plateforme sur laquelle vous travaillerez est le suivant :
-* Snowflake (Core Data Platform)
-* DBT (Data transformation)
-* Talend (ETL)
-* PowerBI (Data Vizualisation)
-* OKTA (Security)
-* AWS Cloud Services (S3, Kendra, Lambda, Lex, openSearch, Sagemaker )
-* Azure DevOps (Product management & CI/CD)
-* Systèmes source de la Data Platform : ERP, CRM, HR IS, Filer, IOT, BIM, GIS 
-Qualifications
-Titulaire d'un Bac+5, vous bénéficiez d'une bonne expérience en développement informatique.  Avec minimum, 3 ans d'expérience dans le développement de flux de données, de l'ingestion à l'exposition en passant par la transformation des données.
-Vous éprouvez de la satisfaction à créer et déployer des solutions de bout en bout contribuant à l'efficience de l'organisation.
-Votre curiosité, votre réactivité, votre ouverture d'esprit et votre adaptabilité seront des atouts pour le poste.
-Les compétences requises sont les suivantes :
-* Autonomie, curiosité et proactivité
-* Sens du service
-* Bonne maitrise du langage SQL
-* Bonne maîtrise de la modélisation de base de données
-* Connaissance du langage Python  
-* Connaissance des API
-Une expérience dans les technologies ci-dessous est nécessaire :
-* Snowflake
-* DBT
-* TALEND
-* Azure DevOps
-* Gestion de projet et méthodes agiles
-* Langages et Framework du marché
-Et enfin, la maitrise de l'anglais est nécessaire pour échanger au sein du groupe.
-Postulez pour en savoir plus !",2023-11-28T12:50:11.000Z,2023-11-29T11:14:27.000Z,"{'libelle': '38 - GRENOBLE', 'latitude': 45.182081, 'longitude': 5.7243, 'codePostal': '38000', 'commune': '38185'}",M1403,Études et prospectives socio-économiques,Data analyst,"{'nom': 'ARTELIA', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}]","{'commentaire': 'compétitif', 'complement1': 'Autre'}",35H Travail en journée,Temps plein,False,"{'nom': 'ARTELIA - Mme Sandrine CHABOUD', 'coordonnees1': 'https://jobs.smartrecruiters.com/Artelia/743999947043197-ingenieure-ingenieur-data', 'urlPostulation': 'https://jobs.smartrecruiters.com/Artelia/743999947043197-ingenieure-ingenieur-data'}",,1,False,6,Employé qualifié,71.12B,71,"Ingénierie, études techniques",,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165MSWS'}",False,,,,,,
-165MSVZ,Data Project Manager F/H (H/F),"Description du poste
-Garant du patrimoine de l'entreprise, Artelia Digital Solutions (ADS) a pour principaux objectifs de développer les synergies entre Business Unit, d'accompagner le groupe dans ses projets de croissance, de promouvoir la transformation numérique et l'innovation au bénéfice de l'ensemble du groupe.
-En sus, ADS véritable ""Business Partner"" se doit de faciliter l'extension du Système d'Information vers les clients, qui s'accélère avec la mouvance du Cloud. Par ailleurs, ADS doit garantir un haut niveau de sécurité, car le groupe, au fur et à mesure qu'il grossit, augmente sa surface d'exposition.
-ADS accompagne le groupe dans ses projets de croissance, de promotion de la transformation numérique et l'innovation au bénéfice de l'ensemble du groupe. Vous intégrez l'équipe du département Data Office [PR1] en charge de fournir les plateformes et outils au service des processus internes et de support à la Production.
-En tant que Project Manager / Product Owner DATA, vous pilotez la roadmap des solutions Data au sein du programme Global IT pour identifier, comprendre et anticiper les besoins des métiers des différentes Business Unit du Groupe Artelia.
-La valeur ajoutée des solutions Data que vous concevrez et piloterez sera un driver quotidien important. Pour cela, il sera crucial de développer votre réseau auprès des interlocuteurs clés des Business Units pour bien comprendre leurs problématiques et leurs enjeux.
-La connaissance de l'ingénierie dans les domaines métiers couverts par Artelia serait un plus : Energie, Eau, Industrie, Bâtiment et/ou Mobilité.
-Vous aurez également la charge d'animer le backlog des solutions Data et de prioriser les User Stories.
-Vos travaux devront s'intégrer dans la roadmap des programmes de digitalisation des activités d'Artelia.
-Vos principales missions seront :
-* Piloter la roadmap des solutions Data pour le groupe Artelia
-* Participer à l'animation de la gouvernance des données du groupe Artelia
-* Animer les key users métiers en lien avec la roadmap Data
-* Créer et animer le backlog des solutions Data
-* Rédiger les users stories et spécifications détaillées
-* Animer et formaliser le dictionnaire de données du groupe
-* Hiérarchiser les différentes tâches et objectifs
-* Réaliser des tests et évaluations sur le product backlog à toutes les étapes du projet
-* Communiquer la vision à l'équipe projet et prioriser leur travail
-* Présenter le produit au client et réaliser les premiers tests utilisateurs avant de récolter leurs retours en vue des évolutions/corrections
-* Veiller à ce que le produit soit livré, et qu'il respecte le budget et les délais.
-* Participer à l'exploitation et au support des utilisateurs
-* Optimiser la gestion des demandes :
-    * Fournir des KPI de suivi des performances des solutions
-    * Être force de proposition dans l'optimisation des processus
-Vous contribuez à l'obtention de la certification ISO 20000 garantissant que les processus de gestion de services IT sont conformes aux besoins des activités d'Artelia et aux bonnes pratiques internationales.
-L'environnement technique de la plateforme sur laquelle vous travaillerez est le suivant :
-* Snowflake (Core Data Platform)
-* PowerBI (Data Vizualisation)
-* AWS Cloud Services (S3, Kendra, Lambda, Lex, openSearch, Sagemaker )
-* Azure DevOps (Product management & CI/CD)
-* Systèmes source de la Data Platform : ERP, CRM, HR IS, Filer, IOT, BIM, GIS 
-Votre environnement :
-* Une entreprise animée par une raison d'être impactante : « Créer des solutions pour une vie positive »
-* Des valeurs présentes au quotidien : exigence, simplicité, partage, indépendance, passion
-* Un engagement fort en termes de Responsabilité Sociétale de l'Entreprise
-* Un contexte international stimulant
-* Une équipe qui valorise l'autonomie et la solidarité
-* Des conditions de travail favorables (équilibre, formation, avantages)
-* Une localisation",2023-11-28T12:48:42.000Z,2023-11-29T10:49:00.000Z,"{'libelle': '38 - GRENOBLE', 'latitude': 45.182081, 'longitude': 5.7243, 'codePostal': '38000', 'commune': '38185'}",M1803,Direction des systèmes d'information,Project Manager,"{'nom': 'ARTELIA', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,"[{'code': '109797', 'libelle': ""Définir la stratégie des systèmes d'informations"", 'exigence': 'S'}, {'code': '109800', 'libelle': 'Procéder au choix de réalisation, de traitement en interne ou par sous-traitance et en contrôler la conformité de réalisation', 'exigence': 'S'}]","{'commentaire': 'compétitif', 'complement1': 'Autre'}",35H Travail en journée,Temps plein,False,"{'nom': 'ARTELIA - Mme Sandrine CHABOUD', 'coordonnees1': 'https://jobs.smartrecruiters.com/Artelia/743999947042962-data-project-manager-f-h', 'urlPostulation': 'https://jobs.smartrecruiters.com/Artelia/743999947042962-data-project-manager-f-h'}",,1,False,6,Employé qualifié,71.12B,71,"Ingénierie, études techniques",,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165MSVZ'}",False,,,,,,
-165MSVJ,DATA MANAGER H/F,"La date limite de dépôt des candidatures (CV et lettre de motivation) à déposer sur le site web du CHU est le 12 décembre 2023.
-
-Rattaché à la Plateforme Méthodologie-Biostatistiques, ce data-Manager devra veiller à la cohérence et à la qualité des données issues des études cliniques en assurant les missions suivantes :
-1. Missions générales
-- Participation à l'élaboration des cahiers d'observations électroniques des études (e-CRFs) et à leur validation
-- Définition et paramétrage du plan de validation des données
-- Production et gestion des demandes d'information et/ou de correction de données
-- Production des tableaux de bords adaptés aux besoins de chaque étude
-- Préparation des réunions de revue des données Transfert de données cliniques et biologiques (import, export)
-- Préparation de l'analyse des données (export et gel de base)
-- Aide à l'élaboration et à la mise en place de procédures en lien direct avec son activité
-Connaissances:
-Informatique : logiciels dédiés
-- Connaissance des Système de Gestion de Base de Données - Les solutions logiciel de gestion de données cliniques eNNOV Clinical et REDCap étant utilisées, leur connaissance est fortement souhaitée
-- La connaissance de la recherche clinique est fortement souhaitée
-- Langages de programmation tels que SQL, SAS, R
-- Bases de données : MySQL, Oracle, Access
-- Autres logiciels : logiciels de bureautique
-- Statistiques : statistiques descriptives
-- Droit relatif au traitement des données informatiques, vocabulaire médical, anglais médical, méthodologie de conduite d'essais cliniques
-Télétravail possible (maximum 2 jours par semaine)",2023-11-28T12:47:53.000Z,2023-11-29T09:23:54.000Z,"{'libelle': '86 - POITIERS', 'latitude': 46.586616, 'longitude': 0.356849, 'codePostal': '86000', 'commune': '86194'}",M1802,Expertise et support en systèmes d'information,Data manager,"{'nom': 'CHU LA MILETRIE', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,"[{'code': '300195', 'libelle': ""Concevoir un logiciel, un système d'informations, une application"", 'exigence': 'S'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'S'}, {'code': '300495', 'libelle': 'Évaluer le résultat de ses actions', 'exigence': 'S'}, {'libelle': 'dynamisme, sens relationnel,', 'exigence': 'S'}, {'libelle': 'langages de programmation', 'exigence': 'E'}]","{'commentaire': 'Fonction Publique Hospitalière', 'complement1': 'Autre'}",35H Possibilité de télétravail,Temps plein,False,"{'coordonnees1': 'https://carrieres.candidatus.com/annonce-emploi,chupoitiers-17212,data-manager-h-f', 'urlPostulation': 'https://carrieres.candidatus.com/annonce-emploi,chupoitiers-17212,data-manager-h-f'}",,1,False,9,Cadre,86.10Z,86,Activités hospitalières,"[{'libelle': ""Faire preuve d'autonomie"", 'description': ""Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise).""}, {'libelle': 'Organiser son travail selon les priorités et les objectifs', 'description': 'Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser.'}, {'libelle': 'Faire preuve de rigueur et de précision', 'description': ""Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles.""}]","{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165MSVJ'}",False,,"[{'codeFormation': '31029', 'domaineLibelle': 'master data management', 'niveauLibelle': 'Bac+5 et plus ou équivalents', 'commentaire': 'data management clinique,', 'exigence': 'E'}, {'codeFormation': '31029', 'domaineLibelle': 'master data management', 'niveauLibelle': 'Bac+3, Bac+4 ou équivalents', 'commentaire': 'data management clinique,', 'exigence': 'E'}]",,,,2 jours / semaine
-165MNSS,Data Analyst (H/F),"Analyse de la performance business 
-
-Analyser la performance business (transactions, ventes ) selon différents niveaux de granularité (dayparts, zones géographiques, typologies de bâtiments ) et au prisme des différents leviers stratégiques et de contexte
-Rédiger des recommandations stratégiques à destination du comité exécutif & des équipes internes
+Rejoindre Amiltone, c'est intégrer des équipes dynamiques et soudées dans le cadre de projets novateurs et ambitieux. Nous relevons les challenges techniques de nos clients et les accompagnons dans leur transformation digitale.
 
 
-Pilotage de la performance 
 
-Accompagner les équipes métiers dans l'analyse de la performance (campagnes, enjeux opérationnels, canaux) : insights, analyses et outils d'aide à la décision en amont et en aval des projets
-Traiter les demandes ou analyses Ad hoc suivant l'actualité de l'Enseigne et les différentes demandes (Marketing / Achats / Opérations/Région/Franchisés/DSI )
+Pourquoi choisir Amiltone ? 
+
+Amiltone, plus qu'une entreprise, un état d'esprit !
+
+Notre objectif ? Votre épanouissement professionnel !
+
+Nous avons à cœur de :
+
+Vous accompagner au mieux au travers d'un suivi personnalisé
+
+Vous faire monter en compétences en vous proposant des formations tout au long de      votre carrière
+
+Comprendre vos besoins et respecter nos engagements
+
+Vous proposer des missions de qualité avec des technologies innovantes
+
+Cultiver votre potentiel grâce à notre programme de développement personnel Addvise
 
 
-Gestion de la donnée 
 
--         Manipuler une base de données conséquente et en extraire une donnée intelligible et pertinente pour répondre aux enjeux de l'entreprise  
+Votre bien-être passe aussi par des activités extraprofessionnelles, c'est pourquoi nous vous proposons des séances sportives animées par nos coachs, soirées pour se retrouver et animations (à l'agence ou en visio), Gaming nights...
 
--         Monitorer la qualité de la donnée, en étroite collaboration avec la DSI en France et aux Etats-Unis 
+Vos missions ?
 
--         Être force de proposition sur les solutions de gestion de la donnée et récolter les besoins du département pour adapter la solution aux problématiques de l'équipe 
+Intégré à nos équipes, vous assurez les missions suivantes : 
 
-Pour réaliser vos missions, vous travaillerez en collaboration transversale avec différents départements de l'entreprise comme la DSI, le marketing, les opérations, les achats, les franchisés",2023-11-28T11:30:41.000Z,2023-12-01T14:37:10.000Z,"{'libelle': '78 - GUYANCOURT', 'latitude': 48.772925, 'longitude': 2.069679, 'codePostal': '78280', 'commune': '78297'}",M1403,Études et prospectives socio-économiques,Data analyst,"{'nom': 'SERMANN OLIVIER', 'description': ""Nous sommes spécialites de la formation professionnelle et certifiés Qualiopi.\nNous offrons également des prestations de conseil en recrutement dans tous les domaines avec la possibilité d'avoir des mandats sur près de 1000 offres d'emploi"", 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,E,4 ans,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'libelle': 'Micro Strategy', 'exigence': 'E'}, {'libelle': 'Power BI', 'exigence': 'E'}, {'libelle': 'SQL', 'exigence': 'E'}, {'libelle': 'python', 'exigence': 'E'}]","{'libelle': 'Annuel de 38000,00 Euros sur 12 mois'}",40H Travail en journée,Temps plein,False,"{'nom': 'SERMANN OLIVIER - M. Olivier Sermann', 'coordonnees1': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/165MNSS', 'courriel': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/165MNSS'}",,1,False,9,Cadre,70.22Z,70,Conseil pour les affaires et autres conseils de gestion,"[{'libelle': 'Faire preuve de curiosité', 'description': ""Capacité à aller chercher au-delà de ce qui est donné à voir, à s'ouvrir sur la nouveauté et à investiguer pour comprendre et agir de façon appropriée.""}, {'libelle': 'Inspirer, donner du sens', 'description': ""Capacité à transmettre un message afin de susciter la réflexion et guider l'action.""}, {'libelle': ""Être à l'écoute, faire preuve d'empathie"", 'description': ""Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie.""}]","{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165MNSS'}",False,,,2,Ponctuels Zone départementale,,
+Analyse du besoin client
+
+Proposition d'une architecture au client
+
+Développement de flux (ETL/ESB)
+
+Implémentation du stockage (Relationnel/NoSQL)
+
+Proposition de restitution (Reporting/BI/Supervision)
+
+Préconisation matérielle selon besoin du client
+
+Implémentation chez le client
+
+
+
+La Stack Technique :
+
+ Outils :
+
+ETL/ESB : Talend, WSO2
+
+BI : Qlik, PowerBI, Jasper, BIRT, SpagoBI, Knowage
+
+Bases de Données :
+
+Relationnelle : Oracle, SQL Server, MySQL PostgreSQL
+
+NoSQL : MongoDB, Cassandra, InfluxDB, Elastic, SolR 
+
+Traitements Batch (ETL) et Bus de données
+
+Connaissance SI (infrastructure, réseau, Haute Dispo, Amazon)
+
+Connaissance développement : Java, Html, Javascript, Python, script Shell
+
+Alors ? Prêt à devenir Amiltonien ? 
+
+N'hésitez pas à postuler si vous vous reconnaissez :
+
+Diplômé Bac+4/5 (Master ou école d'ingénieur) vous disposez de 2 ans d'expérience en tant que Consultant Data.
+
+Plus que des compétences techniques, vous avez une curiosité naturelle et un fort esprit d'analyse. Vous pouvez monter en compétences en autonomie et prendre en main de nouveaux projets pour répondre aux problématiques que vous gérez.
+
+
+
+Nos postes sont ouverts aux personnes en situation de handicap.",2023-11-24T12:00:21.000Z,2024-01-04T17:11:52.000Z,"{'libelle': '13 - AIX EN PROVENCE', 'latitude': 43.541369, 'longitude': 5.406124, 'codePostal': '13090', 'commune': '13001'}",M1403,Études et prospectives socio-économiques,Data scientist,"{'nom': 'AMILTONE', 'logo': 'https://entreprise.pole-emploi.fr/static/img/logos/Y2a06PbfBkKuehI7EbuhdsnadtRIidJg.png', 'url': 'https://www.amiltone.com/', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '300119', 'libelle': 'Réaliser une veille documentaire', 'exigence': 'S'}]","{'libelle': 'Annuel de 26000,00 Euros à 36000,00 Euros sur 12 mois'}",35H Travail en journée,Temps plein,False,"{'nom': 'AMILTONE - Mme Floriane HUE', 'coordonnees1': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/165JNGF', 'courriel': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/165JNGF'}",1,False,9,Cadre,62.01Z,62,Programmation informatique,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165JNGF'}",False,,,,,,,,
+165GXSJ,Ingénieur DATA-BI Talend (H/F),"LE CLIENT, votre futur employeur :
+Le siège social de notre client est ancré dans des valeurs fortes de solidarité, de proximité et d'éthique. Présent sur l'ensemble du territoire national, le groupe compte plus de 900 collaborateurs et 600 000 clients.
+Rattaché au responsable du service data et au sein d'une équipe de 9 personnes, vous participez aux projets d'intégrations et de datavisualisation.
+Organisée en méthodologie SCRUM (daily et sprint de 2 semaines), vous organisez votre temps de travail en agilité (télétravail possible jusqu'à 2j / semaine) en accord avec la roadmap définie par le responsable de service et le scrum master.
+
+Vous participerez aux cérémonies agiles et aux code review de l'équipe.
+Infrastructure et intégration :
+
+Concevoir, développer et tester des solutions (intégration, tableau de bord)
+Consolider et nettoyer les données avant intégration au Data Lake
+
+Maintenance corrective et évolutive de l'application :
+Analyser et traiter les tickets backlog
+Prendre part aux développements de fonctionnalités d'évolutions
+Rédiger les résolutions d'incidents et documentations d'évolutions
+Participer à la reprise de données
+
+Test et qualité :
+Rédiger, réaliser et valider les tests unitaires
+Réaliser les tests de charge
+Programmer les tests quantitatifs et qualitatifs
+
+Supervision :
+Suivre l'exploitation à l'aide des outils de supervision
+Créer et mettre à jour les tableaux de bords / rapports / KPI et dataviz
+
+Profil recherché
+Diplômé.e d'un BAC +4/5 d'université ou d'école d'ingénieur et vous avez minimum 2 ans d'expériences en tant qu'ingénieur BI dans une structure de taille similaire, idéalement dans un service ayant industrialisé ses processus.
+
+Vous mettez votre rigueur au service de la business intelligence / l'informatique décisionnelle et votre autonomie participe à l'évolution de l'ensemble des outils de la société.
+
+Vous maitrisez :
+Langage et requêtes SQL
+Outils d'ETL (Talend, SAP Business Object, Informatica, Kafka, etc.)
+
+Début : ASAP, préavis accepté
+Une partie des avantages : télétravail 2 jours, 22 jours de RTT",2023-11-23T10:57:11.000Z,2024-01-02T17:31:47.000Z,"{'libelle': '83 - TOULON', 'latitude': 43.136385, 'longitude': 5.933457, 'codePostal': '83000', 'commune': '83137'}",M1805,Études et développement informatique,Développeur(se) décisionnel - Business Intelligence,"{'nom': 'OMNICIEL PROFILS ET SOLUTIONS', 'description': ""Omniciel, cabinet de recrutement spécialisé en IT & Digital, recherche pour ses clients de nouveaux collaborateurs : De formation en informatique type BAC+2/3 ou Ecole d'Ingénieurs vous justifiez d'une première expérience en développement. Vos expériences en stage seront prises en compte. Vous avez une bonne maitrise des langages de programmation orienté objet et vous savez vous approprier rapidement un nouveau langage."", 'logo': 'https://entreprise.pole-emploi.fr/static/img/logos/64221789fa524da7aefce1a8f909113d.png', 'url': 'http://www.omniciel.fr', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,E,24 mois,"[{'code': '300688', 'libelle': 'Application web', 'exigence': 'S'}, {'code': '109846', 'libelle': 'Concevoir une application web', 'exigence': 'S'}, {'code': '300188', 'libelle': 'Rédiger un cahier des charges, des spécifications techniques', 'exigence': 'S'}, {'code': '300242', 'libelle': 'Déterminer des mesures correctives', 'exigence': 'S'}, {'code': '300366', 'libelle': 'Recueillir et analyser les besoins client', 'exigence': 'S'}, {'libelle': 'Maitriser les notions de SSIS / SSAS / SSRS', 'exigence': 'S'}, {'libelle': 'Méthodologie SCRUM dans un service DATA', 'exigence': 'S'}, {'libelle': 'Outils de restitution / dashboard', 'exigence': 'S'}, {'libelle': 'Power BI, Qlik, SAP BI', 'exigence': 'S'}]","{'libelle': 'Annuel de 48000,00 Euros à 52000,00 Euros sur 13 mois', 'complement1': 'Primes'}",35H Travail en journée,Temps plein,False,"{'nom': 'OMNICIEL PROFILS ET SOLUTIONS - M. Samuel Masson', 'coordonnees1': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/165GXSJ', 'courriel': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/165GXSJ'}",1,False,9,Cadre,62.02A,62,Conseil en systèmes et logiciels informatiques,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165GXSJ'}",False,"[{'niveauLibelle': 'Bac+5 et plus ou équivalents', 'exigence': 'S'}, {'niveauLibelle': 'Bac+3, Bac+4 ou équivalents', 'exigence': 'S'}]",1,Jamais,"[{'libelle': 'Travailler en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés.""}, {'libelle': ""Faire preuve d'autonomie"", 'description': ""Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise).""}, {'libelle': 'Faire preuve de rigueur et de précision', 'description': ""Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles.""}]",,,,
+165GXPW,Ingénieur DATA-BI (H/F),"LE CLIENT, votre futur employeur :
+Le siège social de notre client est ancré dans des valeurs fortes de solidarité, de proximité et d'éthique. Présent sur l'ensemble du territoire national, le groupe compte plus de 900 collaborateurs et 600 000 clients.
+
+Rattaché au responsable du service data et au sein d'une équipe de 9 personnes, vous participez aux projets d'intégrations et de datavisualisation.
+
+Organisée en méthodologie SCRUM (daily et sprint de 2 semaines), vous organisez votre temps de travail en agilité (télétravail possible jusqu'à 2j / semaine) en accord avec la roadmap définie par le responsable de service et le scrum master.
+Vous participerez aux cérémonies agiles et aux code review de l'équipe.
+Infrastructure et intégration :
+Concevoir, développer et tester des solutions (intégration, tableau de bord)
+Consolider et nettoyer les données avant intégration au Data Lake
+Maintenance corrective et évolutive de l'application :
+Analyser et traiter les tickets backlog
+Prendre part aux développements de fonctionnalités d'évolutions
+Rédiger les résolutions d'incidents et documentations d'évolutions
+Participer à la reprise de données
+
+Test et qualité :
+Rédiger, réaliser et valider les tests unitaires
+Réaliser les tests de charge
+Programmer les tests quantitatifs et qualitatifs
+
+Supervision :
+Suivre l'exploitation à l'aide des outils de supervision
+Créer et mettre à jour les tableaux de bords / rapports / KPI et dataviz
+
+Profil recherché
+
+Diplômé.e d'un BAC +4/5 d'université ou d'école d'ingénieur et vous avez minimum 2 ans d'expériences en tant qu'ingénieur BI dans une structure de taille similaire, idéalement dans un service ayant industrialisé ses processus.
+
+Vous mettez votre rigueur au service de la business intelligence / l'informatique décisionnelle et votre autonomie participe à l'évolution de l'ensemble des outils de la société.
+
+Vous maitrisez :
+Langage et requêtes SQL
+Outils d'ETL (Talend, SAP Business Object, Informatica, Kafka, etc.)
+
+Début : ASAP, préavis accepté
+Localisation : Aix-en-provence
+Une partie des avantages : télétravail 2 jours, 22 jours de RTT",2023-11-23T10:55:34.000Z,2024-01-03T18:23:20.000Z,"{'libelle': '13 - AIX EN PROVENCE', 'latitude': 43.541369, 'longitude': 5.406124, 'codePostal': '13090', 'commune': '13001'}",M1805,Études et développement informatique,Développeur(se) décisionnel - Business Intelligence,"{'nom': 'OMNICIEL PROFILS ET SOLUTIONS', 'description': ""Omniciel, cabinet de recrutement spécialisé en IT & Digital, recherche pour ses clients de nouveaux collaborateurs : De formation en informatique type BAC+2/3 ou Ecole d'Ingénieurs vous justifiez d'une première expérience en développement. Vos expériences en stage seront prises en compte. Vous avez une bonne maitrise des langages de programmation orienté objet et vous savez vous approprier rapidement un nouveau langage."", 'logo': 'https://entreprise.pole-emploi.fr/static/img/logos/64221789fa524da7aefce1a8f909113d.png', 'url': 'http://www.omniciel.fr', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,E,24 mois - ingénieur BI,"[{'code': '300688', 'libelle': 'Application web', 'exigence': 'S'}, {'code': '109846', 'libelle': 'Concevoir une application web', 'exigence': 'S'}, {'code': '300188', 'libelle': 'Rédiger un cahier des charges, des spécifications techniques', 'exigence': 'S'}, {'code': '300242', 'libelle': 'Déterminer des mesures correctives', 'exigence': 'S'}, {'code': '300366', 'libelle': 'Recueillir et analyser les besoins client', 'exigence': 'S'}, {'libelle': 'Maitriser les notions de SSIS / SSAS / SSRS', 'exigence': 'S'}, {'libelle': 'Méthodologie SCRUM dans un service DATA', 'exigence': 'S'}, {'libelle': 'Outils de restitution / dashboard', 'exigence': 'S'}]","{'libelle': 'Annuel de 48000,00 Euros à 52000,00 Euros sur 13 mois', 'complement1': 'Primes'}",35H Travail en journée,Temps plein,False,"{'nom': 'OMNICIEL PROFILS ET SOLUTIONS - M. Samuel Masson', 'coordonnees1': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/165GXPW', 'courriel': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/165GXPW'}",1,False,9,Cadre,62.02A,62,Conseil en systèmes et logiciels informatiques,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165GXPW'}",False,"[{'niveauLibelle': 'Bac+5 et plus ou équivalents', 'exigence': 'S'}, {'niveauLibelle': 'Bac+3, Bac+4 ou équivalents', 'exigence': 'S'}]",1,Jamais,"[{'libelle': 'Travailler en équipe', 'description': ""Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés.""}, {'libelle': ""Faire preuve d'autonomie"", 'description': ""Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise).""}, {'libelle': 'Faire preuve de rigueur et de précision', 'description': ""Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles.""}]",ingénieur BI,,,
+165BDKT,Data Analyst expérimenté Business (H/F),"Si tu es animé(e) par la passion de transformer les chiffres en récits concrets et porteurs de sens, à l'instar de l'esprit novateur d'Archimède, et que tu as le sens de l'écoute des besoins métier du client, tu pourrais être le Data Analyst (H/F) expérimenté(e) business que nous recherchons. Rejoins notre équipe pour apporter ton expertise et ton talent d'analyse, et deviens le/la visionnaire des données qui révèlera de nouvelles perspectives métier. En tant que professionnel(le) expérimenté(e), tu connais divers aspects du traitement de la donnée dans les entreprises, qu'il s'agisse des flux, de la BI, de l'analytique métier, de la gestion, de la logistique, du commerce, du SAV, et bien plus encore.
+
+Equipe:
+Le pôle Data est constitué de 7 spécialistes qui travaillent en étroite collaboration avec les différents pôles de l'agence. En tant que membre de ce pôle, tu seras en contact direct avec les membres du pôle Data, les chefs de projet, les architectes techniques et les responsables hiérarchiques de l'agence.
+
+Scope, Sujets :
+Données métier, données d'entreprise, approche data driven, business intelligence, analyse statistique, collecte, exploration, consolidation, transformation de données, data visualisation, storytelling.
+
+Types de projets:
+Analyse de performances marketing, optimisation de la chaîne d'approvisionnement et l'identification d'opportunités de croissance, analyse de données ouvertes, scraping, analyse statistique au cas par cas.
+
+Stack technique:
+Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, SQL (MySQL, PostgreSQL), Scikit-Learn, StatsModels, NLTK, SpaCy, Tableau, Looker, JIRA, Trello, Git, GitHub, Asana.
+
+Candidat.e
+Passionné(e) par l'analyse de données, tu es un(e) expert(e) qui comprend parfaitement les besoins métier des entreprises et écoute attentivement les clients. Tu excelles également dans la dataviz, le storytelling et la transformation de données en insights stratégiques pour innover.
+
+Tes missions:
+Dans une agence de 100 personnes, au sein d'une équipe de 7 personnes, et sous la responsabilité de notre CTO et du directeur de pôle, tu auras pour mission de :
+
+- Analyser et visualisation des données
+- Analyser les données pour identifier les tendances pertinentes
+- Traduire les besoins métier en questions analytiques
+- Créer des tableaux de bord interactifs et visuels
+Optimisation et amélioration:
+- Évaluer les performances actuelles et proposer des améliorations
+- Mettre en place des modèles prédictifs pour anticiper les tendances
+- Fournir des recommandations stratégiques basées sur les analyses
+- Suivre l'impact des décisions et ajuster les stratégies
+Communication et présentation:
+- Présenter clairement les résultats et les insights aux équipes
+Veille technologique: 
+- Rester à jour avec les dernières tendances en analyse de données
+
+
+Ton profil:
+Exigence
+Nous attendons de toi une grande expertise dans l'analyse de données et la capacité à résoudre des problèmes complexes. Tu devras être capable de traduire les besoins métier en questions analytiques pertinentes et de fournir des réponses exploitables.
+
+Passion:
+Tu te caractérises par une passion ardente pour l'exploration des données, une curiosité insatiable et un désir constant d'apprendre. Tu devras être orienté(e) vers les résultats, méthodique dans ton approche, et avoir une forte capacité à communiquer efficacement les résultats de ton analyse.
+
+Ouverture:
+Comme nous, tu regardes le monde entier avec intérêt : tu aimes rencontrer des gens d'origines diverses, tu parles ou apprends plusieurs langues, les autres cultures sont des sources d'inspiration, tu peux ou souhaiterais voyager. Tu es ouvert(e) aux richesses de l'autre.
+
+
+Formation:
+Bac+5, M2 ou équivalent
+
+ Nous avons tous des imperfections ou un handicap et c'est aussi une force : tu peux nous partager le tien.",2023-11-20T09:58:42.000Z,2024-01-02T10:15:17.000Z,"{'libelle': '84 - AVIGNON', 'latitude': 43.936694, 'longitude': 4.845053, 'codePostal': '84000', 'commune': '84007'}",M1403,Études et prospectives socio-économiques,Data analyst,"{'nom': 'AGENCE GLANUM', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,E,3 ans,"[{'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'E'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'E'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'E'}, {'libelle': 'Git', 'exigence': 'S'}, {'libelle': 'Jira', 'exigence': 'S'}, {'libelle': 'Looker', 'exigence': 'E'}, {'libelle': 'NoSQL', 'exigence': 'S'}, {'libelle': 'Power BI', 'exigence': 'E'}, {'libelle': 'Python', 'exigence': 'E'}, {'libelle': 'SQL', 'exigence': 'E'}, {'libelle': 'SpaCy', 'exigence': 'S'}, {'libelle': 'StatsModels', 'exigence': 'S'}, {'libelle': 'Trello', 'exigence': 'S'}]","{'commentaire': 'Selon le profil', 'complement1': 'Pc portable', 'complement2': 'Autre'}",35H Travail en journée,Temps plein,False,"{'coordonnees1': 'https://www.glanum.com/recrutement/data-analyst-business/', 'urlPostulation': 'https://www.glanum.com/recrutement/data-analyst-business/'}",1,False,8,Agent de maîtrise,70.22Z,70,Conseil pour les affaires et autres conseils de gestion,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/165BDKT'}",False,"[{'niveauLibelle': 'Bac+5 et plus ou équivalents', 'exigence': 'E'}]",2,Ponctuels Zone nationale,"[{'libelle': 'Faire preuve de curiosité', 'description': ""Capacité à aller chercher au-delà de ce qui est donné à voir, à s'ouvrir sur la nouveauté et à investiguer pour comprendre et agir de façon appropriée.""}, {'libelle': ""Faire preuve de créativité, d'inventivité"", 'description': 'Capacité à créer, imaginer quelque chose de nouveau (nouveau produit, nouvelle solution, …).'}, {'libelle': 'Faire preuve de rigueur et de précision', 'description': ""Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles.""}]",,"[{'libelle': 'Anglais', 'exigence': 'E'}]",,
+164YCGP,Délégué / Déléguée à la protection des données - Data Protection Officer,"Vous serez amenés à vous déplacer sur la région Corse. 
+
+Vos missions principales sont :
+-  Informer et conseiller nos clients sur les enjeux de protection des données rencontrés et sur les obligations qui leur incombent
+-  Accompagner les DPO ou Référents RGPD dans leurs missions quotidiennes de respect de la conformité ou assurer la mission en tant que DPO externalisé auprès de nos clients (article 37 à 39 du RGPD)
+-  Construire, maintenir et améliorer une culture de protection de la vie privée et des données personnelles par la prévention, la détection et les réponses aux questions de conformité
+-  Piloter les travaux de suivi ou de mise en conformité : suivi de plan d'actions de mise en conformité, rédaction de politiques, procédures, clauses contractuelles, plan d'actions etc.
+-  Réaliser des audits de conformité et élaborer les plan d'actions associés
+-  Dispenser des formations ou sessions de sensibilisation auprès de nos clients
+-  Suivre l'évolution et veiller au respect des dispositions réglementaires, légales ou doctrinales relatives à la protection des données personnelles ainsi qu'aux domaines opérationnels associés
+-  Prodiguer des conseils auprès de la direction et des consultants du cabinet et travailler de concert avec les équipes cybersécurité le cas échant
+-  Réaliser de la prévention, formation, et sensibilisation des collaborateurs en interne
+
+Mais aussi
+-  Prendre part aux actions de développement commercial du cabinet (contribution active à la création de nouvelles offres, avant-vente, participation aux soutenances clients), actions de communication externe, représentation de l'entreprise dans le cadre d'événements
+
+
+De formation juridique vous justifiez de minimum 2 ans d'expérience en entreprise, cabinet de conseil ou en cabinet d'avocats. Une certification DPO est un plus.
+
+Idéalement, vous présentez des connaissances techniques en matière de sécurité informatique, de fonctionnement des systèmes d'information, site internet
+
+Vous aimez le travail en équipe, êtes réactif et savez gérer les imprévus, vous faites preuve d'écoute et d'aisance relationnelle et savez vous adapter à tous les niveaux d'interlocuteurs d'une entreprise.",2023-11-16T15:16:51.000Z,2024-01-03T18:54:39.000Z,"{'libelle': '2B - PENTA DI CASINCA', 'latitude': 42.453419, 'longitude': 9.499185, 'codePostal': '20213', 'commune': '2B207'}",K1903,Défense et conseil juridique,Délégué(e) à la protection des données - DPO,"{'nom': 'Nota Bene', 'description': ""Notre structure basée en Casinca depuis 25 ans est spécialisée dans l'assistanat médico-administratif.\nNous réalisons tous types de travaux administratifs, secrétariat téléphonique, gestion d'agenda, prise de RDV, dactylographie, copies, télécopies, courriels, reliure, numérisation, carte grise, permis de conduire...."", 'logo': 'https://entreprise.pole-emploi.fr/static/img/logos/ocBmqI7t30AukBdX75um4BTWAXkkIXdk.png', 'url': 'http://www.notabene.corsica', 'entrepriseAdaptee': False}",CDI,Contrat à durée indéterminée,Contrat travail,E,24 mois,"[{'code': '140939', 'libelle': 'Documentation du Délégué à la protection des données', 'exigence': 'E'}, {'code': '115246', 'libelle': ""Veiller au respect de la loi Informatique et Libertés et du RGPD dans l'entreprise, gérer la liste des traitements de données à caractère personnel, faire l'interface avec la Commission Nationale de l'Informatique et des Libertés - CNIL"", 'exigence': 'E'}, {'code': '300119', 'libelle': 'Réaliser une veille documentaire', 'exigence': 'S'}, {'code': '300126', 'libelle': 'Créer une documentation technique', 'exigence': 'S'}, {'code': '300338', 'libelle': 'Appliquer un cadre juridique ou réglementaire', 'exigence': 'E'}]","{'libelle': 'Mensuel de 2400,00 Euros à 2550,00 Euros sur 12 mois', 'complement1': 'Primes', 'complement2': 'Véhicule'}",35H Travail en journée,Temps plein,False,"{'nom': 'Nota Bene - M. Guillaume Bousquet', 'coordonnees1': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/164YCGP', 'courriel': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/164YCGP'}",1,False,9,Cadre,82.11Z,82,Services administratifs combinés de bureau,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/164YCGP'}",False,,3,Fréquents Zone régionale,"[{'libelle': ""Faire preuve d'autonomie"", 'description': ""Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise).""}, {'libelle': 'Organiser son travail selon les priorités et les objectifs', 'description': 'Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser.'}]",,,"[{'libelle': 'B - Véhicule léger', 'exigence': 'E'}]",
+164XVLK,Data analyst (H/F),"Sous la responsabilité du chef de projet et en relation avec notre prestataire technique; vous serez en charge de: 
+1/ vous assurer que l'ensemble des données attendues ont été collectés, que les traitements des données et les data mapping ont bien été exécutés
+2/ concevoir des « entrepôts de données » (datawarehouse) ; évaluer les données, les traiter et les resituer dans le système d'information cible.
+3/ croiser des données de l'entreprise avec celles mises à disposition et autres données du marché. 
+4/ donner du sens à ces données et en extraire de la valeur pour aider les décisionnaires à prendre des décisions stratégiques ou opérationnelles.
+
+vous préparerez pendant ce contrat d'apprentissage un des diplômes suivants :
+-	Master MIAGE, 
+-	Master en mathématiques appliquées, 
+-	Titre Data Scientist (Niveau 7 - titre RNCP) 
+-	Master ingénierie des mathématiques et data sciences 
+-	Formation Data Analyst",2023-11-16T12:27:08.000Z,2024-01-05T06:22:17.000Z,"{'libelle': '974 - LA POSSESSION', 'latitude': -20.942136, 'longitude': 55.359933, 'codePostal': '97419', 'commune': '97408'}",M1403,Études et prospectives socio-économiques,Data analyst,{'entrepriseAdaptee': False},CDD,Contrat à durée déterminée - 24 Mois,Contrat apprentissage,E,24 mois,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'E'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'E'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'E'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'E'}, {'code': '300457', 'libelle': ""Définir et faire évoluer des procédés de traitement de l'information"", 'exigence': 'E'}]","{'libelle': 'Mensuel de 1747,20 Euros sur 12 mois'}",35H Travail en journée,Temps plein,True,"{'nom': 'Pôle Emploi LA POSSESSION', 'coordonnees1': 'CENTRE DAFFAIRES ANSELLIA RDC BAT F 15 RUE DU MOULIN JOLI\nCS51131 LA POSSESSION', 'coordonnees2': '97419 LA POSSESSION', 'coordonnees3': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/164XVLK'}",1,False,8,Agent de maîtrise,46.35Z,46,Commerce de gros (commerce interentreprises) de produits à base de tabac,"{'origine': '1', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/164XVLK'}",False,,,,,,,,"{'courriel': 'Pour postuler, utiliser le lien suivant : https://candidat.pole-emploi.fr/offres/recherche/detail/164XVLK'}"
+6965342,DBA Développeur SQL/Big Data  MANTES LA VILLE 78 (H/F),"Dans le cadre dun important projet avec un groupe international, nous recherchons un DBA Développeur SQL / Big Data
+Vous serez amené(e) à réaliser les missions suivantes :
+ Administration et maintenance des serveurs de bases de données
+SQL Server 2008 R2 -> 2019 :
+ Gestion des autorisations daccès / Maintenance des bases / Surveillance des jobs / Gestion des backups / Installation nouvelles instances
+ Tuning et supervision avec DPA (Database Performance Analyser) de SolarWinds
+ Réplication des données (Réplication transactionnelle et Change Data Capture)
+ SSIS (Integration Services) : Maintenance des packages
+ Développement SQL
+ Intervention d'optimisation auprès des développeurs
+ Reporting
+- BO - Maintenance des univers - Gestion des droits daccès
+ Reporting Services : Maintenance des serveurs / Administration des droits / Développement de rapports
+ Accompagnement du projet de migration vers Google Cloud Platform : Big Query / Google Data Studio
+Compétences requises : Vous êtes issu(e) dune formation dadministrateur(trices) systèmes et réseaux, ayant des affinités avec les bases de données et maîtrisant les domaines de la business intelligence, du big data et du cloud.
+Vous aimez la rigueur et avez le sens de lorganisation.",2023-11-29T18:49:06.000Z,2023-11-29T18:49:06.000Z,"{'libelle': '78 - MANTES LA VILLE', 'latitude': 48.974694, 'longitude': 1.710809, 'codePostal': '78711', 'commune': '78362'}",M1805,Études et développement informatique,Développeur / Développeuse informatique,{'entrepriseAdaptee': False},CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,{},,,False,,1,False,9,Cadre,,,,"{'origine': '2', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/6965342', 'partenaires': [{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/0895a391a31fd881fa78f4df47176e95', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]}",,,,,,,,,
+6964867,"Coordinateur Litiges tarifaires et Master data, CDI, H/F","Overview Coordinateur Litiges tarifaires et Master data, CDI, H/F WHAT MAKES YOU UNIQUE, MAKE US BETTER Vous êtes à la recherche de nouveaux défis ? Vous êtes prêt à propulser votre carrière ? Postulez dès maintenant ! Venez exprimer vos talents et votre perspective unique chez nous. Nous vous donnerons les moyens doser à léchelle mondiale et de faire partie dun groupe qui fait la différence. Vous aurez lopportunité de booster votre carrière et de définir votre avenir dans un environnement collaboratif et innovant. Vous êtes passionné(e) par le domaine de Finance et souhaitez rejoindre une entreprise internationale dynamique, mais aussi une équipe fun et bienveillante. Les équipes Finance de PepsiCo France recherchent leur futur(e) Coordinateur Litiges tarifaires et Master data à partir du 1er février 2024. Responsibilities Votre quotidien avec nous : Le coordinateur Litiges tarifaires et Master data est en charge de collaborer efficacement avec léquipe en charge du master data dans le Centre de Service Partagé (CSP) dans le domaine des rabais, remises et ristournes. Ainsi il sassure de la bonne compréhension par le CSP des processus Master data ainsi que de lintégrité des données incluses dans les fichiers de communication interne. Il supervise également par le biais de tableau de bord lévolution des litiges par client et par catégorie. En relation avec les CSP, il coordonne la résolution des problèmes de son périmètre (1er niveau descalade). Il est également en charge des projets de simplification et doptimisation des process et systèmes de son périmètre sous la supervision du manager (rôle de Key user). Tâches & responsabilit és: Le poste de coordinateur Litiges tarifaires et Master data constitue linterface principale avec le centre de services partagés ; dans le cadre de réunions hebdomadaires avec celui-ci, il apporte un premier niveau dassistance sur les problèmes transactionnels (1er niveau descalade) en particulier dans les domaines suivants : Base de données Collaborer efficacement avec léquipe en charge du master data CSP dans le domaine des remises et ristournes et base de données clients afin de sassurer de la bonne compréhension par le CSP des processus Master data ainsi que de lintégrité des données incluent dans les fichiers de communication interne Gestion de la base tarifaire Valider les conditions de facturation (selon le mode de fonctionnement des systèmes) conformément aux politiques tarifaires et promotionnelles Contrôler les factures Contrôler la conformité des systèmes (Pricing, SAP) Gestion des litiges tarifaires Collaborer efficacement avec léquipe en charge de lanalyse des litiges tarifaires au sein du CSP afin de leur apporter laide nécessaire à la bonne exécution des tâches qui leur ont été confiées. Faciliter les échanges entre le CSP et les services internes afin de résoudre les litiges tarifaires Apporter ses connaissances et compétences SAP, en termes de lecture dune descente tarifaire et notes de débit clients Coordonner les dossiers sensibles entre les CSP et les équipes sales pour optimiser et réduire les délais de traitements / délai de remboursements. Suivi comptable - Clôture Revue du calcul des provisions mensuelles davoir à établir Interaction avec les Centres de Services Partagés (CSP) Travailler à loptimisation du flux opérationnel, de linteraction et de la communication avec le CSP (clients externes et internes) Superviser les activités effectuées par les CSP concernant les processus O2C (Order-to-Cash) et coordonne la résolution des problèmes et les escalade si nécessaire (point de contact 2ème niveau) Sassurer de la mise à jour des procédures écrites (DTP) Rôle de Key user Participer activement aux groupes de travail concernant son périmètre dactivité - Valider les spécifications fonctionnelles des évolutions prévues Exécuter les scénarii de test (UAT, FUT, E2E testings) Être support pour les phases de déploiement - Construire la documentation et la dispenser auprès des utilisateurs finaux (CSP) Qualifications Vos atouts pour être notre futur talent : Formation en finance ou supply chain Expérience professionnelle souhaitée 3-5 ans, Connaissance Master data et ou gestion litiges tarifaires Maîtrise de SAP (notamment les modules SD et FI) Bon niveau de maitrise d'Excel Une connaissance de lagro-alimentaire et des différents canaux de distribution (GMS, Hors-Domicile) Compétences requises (ex : langues, IT, management) Avoir une bonne compréhension des rôles des comptes clés et des impacts de lactivité sur la performance de lentreprise Net revenu et P& L . Maitrise avancée dExcel et de SAP Langlais est indispensable Collabore efficacement avec des personnes dhorizon divers, capable de travailler dans un environnement complexe avec des interlocuteurs multiples Capacité à structurer ses idées (conduite de projet) et à les communiquer de manière claire",2023-11-29T18:47:28.000Z,2023-11-29T18:47:28.000Z,"{'libelle': '92 - COLOMBES', 'latitude': 48.922535, 'longitude': 2.247799, 'codePostal': '92700', 'commune': '92025'}",M1802,Expertise et support en systèmes d'information,Data manager,{'entrepriseAdaptee': False},CDI,Contrat à durée indéterminée,Contrat travail,D,Débutant accepté,,{},,,False,,1,False,9,Cadre,,,,"{'origine': '2', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/6964867', 'partenaires': [{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/c83072fca92b52f600fbe20c346d2046', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]}",,,,,,,,,
+6964858,DATA Steward (IT) / Freelance (H/F),"- La manipulation de la donnée 
+oCréer des requêtes spécifiques pour interroger nos sources de données
+oContrôler que les données sont consistantes et organisées conformément aux règles métiers.
+oLister les données sensibles à mettre sous contrôle.
+- La définition et suivi de la qualité des données
+oRéaliser des audits de la donnée 
+oDéfinir les règles de formatage et de mise en qualité de la donnée 
+oMettre en ?uvre des actions correctives sur la donnée
+oFaire respecter les indicateurs de qualité de données 
+oMettre à jour les reportings pour monitorer la qualité des données
+oParticiper au déploiement des processus et règles de qualité des données définis
+oGarantir la maîtrise du cycle de vie de la donnée et sa qualité
+- S?assurer de la conformité des données et des traitements dans le respect de la réglementation sur la protection des données personnelles
+- Participer à la gestion des métadonnées 
+oCréer et mettre à jour la cartographie des données, des flux, des traitements
+oMettre à niveau les dictionnaires des données en collaboration avec les équipes techniques
+oCréer et mettre à jour des métadonnées techniques et fonctionnelles (nomenclature, référentiel notamment)
+- Alimenter la documentation et le(s) glossaire(s) partagés
+- Contribuer à l?animation des parties prenantes autour du cycle de vie de la donnée
+- Accompagner les data Owners dans la maitrise de la donnée
+- Contribuer aux différents projets data de la direction.
+Profil candidat:
+DATA Steward
+Compétences techniques requises
+- Très bonne compréhension des environnements Data et Big data
+- Bonne maîtrise de la conception et de la modélisation des données
+- Maîtrise le langage de requêtes SQL (BigQuery) 
+- Connaissance de l?outil de reporting Microsoft Power BI
+- La connaissance de Python et/ou PySpark serait un plus
+Compétences Fonctionnelles
+- Connaissance du domaine du Numérique et des médias (FAI, Agrégateur, Distributeur, SEO/SEA, )
+- Bonne connaissance des indicateurs marketing
+- Bonne connaissance de la réglementation (RGPD, CNIL)",2023-11-29T18:47:26.000Z,2023-11-29T18:47:26.000Z,"{'libelle': '75', 'commune': '75056'}",M1802,Expertise et support en systèmes d'information,Data manager,{'entrepriseAdaptee': False},LIB,Profession libérale,Emploi non salarié,D,Débutant accepté,,{},,,False,,1,False,,,,,,"{'origine': '2', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/6964858', 'partenaires': [{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/9d929e6945e6a750e9d54ed9362fe2e1', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]}",,,,,,,,,
+6963681,Data Steward (Santé) (IT) / Freelance (H/F),"DESCRIPTION DU POSTE
+Finalités
+En tant que Coordonnateur Data Management / Data Steward, vous êtes en charge de la coordination des data managers et data stewards impliqués dans le traitement des données permettant de garantir la mise en qualité des données et la mise à disposition de bases gelées qualitatives pour exploitation scientifique.
+Vos principaux objectifs sont de garantir l?intégrité et la cohérence des données, de vérifier que les données collectées, stockées et utilisées sont qualitatives (complétude, cohérence, conformité) et à jour, et d?assurer la standardisation de la data.
+Vous travaillerez majoritairement sur des données de santé de vie réelle. Ces données sont générées à l?occasion des soins réalisés en routine pour un patient au sein des établissements de santé. Ces données peuvent provenir de multiples sources : dossier patient informatisé (DPI) des établissements contributeurs aux projets de la DDP, informations utilisées pour le remboursement de soins, collecte spécifique permettant de créer des registres ou des cohortes ou des Entrepôts de Données de Santé (EDS), réseaux sociaux, objets connectés, etc.
+Missions :
+Management d?équipe :
+Animer, coordonner et planifier l?activité de l?équipe des data managers et des data stewards, sous la responsabilité du Responsable du Pôle
+Apporter aux membres de l?équipe une assistance et des conseils techniques
+Contrôler le bon déroulement de la réalisation des activités menées par l?équipe en termes de quantité, qualité, coûts et délais et en assurer un reporting
+Veiller au respect des procédures dans la réalisation des activités de l?équipe et participer à leur amélioration continue
+Réaliser l?interface avec les Pilotes de projet, managers fonctionnels des DM/DS
+Data Management des données :
+Assurer la mise en qualité de la donnée dans un environnement d?intégration de données massives dans des Entrepôts de Données de Santé (EDS) proche des fondamentaux de la Recherche Clinique,
+Formaliser les processus de data management dans une approche multi-projet : gel de base, revue des données, recodage, plan de data management, plan de validation des données, contrôle qualité
+Mettre en place et suivre le déploiement les plans de mise en qualité de la donnée de chaque projet de la DDP ;
+Coordonner et optimiser le recodage des données avec une approche de synergie multi-projet
+Mettre en place un outil de gestion des queries et améliorer les outils de résolution des incohérences actuellement en place
+Superviser la réalisation des gels de base et la mise à disposition des bases gelées dans les délais arbitrés avec les Pilotes de projet
+Réaliser des exports de données ponctuels sur demande
+Superviser la rédaction des spécifications et des documents nécessaires à l?alimentation des bases ou entrepôts de données quel que soit la typologie d?alimentation (collecte manuelle, collecte automatique)
+Gestion des outils de data management :
+Revoir, maintenir et faire évoluer les outils de gestion des data managers et data stewards
+Normalisation des données :
+Veiller à ce que les données soient structurées et normalisées selon les normes en vigueur (CDISC, OMOP, FHIR, OSIRIS RWD) ; en l?absence de norme suffisamment établie, être leader dans la mise en place de ces normes
+Collaborer avec les équipes opérationnelles et du S2I pour garantir la cohérence des données dans la cadre de la mise en place d?une gestion des métadonnées des projets de la DDP
+Documentation :
+Maintenir une documentation précise des processus et modes opératoires liés à la mise en qualité des données
+Organiser et faciliter l?accès aux informations sur les données et aux données pour les utilisateurs autorisés.
+S?assurer de la mise en ?uvre du Système de Management de la Qualité (ISO 9001)
+Rapports, analyse et communication :
+Identifier les indicateurs pertinents de suivi de l?activité des data managers/datas stewards et générer des rapports réguliers sur la qualité des données
+Mettre en place un dashboard permettant de visualiser les indicateurs de suivi de l?activité et leurs évolutions avec le support de l?équipe BI
+Représentativité équipe DM/DS :
+Participer aux réunions de Direction ou réunion projets pour présenter l?activité DM/DS et intégrer les pré-requis liés à la qualité des données dans les réflexions communes de la DDP
+Profil candidat:
+Cherry Pick recherche un Data Steward spécialisé sur les données du secteur médical pour un client du secteur de la recherche.",2023-11-29T18:43:15.000Z,2023-11-29T18:43:15.000Z,"{'libelle': '75', 'commune': '75056'}",M1802,Expertise et support en systèmes d'information,Data manager,{'entrepriseAdaptee': False},LIB,Profession libérale,Emploi non salarié,D,Débutant accepté,,{},,,False,,1,False,,,,,,"{'origine': '2', 'urlOrigine': 'https://candidat.pole-emploi.fr/offres/recherche/detail/6963681', 'partenaires': [{'nom': 'JOBIJOBA', 'url': 'https://www.jobijoba.com/fr/annonce/26/42e2c3802cbd302dbaaf3683c14bc505', 'logo': 'https://www.pole-emploi.fr/static/img/partenaires/jobijoba80.png'}]}",,,,,,,,,
