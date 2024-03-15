@@ -49,7 +49,7 @@ import time
 # Ensure the model is loaded only once per session
 if "light_model_loaded" not in st.session_state:
     with st.spinner("Loading word2vec model..."):
-        st.session_state.light_model = time.sleep(15)  # load_facebook_model(MODEL_PATH)
+        st.session_state.light_model = load_facebook_model(MODEL_PATH)
         st.success("Lighter model loaded successfully.")
     st.session_state.light_model_loaded = True
 
@@ -82,7 +82,7 @@ if uploaded_file is not None:
 
     # Text processing and matching phase
     if st.button("Chercher des offres d'emploi correspondantes"):
-        with st.spinner("Calcul des correspondances..."):
+        with st.spinner("Calculating matching job offers..."):
             # Check if processed data already exists
             if not os.path.exists(PROCESSED_DATA_PATH):
                 columns = [
@@ -101,30 +101,25 @@ if uploaded_file is not None:
 
             # Apply the mean vector calculation to the processed DataFrame
 
-            time.sleep(15)
+            df_processed["competences"] = df_processed["competences"].apply(
+                lambda x: calculate_average_word2vec_optimized([x], word2vec_model)[0]
+            )
 
-        st.success("Correspondances calculées.")
+            # Calculate the cosine similarity between the resume and job offers
+            df_processed["cosine_similarity"] = df_processed["competences"].apply(
+                lambda x: calculate_cosine_similarity(competences_texte, x)
+            )
+
+            # Sort the DataFrame by cosine similarity
+            df_processed = df_processed.sort_values(
+                by="cosine_similarity", ascending=False
+            )
+
+        st.success("Matching completed.")
 
         # Displaying final results
-        st.write("Voici les offres d'emploi correspondant à votre CV :")
-        st.write(uploaded_file.name)
-        if uploaded_file.name == "cv_mohamed.pdf":
-            df_processed = pd.read_csv(
-                "C:\\Users\\Moham\\Documents\\data_pole_emploi\\Data_Pole_Emploi\\notebooks\\mohamed_cv_recommendation_word2vec.csv"
-            )
-        elif uploaded_file.name == "cv_omar.pdf":
-            df_processed = pd.read_csv(
-                "C:\\Users\\Moham\\Documents\\data_pole_emploi\\Data_Pole_Emploi\\notebooks\\omar_cv_recommendation_word2vec.csv"
-            )
-        elif uploaded_file.name == "cv_ahmed.pdf":
-            df_processed = pd.read_csv(
-                "C:\\Users\\Moham\\Documents\\data_pole_emploi\\Data_Pole_Emploi\\notebooks\\ahmed_cv_recommendation_word2vec.csv"
-            )
-        elif uploaded_file.name == "cv_camille.pdf":
-            df_processed = pd.read_csv(
-                "C:\\Users\\Moham\\Documents\\data_pole_emploi\\Data_Pole_Emploi\\notebooks\\camille_cv_recommendation_word2vec.csv"
-            )
-        else:
-            df_processed = pd.DataFrame()
+        st.write("Top matching job offers based on competencies:")
+
         st.dataframe(df_processed.head(10))
+        st.write(uploaded_file)
 # Display the top matching job offers
