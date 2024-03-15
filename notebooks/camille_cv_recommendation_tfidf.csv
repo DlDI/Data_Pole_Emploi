@@ -1,0 +1,97 @@
+intitule,description,romeLibelle,competences,cosine_similarity
+Menuisier poseur / Menuisière poseuse aluminium,"Pose de menuiseries extérieures aluminium, PVC bois, volets, portes de garage...
+Pose en rénovation ou en neuf.",Pose de fermetures menuisées,"[{'code': '103592', 'libelle': ""Réaliser l'étanchéité de l'ensemble support/châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, ..."", 'exigence': 'E'}, {'code': '121168', 'libelle': 'Couper les éléments de fermetures menuisées', 'exigence': 'S'}, {'code': '123243', 'libelle': 'Fixer des éléments menuisés', 'exigence': 'E'}]",0.35249928
+Menuisier / Menuisière aluminium,"Nous recherchons un(e) menuisier aluminium
+
+Votre mission:
+
+- vous procédez à la fabrication de menuiserie intérieur extérieur en Alu,",Menuisier / Menuisière aluminium,"[{'code': '100596', 'libelle': 'Techniques de maçonnerie', 'exigence': 'S'}, {'code': '103592', 'libelle': ""Réaliser l'étanchéité de l'ensemble support/châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, ..."", 'exigence': 'S'}, {'code': '121168', 'libelle': 'Couper les éléments de fermetures menuisées', 'exigence': 'S'}, {'code': '123243', 'libelle': 'Fixer des éléments menuisés', 'exigence': 'S'}, {'code': '124331', 'libelle': ""Démonter une fermeture menuisée et vérifier l'état du support"", 'exigence': 'S'}]",0.35249928
+Maçon / Maçonne en rénovation,"Vos missions:
+- Maçonnerie neuf et rénovation 
+- Façade 
+- Béton désactivé 
+- Divers travaux de rénovation intérieur et extérieur",Maçonnerie,"[{'code': '103767', 'libelle': 'Terrasser et niveler la fondation', 'exigence': 'S'}, {'code': '121482', 'libelle': 'Appliquer les mortiers', 'exigence': 'S'}, {'code': '122952', 'libelle': 'Monter les murs en utilisant les matériaux adaptés', 'exigence': 'S'}, {'code': '123667', 'libelle': 'Réaliser des enduits', 'exigence': 'S'}, {'code': '400081', 'libelle': ""Assembler et positionner les éléments d'armatures et les caissons pour le béton"", 'exigence': 'S'}]",0.35249928
+Menuisier poseur  (H/F),"Pose fermetures extérieures (fenêtres, porte d'entrée, garage) et intérieures (porte
+intérieur, sol)",Réalisation de menuiserie bois et tonnellerie,"[{'code': '100286', 'libelle': 'Techniques de soudure', 'exigence': 'S'}, {'code': '114823', 'libelle': 'Réaliser un gabarit', 'exigence': 'S'}, {'code': '120068', 'libelle': 'Débiter des pièces de rotin ou de bois', 'exigence': 'S'}, {'code': '124985', 'libelle': 'Assembler des sous-ensembles par procédé mécanique', 'exigence': 'S'}, {'code': '300228', 'libelle': 'Fixer, poser, installer des éléments, des ouvrages', 'exigence': 'S'}]",0.35249928
+Aide à domicile,"Vous serez en charge de l'entretien du domicile et balayage des extérieurs;
+
+Vous travaillez une heure trente par jour de préférence de 10h a 11h30 du lundi au vendredi.",Services domestiques,,0.35249928
+Menuisier / Menuisière aluminium,"Nous recherchons un(e) menuisier aluminium
+
+Votre mission:
+
+- vous procédez à la fabrication de menuiserie intérieur extérieur en Alu,",Menuisier / Menuisière aluminium,"[{'code': '100596', 'libelle': 'Techniques de maçonnerie', 'exigence': 'S'}, {'code': '103592', 'libelle': ""Réaliser l'étanchéité de l'ensemble support/châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, ..."", 'exigence': 'S'}, {'code': '121168', 'libelle': 'Couper les éléments de fermetures menuisées', 'exigence': 'S'}, {'code': '123243', 'libelle': 'Fixer des éléments menuisés', 'exigence': 'S'}, {'code': '124331', 'libelle': ""Démonter une fermeture menuisée et vérifier l'état du support"", 'exigence': 'S'}]",0.35249928
+Peintre enduiseur / enduiseuse,"Nous recherchons deux enduiseurs peinture pour travaux extérieurs (neuf et/ou rénovation)
+Divers enduits, peintures, plaquettes de parement...
+Horaires normaux de 35 heures.",Peinture en bâtiment,"[{'code': '100634', 'libelle': 'Techniques de peinture', 'exigence': 'E'}, {'code': '103566', 'libelle': 'Préparer la peinture', 'exigence': 'E'}, {'code': '300131', 'libelle': 'Préparer un support, une matière', 'exigence': 'E'}, {'code': '300227', 'libelle': 'Peindre des surfaces et supports visuels', 'exigence': 'E'}, {'code': '400409', 'libelle': 'Monter ou démonter un échafaudage', 'exigence': 'E'}]",0.35249928
+Façadier / Façadière,"Vos missions :
+- réalisation de façades dans le cadre d'isolations extérieures et intérieures.
+
+Label RGE travaux indispensable.
+
+Poste à pourvoir au plus vite.",Réalisation et restauration de façades,"[{'code': '123628', 'libelle': 'Techniques de sablage', 'exigence': 'S'}, {'code': '126509', 'libelle': 'CACES R408 échafaudages de pied ', 'exigence': 'S'}, {'code': '114396', 'libelle': 'Poser et fixer des profilés, armatures, arrêtes de tableaux, cornières, ...', 'exigence': 'S'}, {'code': '122215', 'libelle': 'Corriger un support à enduire', 'exigence': 'S'}, {'code': '122963', 'libelle': ""Poser des éléments d'étanchéité"", 'exigence': 'S'}, {'code': '123244', 'libelle': 'Régler la machine à projeter', 'exigence': 'S'}, {'code': '123627', 'libelle': 'Nettoyer un support maçonné', 'exigence': 'S'}, {'code': '123629', 'libelle': 'Enlever un ancien revêtement', 'exigence': 'S'}, {'code': '300228', 'libelle': 'Fixer, poser, installer des éléments, des ouvrages', 'exigence': 'S'}, {'code': '300655', 'libelle': 'Réaliser la préparation des supports', 'exigence': 'S'}, {'code': '300669', 'libelle': 'Restructurer des maçonneries', 'exigence': 'S'}, {'code': '400409', 'libelle': 'Monter ou démonter un échafaudage', 'exigence': 'S'}]",0.35249928
+Manoeuvre travaux publics,"Aménagements extérieurs, assainissements, pose de pavés, petites maçonneries",Préparation du gros oeuvre et des travaux publics,"[{'code': '121977', 'libelle': 'Terrasser un terrain ou une construction', 'exigence': 'S'}, {'code': '300265', 'libelle': 'Charger, décharger, manutentionner des produits', 'exigence': 'E'}, {'code': '400288', 'libelle': 'Déblayer, remblayer un terrain', 'exigence': 'S'}]",0.35249928
+Ravaleur / Ravaleuse,"Nous cherchons un(e) RAVALEUR(EUSE) pour renforcer notre équipe.
+
+Vous aurez en charge:
+
+- L'isolation extérieur
+- Ravalement
+- Pose d'isolation
+- Colle et chevillage 
+- Enduis, laine de verre
+
+Vous travaillerez du lundi au vendredi de 9h à 17h",Réalisation et restauration de façades,"[{'code': '123628', 'libelle': 'Techniques de sablage', 'exigence': 'S'}, {'code': '123244', 'libelle': 'Régler la machine à projeter', 'exigence': 'S'}, {'code': '123627', 'libelle': 'Nettoyer un support maçonné', 'exigence': 'S'}, {'code': '123629', 'libelle': 'Enlever un ancien revêtement', 'exigence': 'S'}]",0.35089767
+"Préparer petits plats, planchettes charcuteries et salades (H/F)","Vous aurez en charge de préparer des salades, des planchettes de charcuteries et fromages, des petits plats traiteurs et différents produits à partager.
+Ambiance familiale.",Personnel de cuisine,"[{'code': '104207', 'libelle': 'Préparer les viandes et les poissons', 'exigence': 'S'}, {'code': '124919', 'libelle': 'Cuire des viandes, poissons ou légumes', 'exigence': 'S'}, {'code': '124935', 'libelle': 'Dresser des plats pour le service', 'exigence': 'S'}, {'code': '124947', 'libelle': 'Éplucher des légumes et des fruits', 'exigence': 'S'}, {'code': '300282', 'libelle': 'Entretenir, nettoyer un espace, un lieu, un local', 'exigence': 'S'}]",0.35063827
+Menuisier poseur / Menuisière poseuse de fermetures,"Vous serez en charge de :
+
+La pose de volets roulants et vitrage
+La pose de menuiseries bois et aluminium
+Chargement / déchargement de camions
+Assemblage, démontage et habillage des menuiseries
+Manutentions divers
+
+Horaires : Journée (départ de l'entreprise pour aller sur les différents chantiers)",Pose de fermetures menuisées,"[{'code': '117414', 'libelle': ""Méthodes de contrôle d'étanchéité"", 'exigence': 'S'}, {'code': '103592', 'libelle': ""Réaliser l'étanchéité de l'ensemble support/châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, ..."", 'exigence': 'S'}, {'code': '121168', 'libelle': 'Couper les éléments de fermetures menuisées', 'exigence': 'S'}, {'code': '123243', 'libelle': 'Fixer des éléments menuisés', 'exigence': 'S'}]",0.34992424
+"""Agent en maraîchage Saisonnier F-H"" (H/F)","""""""Exploitation légumière, secteur St Pol de Léon, recrute 1 personne affectée  essentiellement au ramassage des Pommes de Terre  et récolte  des radis noirs et carottes./r/n/r/nContrat de 2 mois prolongeable ./r/nPossibilité d'un temps partiel selon souhaits/r/n/r/nMoyen de locomotion nécessaire pour accéder aux différents sites de production. (Roscoff et Santec)/r/n""""""",Horticulture et maraîchage,,0.34934038
+Peintre automobile,"Vous réaliserez des opérations de finition ( préparation de surface, peinture,...) selon les règles de sécurité et la réglementations.",Réparation de carrosserie,"[{'code': '100634', 'libelle': 'Techniques de peinture', 'exigence': 'E'}, {'code': '102690', 'libelle': 'Règles de manipulation de produits toxiques', 'exigence': 'E'}, {'code': '103571', 'libelle': 'Caractéristiques des enduits', 'exigence': 'S'}, {'code': '103572', 'libelle': 'Caractéristiques des peintures', 'exigence': 'S'}, {'code': '103612', 'libelle': 'Caractéristiques des colles', 'exigence': 'S'}, {'code': '106559', 'libelle': 'Spécificités des solvants, diluants', 'exigence': 'S'}, {'code': '107021', 'libelle': 'Tôlerie', 'exigence': 'S'}, {'code': '107028', 'libelle': 'Mécanique automobile', 'exigence': 'S'}, {'code': '118291', 'libelle': 'Caractéristiques des matériaux de carrosserie', 'exigence': 'E'}, {'code': '119054', 'libelle': 'Rétroviseurs', 'exigence': 'E'}, {'code': '107096', 'libelle': ""Identifier l'intervention à partir de l'ordre de réparation ou des indications de l'expert mandaté, du client"", 'exigence': 'E'}, {'code': '107097', 'libelle': 'Fixer des éléments de carrosserie', 'exigence': 'E'}, {'code': '107098', 'libelle': 'Contrôler la géométrie des châssis, coques, berceaux et redresser les éléments de carrosserie déformés ou les remplacer', 'exigence': 'E'}, {'code': '107099', 'libelle': 'Remplacer les vitres ou réparer les impacts et fissures', 'exigence': 'E'}, {'code': '107100', 'libelle': 'Préparer les surfaces avant peinture du véhicule', 'exigence': 'E'}, {'code': '107101', 'libelle': ""Doser, adapter les tons des peintures et des laques de finition au véhicule (références d'origine, vieillissement, effets visés) et les appliquer"", 'exigence': 'E'}]",0.34877768
+Poseur de Pierres H/F,"Vous maitrisez les tâches liées au poste.
+Déplacement possible hors département
+Expérience souhaitée
+Savoir respecter les règles de sécurité sur chantier
+renouvellement possible",Pose de revêtements rigides,"[{'code': '123263', 'libelle': 'Appliquer la barbotine', 'exigence': 'S'}, {'code': '121971', 'libelle': 'Couper des matériaux de revêtements et de finition', 'exigence': 'S'}, {'code': '122119', 'libelle': 'Déposer un revêtement', 'exigence': 'S'}, {'code': '123262', 'libelle': 'Ragréer une surface de pose', 'exigence': 'S'}, {'code': '122011', 'libelle': ""Définir l'alignement d'un revêtement"", 'exigence': 'S'}]",0.34876594
+Couvreur / Couvreuse,"Vous effectuez la préparation et la pose des éléments de couverture (ardoises, tuiles) pose de gouttières, dans le cadre de travaux neufs ou de rénovation, selon les règles de sécurité.
+Vous êtes déjà qualifié ou cherchez à vous perfectionner.",Pose et restauration de couvertures,"[{'code': '103655', 'libelle': 'Poser des ardoises', 'exigence': 'S'}, {'code': '103797', 'libelle': ""Réaliser la pose d'éléments de couverture"", 'exigence': 'S'}, {'code': '122128', 'libelle': 'Déposer une toiture', 'exigence': 'S'}, {'code': '122129', 'libelle': 'Remplacer des chevrons', 'exigence': 'S'}, {'code': '122208', 'libelle': 'Poser des tuiles', 'exigence': 'S'}]",0.3483849
+Zingueur / Zingueuse (H/F),"Description du poste :
+Vos missions :
+- Réalisation de différents travaux de zinguerie (descente, chéneaux, encadrement de cheminée, gouttière)
+- Revêtement en zinc
+Description du profil :
+Vous avez idéalement une première expérience dans le domaine***Si vous correspondez à ce profil, envoyez nous votre CV par mail :***ou contactez nous au 07.68.47.37.77",Pose et restauration de couvertures,,0.34786862
+Aide-maçon / Aide-maçonne (H/F),"Description du poste :
+Vous interviendrez en renfort sur des chantiers -
+Vous compléterez une équipe déjà présente -
+Missions:***Aide aux différents travaux de maçonnerie
+* Rangement des matériaux & chantiers
+* Respect des consignes de sécurité
+Longue mission en intérim
+Taux horaire selon grille du bâtiment + paniers repas
+Description du profil :
+Vous justifiez d'un réel savoir-être,
+Vous êtes motivé et faites preuve d'initiative,
+Vous ne demandez qu'à approfondir votre savoir-faire et vous avez envie d'intégrer une équipe qui sera vous faire évoluer,
+N'attendez plus pour postuler.",Préparation du gros oeuvre et des travaux publics,,0.34781587
+Coiffeur barbier (H/F),"Vous travaillez chez un coiffeur-barbier dans un barber shop réserve uniquement aux hommes.
+Vous réalisez les shampooings, les coupes. 
+Vous effectuez les tailles de barbe. 
+Vous entretenez votre matériel et le salon de coiffure. 
+Vous êtes amené (e) a vendre des produits d'entretien pour la barbe.",Coiffure,"[{'code': '101910', 'libelle': 'Techniques de coupes de cheveux', 'exigence': 'S'}, {'code': '101901', 'libelle': ""Accueillir le client et l'installer"", 'exigence': 'S'}, {'code': '101902', 'libelle': 'Identifier la coiffure attendue (coupe, coloration, traitement, ...) et conseiller le client (morphologie, implantation des cheveux, ...)', 'exigence': 'S'}, {'code': '101903', 'libelle': 'Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing', 'exigence': 'S'}, {'code': '101918', 'libelle': 'Réaliser une coupe ou une coiffure', 'exigence': 'S'}]",0.34754226
+Employé de scierie,"Vos missions seront :
+- Vous réceptionnez les planches, les porter et faire de l'empilage tout en respectant les règles de sécurité.
+
+Port de charges lourdes.
+
+*Une première expérience sur ce type de poste serait un plus 
+
+Vous travaillerez du Lundi au Vendredi
+De 8H -12H / 13H30 - 17H",Encadrement des industries de l'ameublement et du bois,"[{'code': '100017', 'libelle': 'Règles de sécurité', 'exigence': 'S'}, {'code': '300152', 'libelle': ""Préparer du matériel en prévision d'un travail"", 'exigence': 'S'}, {'code': '300174', 'libelle': ""Élaborer et planifier un programme de production, d'exploitation"", 'exigence': 'S'}, {'code': '300436', 'libelle': ""Organiser le travail d'une équipe"", 'exigence': 'S'}]",0.34735847

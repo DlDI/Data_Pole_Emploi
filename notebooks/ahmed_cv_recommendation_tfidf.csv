@@ -1,0 +1,108 @@
+intitule,description,romeLibelle,competences,cosine_similarity
+Chauffeur routier / Chauffeuse routière,"Afin de renforcer nos équipes, nous recrutons 2 Chauffeurs H/F :
+
+Vous serez en charge de :
+Circuits SOVAB allers-retours BATILLY / VILLERS LA MONTAGNE. 1 semaine de nuit, 1 semaine de jour.
+Différents horaires. Possibilité de faire un roulement sur d'autres tournées.
+
+Départ JARNY 
+1 samedi matin travaillé dans le mois
+
+Prime de fin d'année + intéressement.",Conduite de transport de marchandises sur longue distance,"[{'code': '110473', 'libelle': 'Organiser le chargement des marchandises dans le véhicule', 'exigence': 'E'}, {'code': '110474', 'libelle': ""Vérifier l'exactitude et la conformité de documents de transport de marchandises"", 'exigence': 'E'}, {'code': '110527', 'libelle': ""Contrôler l'état de fonctionnement d'un véhicule"", 'exigence': 'E'}, {'code': '120377', 'libelle': ""Réaliser les opérations d'attelage"", 'exigence': 'E'}, {'code': '124795', 'libelle': 'Définir un itinéraire en fonction des consignes de livraison', 'exigence': 'E'}]",0.36587584
+"Préparer petits plats, planchettes charcuteries et salades (H/F)","Vous aurez en charge de préparer des salades, des planchettes de charcuteries et fromages, des petits plats traiteurs et différents produits à partager.
+Ambiance familiale.",Personnel de cuisine,"[{'code': '104207', 'libelle': 'Préparer les viandes et les poissons', 'exigence': 'S'}, {'code': '124919', 'libelle': 'Cuire des viandes, poissons ou légumes', 'exigence': 'S'}, {'code': '124935', 'libelle': 'Dresser des plats pour le service', 'exigence': 'S'}, {'code': '124947', 'libelle': 'Éplucher des légumes et des fruits', 'exigence': 'S'}, {'code': '300282', 'libelle': 'Entretenir, nettoyer un espace, un lieu, un local', 'exigence': 'S'}]",0.3652564
+Ouvrier agricole polyvalent productions végétales (H/F),"Ouvrier agricole polyvalent pour 3 ateliers de productions végétales : maraichage - arboriculture - petits fruits
+Conduite et entretien des cultures
+Conduite de matériel
+Travail en équipe 
+Travail en extérieur : sous serres ou plein champs",Horticulture et maraîchage,"[{'code': '122730', 'libelle': 'Préparer les sols, les plantations (épandage, semis, etc.)', 'exigence': 'E'}, {'code': '122853', 'libelle': 'Récolter un produit à maturité et selon les consignes de calibrage', 'exigence': 'E'}, {'code': '123046', 'libelle': ""Surveiller l'état d'une plantation"", 'exigence': 'E'}]",0.3652247
+Chauffeur-livreur / Chauffeuse-livreuse,"*** Poste Urgent ***
+
+Vous travaillerez au départ d'Orthez, de 5h à 08h30 le matin, sur une tournée de pharmacie.
+Poste du mardi au samedi inclus, 80h/mensuel. 
+Rémunération 12€45 brut/heure. 
+
+Possibilité de renouvellement ou évolution sur le poste. 
+
+Vous avez le permis B, et êtes rigoureux(se). 
+Débutants acceptés.
+
+Contactez l'employeur par téléphone : 
+ 06 82 09 06 99",Conduite et livraison par tournées sur courte distance,"[{'code': '109486', 'libelle': 'Lecture de plan urbain', 'exigence': 'S'}, {'code': '121418', 'libelle': 'Méthodes de plan de tournée', 'exigence': 'S'}, {'code': '110474', 'libelle': ""Vérifier l'exactitude et la conformité de documents de transport de marchandises"", 'exigence': 'S'}, {'code': '124795', 'libelle': 'Définir un itinéraire en fonction des consignes de livraison', 'exigence': 'S'}, {'code': '125102', 'libelle': 'Livrer une commande', 'exigence': 'S'}, {'code': '300265', 'libelle': 'Charger, décharger, manutentionner des produits', 'exigence': 'S'}, {'code': '300379', 'libelle': 'Développer et fidéliser la relation client', 'exigence': 'S'}]",0.36507744
+Aide-maçon / Aide-maçonne (H/F),"Description du poste :
+Vous interviendrez en renfort sur des chantiers -
+Vous compléterez une équipe déjà présente -
+Missions:***Aide aux différents travaux de maçonnerie
+* Rangement des matériaux & chantiers
+* Respect des consignes de sécurité
+Longue mission en intérim
+Taux horaire selon grille du bâtiment + paniers repas
+Description du profil :
+Vous justifiez d'un réel savoir-être,
+Vous êtes motivé et faites preuve d'initiative,
+Vous ne demandez qu'à approfondir votre savoir-faire et vous avez envie d'intégrer une équipe qui sera vous faire évoluer,
+N'attendez plus pour postuler.",Préparation du gros oeuvre et des travaux publics,,0.36499506
+Bardeur(euse)  (Rouen) H/F,"Intégré(e) aux équipes de production de l'agence Habitat Réhabilité de Rouen et en tant que Bardeur(euse) HF vos missions sont de :Assembler découper, préparer les différents éléments au solRéaliser le traçage, pose et assemblagePose de structure (bois, acier.) et équerragePose d'isolant ( laine de verre, roche, bois . )Pose de bardage (bois, métallique . )  ",Montage de structures métalliques,,0.36480853
+"""Agent en maraîchage Saisonnier F-H"" (H/F)","""""""Exploitation légumière, secteur St Pol de Léon, recrute 1 personne affectée  essentiellement au ramassage des Pommes de Terre  et récolte  des radis noirs et carottes./r/n/r/nContrat de 2 mois prolongeable ./r/nPossibilité d'un temps partiel selon souhaits/r/n/r/nMoyen de locomotion nécessaire pour accéder aux différents sites de production. (Roscoff et Santec)/r/n""""""",Horticulture et maraîchage,,0.36475158
+Cuisinier traiteur / Cuisinière traiteuse,"Au sein d'une boulangerie vous assurez la préparation des plats cuisinés, des sandwichs et autres produits traiteur.
+
+ Votre expérience en cuisine est qualifiée par un diplome. 
+
+Rigueur, écoute et esprit d'équipe sont les atouts qui vous permettront d'évoluer dans ce poste.",Personnel de cuisine,"[{'code': '104207', 'libelle': 'Préparer les viandes et les poissons', 'exigence': 'S'}, {'code': '124919', 'libelle': 'Cuire des viandes, poissons ou légumes', 'exigence': 'S'}, {'code': '124935', 'libelle': 'Dresser des plats pour le service', 'exigence': 'S'}, {'code': '124947', 'libelle': 'Éplucher des légumes et des fruits', 'exigence': 'S'}, {'code': '300282', 'libelle': 'Entretenir, nettoyer un espace, un lieu, un local', 'exigence': 'S'}]",0.36451527
+Maçon(ne) (H/F),"Vous êtes maçon(ne)  Nous recrutons !
+
+Le poste consiste à  préparer les fondations, monter les murs, les cloisons et poser les dalles.
+L'assemblage de briques, parpaings ou pierres avec des produits liants comme le ciment ou le mortier.
+  Maçon(ne), vous possédez idéalement une expérience de 2 années minimum dans ce domaine. Vous devrez respecter les consignes de sécurité, le port d'équipements de protection : casque de chantier, chaussures de sécurité est obligatoire. Savoir-être: autonome, rigueur, aptitude à travailler en équipe.",Maçonnerie,"[{'code': '103767', 'libelle': 'Terrasser et niveler la fondation', 'exigence': 'S'}, {'code': '121482', 'libelle': 'Appliquer les mortiers', 'exigence': 'S'}, {'code': '122952', 'libelle': 'Monter les murs en utilisant les matériaux adaptés', 'exigence': 'S'}, {'code': '123667', 'libelle': 'Réaliser des enduits', 'exigence': 'S'}, {'code': '400081', 'libelle': ""Assembler et positionner les éléments d'armatures et les caissons pour le béton"", 'exigence': 'S'}]",0.3643038
+Pâtissier tourier / Pâtissière tourière,"Sous la supervision de notre chef-pâtissière en et collaboration avec l'équipe de boulangerie et de cuisine, vous pourrez poursuivre votre développement, mettre votre créativité et vos talents en actions et profitez de la nature qui est à quelques minutes du travail.","Pâtisserie, confiserie, chocolaterie et glacerie","[{'code': '101738', 'libelle': 'Caractéristiques des farines levure, additifs', 'exigence': 'S'}, {'code': '115131', 'libelle': 'Préparer des aliments', 'exigence': 'S'}, {'code': '124933', 'libelle': 'Doser des ingrédients culinaires', 'exigence': 'S'}, {'code': '300181', 'libelle': 'Entretenir un équipement, une machine, une installation', 'exigence': 'S'}]",0.36425185
+Charpentier F/H - Landes Intérim (H/F),"Nous recherchons des charpentiers (ères) pour compléter une équipe. travail sur des chantiers neufs ou rénovations. secteur Landes dépose et pose de fermettes, pose de charpente..
+ 
+Salaire en fonction de l'expérience 
+
+dynamique et motivé 
+ 
+vous avez une première expérience ou finissez vos études en charpente contactez nous",Réalisation - installation d'ossatures bois,,0.3640832
+Aide soignant(e) (H/F),"Dynamique et bienveillant(e) vous avez à cœur d'intégrer une équipe ou le résident est au cœur de nos préoccupation? 
+Venez rejoindre notre équipe et participer au développement du projet d'établissement de notre résidence.","Soins d'hygiène, de confort du patient","[{'code': '107660', 'libelle': ""Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"", 'exigence': 'S'}, {'code': '107661', 'libelle': ""Réaliser des soins d'hygiène corporelle, de confort et de prévention"", 'exigence': 'S'}, {'code': '107662', 'libelle': 'Accompagner une personne dans les gestes de la vie quotidienne', 'exigence': 'S'}, {'code': '107915', 'libelle': ""Repérer les modifications de l'état de santé d'une personne"", 'exigence': 'S'}, {'code': '300044', 'libelle': ""Surveiller l'état de santé d'une personne"", 'exigence': 'S'}]",0.36402637
+Couvreur / Couvreuse,"Vous effectuez la préparation et la pose des éléments de couverture (ardoises, tuiles) pose de gouttières, dans le cadre de travaux neufs ou de rénovation, selon les règles de sécurité.
+Vous êtes déjà qualifié ou cherchez à vous perfectionner.",Pose et restauration de couvertures,"[{'code': '103655', 'libelle': 'Poser des ardoises', 'exigence': 'S'}, {'code': '103797', 'libelle': ""Réaliser la pose d'éléments de couverture"", 'exigence': 'S'}, {'code': '122128', 'libelle': 'Déposer une toiture', 'exigence': 'S'}, {'code': '122129', 'libelle': 'Remplacer des chevrons', 'exigence': 'S'}, {'code': '122208', 'libelle': 'Poser des tuiles', 'exigence': 'S'}]",0.36400184
+Tuyauteur-monteur / Tuyauteuse-monteuse (H/F),"Dans le cadre de notre développement, nous recherchons  un Monteur en tuyauterie industrielle H/F.
+Rémunération selon qualification et expérience. 
+
+Vos missions:
+Vous réaliserez la pose de tuyauteries et d'équipements sur site industriel en s'assurant du respect des réglementations et de la sécurité.
+
+Informations Supplémentaires :
+* Lieu de travail: atelier aux Pennes Mirabeau (13) + travaux sur sites industriels du pourtour de l'étang de Berre.",Réalisation et montage en tuyauterie,"[{'code': '100017', 'libelle': 'Règles de sécurité', 'exigence': 'E'}, {'code': '100507', 'libelle': ""Utilisation d'outillages électroportatifs (scie électrique, ponceuse, ...)"", 'exigence': 'S'}, {'code': '105976', 'libelle': 'Caractéristiques des matériaux en plastiques et composites', 'exigence': 'E'}, {'code': '106188', 'libelle': ""Utilisation d'outils de mesure dimensionnelle"", 'exigence': 'S'}, {'code': '118331', 'libelle': ""Utilisation d'outillages manuels"", 'exigence': 'E'}, {'code': '121251', 'libelle': 'Plan isométrique', 'exigence': 'S'}, {'code': '121311', 'libelle': 'Plates-formes élévatrices mobiles de personnes ou PEMP (CACES R 386)', 'exigence': 'S'}, {'code': '106160', 'libelle': 'Relever et reporter des cotes', 'exigence': 'S'}, {'code': '106269', 'libelle': 'Préparer les embouts et les bords à souder, à visser et les ajuster', 'exigence': 'S'}, {'code': '119993', 'libelle': 'Localiser une fuite', 'exigence': 'S'}, {'code': '121306', 'libelle': 'Assembler des canalisations', 'exigence': 'E'}, {'code': '121314', 'libelle': 'Raccorder et fixer des lignes et accessoires de tuyauterie', 'exigence': 'E'}, {'code': '124184', 'libelle': 'Réaliser une intervention nécessitant une habilitation', 'exigence': 'E'}, {'code': '300124', 'libelle': 'Comprendre, interpréter des données et documents techniques', 'exigence': 'S'}, {'code': '300210', 'libelle': 'Transformer une matière première', 'exigence': 'E'}, {'code': '300440', 'libelle': 'Animer, coordonner une équipe', 'exigence': 'S'}]",0.36395106
+Cariste,"Vous aurez en charge :
+- la conduite d'engin de manutention à conducteur porté (chariot-élévateur, gerbeur, ...) dans le cadre d'opérations de déplacement, chargement/déchargement, stockage/déstockage, approvisionnement, enlèvement de charges (marchandises, produits, matériel, ...), selon les procédures qualité, les règles de sécurité et les impératifs de délais.
+Horaires de journée
+Caces chariot élévateur demandé",Conduite d'engins de déplacement des charges,"[{'code': '300265', 'libelle': 'Charger, décharger, manutentionner des produits', 'exigence': 'S'}]",0.3638837
+Commis / Commise de cuisine,"Le/la Commis de cuisine travaille en binôme avec le Chef.
+Nous proposons une cuisine faite maison (découpe de viande/poisson, sauces, glaces, etc). Les plats seront bien travaillés dans l'assiette, originaux et la carte évoluera très régulièrement.
+Nous cherchons une personne soignée, avec beaucoup d'énergie, d'enthousiasme et l'esprit d'équipe.
+
+- CDI
+- temps plein (contrat de 39h annualisées, heures supplémentaires récupérées et/ou payées)
+- poste en coupure
+- 2 jours consécutifs de repos (mardi & mercredi)
+- salaire : selon profil du candidat
+
+Nous sommes ouverts à différents profils et expériences, n'hésitez pas à nous contacter pour en discuter plus en détail.",Personnel de cuisine,"[{'code': '104207', 'libelle': 'Préparer les viandes et les poissons', 'exigence': 'S'}, {'code': '115131', 'libelle': 'Préparer des aliments', 'exigence': 'S'}, {'code': '124629', 'libelle': 'Entretenir un outil ou matériel', 'exigence': 'S'}, {'code': '124919', 'libelle': 'Cuire des viandes, poissons ou légumes', 'exigence': 'S'}, {'code': '124933', 'libelle': 'Doser des ingrédients culinaires', 'exigence': 'S'}, {'code': '124935', 'libelle': 'Dresser des plats pour le service', 'exigence': 'S'}, {'code': '124947', 'libelle': 'Éplucher des légumes et des fruits', 'exigence': 'S'}, {'code': '300282', 'libelle': 'Entretenir, nettoyer un espace, un lieu, un local', 'exigence': 'S'}]",0.36379734
+Maçon / Maçonne,"- Descriptif :
+- mettre en oeuvre des structures horizontales (fondations, chapes, dalles, planchers, etc.),
+- assembler et positionner des éléments d'armature d'un béton,
+- fabriquer et poser des coffrages ; couler du béton et autres mortiers,
+- maçonner les murs par assemblage des matériaux (briques, parpaings, carreaux de plâtre, etc.) grâce à des liants (ciment, plâtre, etc.),
+- préparer et appliquer les enduits sur les différentes surfaces intérieures ou extérieures (façades),
+- réaliser des ouvertures dans une maçonnerie (fenêtre, porte, etc.)",Maçonnerie,"[{'code': '103767', 'libelle': 'Terrasser et niveler la fondation', 'exigence': 'S'}, {'code': '121482', 'libelle': 'Appliquer les mortiers', 'exigence': 'S'}, {'code': '122952', 'libelle': 'Monter les murs en utilisant les matériaux adaptés', 'exigence': 'S'}, {'code': '123667', 'libelle': 'Réaliser des enduits', 'exigence': 'S'}, {'code': '400081', 'libelle': ""Assembler et positionner les éléments d'armatures et les caissons pour le béton"", 'exigence': 'S'}]",0.3637241
+Peintre automobile,"Vous réaliserez des opérations de finition ( préparation de surface, peinture,...) selon les règles de sécurité et la réglementations.",Réparation de carrosserie,"[{'code': '100634', 'libelle': 'Techniques de peinture', 'exigence': 'E'}, {'code': '102690', 'libelle': 'Règles de manipulation de produits toxiques', 'exigence': 'E'}, {'code': '103571', 'libelle': 'Caractéristiques des enduits', 'exigence': 'S'}, {'code': '103572', 'libelle': 'Caractéristiques des peintures', 'exigence': 'S'}, {'code': '103612', 'libelle': 'Caractéristiques des colles', 'exigence': 'S'}, {'code': '106559', 'libelle': 'Spécificités des solvants, diluants', 'exigence': 'S'}, {'code': '107021', 'libelle': 'Tôlerie', 'exigence': 'S'}, {'code': '107028', 'libelle': 'Mécanique automobile', 'exigence': 'S'}, {'code': '118291', 'libelle': 'Caractéristiques des matériaux de carrosserie', 'exigence': 'E'}, {'code': '119054', 'libelle': 'Rétroviseurs', 'exigence': 'E'}, {'code': '107096', 'libelle': ""Identifier l'intervention à partir de l'ordre de réparation ou des indications de l'expert mandaté, du client"", 'exigence': 'E'}, {'code': '107097', 'libelle': 'Fixer des éléments de carrosserie', 'exigence': 'E'}, {'code': '107098', 'libelle': 'Contrôler la géométrie des châssis, coques, berceaux et redresser les éléments de carrosserie déformés ou les remplacer', 'exigence': 'E'}, {'code': '107099', 'libelle': 'Remplacer les vitres ou réparer les impacts et fissures', 'exigence': 'E'}, {'code': '107100', 'libelle': 'Préparer les surfaces avant peinture du véhicule', 'exigence': 'E'}, {'code': '107101', 'libelle': ""Doser, adapter les tons des peintures et des laques de finition au véhicule (références d'origine, vieillissement, effets visés) et les appliquer"", 'exigence': 'E'}]",0.3637073
+Poseur de Pierres H/F,"Vous maitrisez les tâches liées au poste.
+Déplacement possible hors département
+Expérience souhaitée
+Savoir respecter les règles de sécurité sur chantier
+renouvellement possible",Pose de revêtements rigides,"[{'code': '123263', 'libelle': 'Appliquer la barbotine', 'exigence': 'S'}, {'code': '121971', 'libelle': 'Couper des matériaux de revêtements et de finition', 'exigence': 'S'}, {'code': '122119', 'libelle': 'Déposer un revêtement', 'exigence': 'S'}, {'code': '123262', 'libelle': 'Ragréer une surface de pose', 'exigence': 'S'}, {'code': '122011', 'libelle': ""Définir l'alignement d'un revêtement"", 'exigence': 'S'}]",0.36340126
+Conducteur / Conductrice de travaux Charpenterie et Couverture (H/F),"Nous recherchons un(e) Conducteur de travaux en Charpenterie et Couverture H/F 
+Pour encadrer les équipes, préparer les études et les approvisionnements des chantiers de particuliers en neuf et rénovation.
+Nous travaillons sur les murs ossature bois, charpentes, couvertures et ITE
+Travail du lundi au vendredi en 35h par semaines, heures supplémentaires payées",Conducteur / Conductrice de travaux,"[{'code': '116932', 'libelle': ""Contrôler l'état des stocks"", 'exigence': 'S'}, {'code': '117521', 'libelle': 'Suivre la gestion des zones de stockage', 'exigence': 'S'}, {'code': '118788', 'libelle': 'Planifier des opérations de chantier', 'exigence': 'S'}, {'code': '300315', 'libelle': 'Identifier et sélectionner des fournisseurs, sous-traitants, prestataires', 'exigence': 'S'}, {'code': '300435', 'libelle': ""Optimiser les effectifs, l'adéquation et l'allocation des ressources"", 'exigence': 'S'}]",0.36327708

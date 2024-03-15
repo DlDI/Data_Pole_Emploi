@@ -1,0 +1,811 @@
+intitule,description,romeLibelle,competences,cosine_similarity
+Data Scientist H/F (H/F),"Vos missions
+Acteur/Actrice du changement, vous jouerez un rôle clé dans l'analyse et l'exploitation de nos données pour mettre en place et développer des méthodes analytiques et contribuer à l'amélioration continue de nos produits/services. Vous travaillerez en étroite collaboration avec notre équipe de data scientist, d'ingénieurs et d'autres départements pour résoudre des problèmes complexes et vulgariser les résultats.
+
+Votre quotidien
+En tant que Data Scientist, vous :
+
+Collectez, nettoyez et préparez les données pour l'analyse.
+Concevez, développez et mettez en œuvre des modèles de machine learning et d'apprentissage profond.
+Effectuez des analyses statistiques pour extraire des informations significatives.
+Collaborez avec les équipes métier pour comprendre leurs besoins et proposez des solutions basées sur les données.
+Créez des tableaux de bord et des rapports pour visualiser les résultats de l'analyse powerBI ou autre.
+Participez à la recherche de nouvelles sources de données pertinentes.
+Restez à jour avec les dernières avancées en matière de data science et de machine learning.
+
+
+Contexte
+Au sein de la Direction Générale Industrielle & Ingénierie, vous travaillerez dans une jeune équipe de Data Science du département Intégration Projets Multi-métiers et Mesures (IP3M). Vous répondrez au besoin exprimé par la Direction Technique.
+
+Horaires
+Poste au forfait jour.
+
+Profil recherché
+Titulaire d'un BAC+5 en statistiques, mathématiques, informatique ou domaine connexe (master ou école d'ingénieurs), vous disposez d'une expérience démontrée en data science, y compris la création de modèles prédictifs.
+
+Vous maîtrisez des langages de programmation tels que Python ou/et R et avez une connaissance des bibliothèques et des frameworks de machine learning (scikit-learn, TensorFlow, ...) ainsi que des compétences en manipulation de données et en outils tels que SQL, Pandas, etc.
+
+Vous maitrisez Devops et git et avez d'excellentes compétences en communication et en présentation.
+
+Une capacité à travailler de manière autonome et en équipe est demandée.
+
+La connaissance du ferroviaire serait un plus.",Études et prospectives socio-économiques,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '300119', 'libelle': 'Réaliser une veille documentaire', 'exigence': 'S'}, {'code': '300457', 'libelle': ""Définir et faire évoluer des procédés de traitement de l'information"", 'exigence': 'S'}]",0.9631723761558533
+Data analyst (H/F),"Description du poste :
+Au sein du pôle Marketing Conquête, vous aurez pour mission de suivre l'activité de recrutement de nouveaux clients au travers des actions marketing et commerciales en exploitant les différentes sources de données.
+Vous utiliserez des outils et des techniques statistiques afin d'organiser, de synthétiser et de traduire les informations pour faciliter la prise de décision. Vous valoriserez l'ensemble des données client pour en extraire de la connaissance utile à l'optimisation des offres et services de Boursorama.
+Vous aurez comme principales missions :
+Reporting et suivi des actions commerciales :***Concevoir, produire et automatiser la production des tableaux de bord de l'activité commerciale et marketing
+* Produire des insights pertinents pour tirer des enseignements, lever des alertes dans le cadre de certains reportings d'activités à forte valeur ajoutée, notamment au regard des actualités business
+* Mettre en place des solutions de DataVisualisation et s'assurer de leur évolution
+* Réaliser certains ciblages d'opérations commerciales / campagnes marketing : appropriation du contexte et des enjeux, challenge des demandeurs métier
+* Produire des bilans d'opérations commerciales / campagnes marketing en identifiant des enseignements sur la performance des campagnes et des recommandations pour des futures actions marketing
+Analyses et modélisation :***Réaliser des études statistiques adhoc sur des problématiques marketing (acquisition, lancement de produits/services .)
+* Etudier la performance du recrutement de nouveaux clients : profils clients recrutés, types de produits souscrits, performance des leviers d'acquisition
+* Identifier des solutions utilisant la datascience pour répondre à des enjeux du pôle Marketing Conquête (prévision du volume d'entrées en relation, optimisation du CAC.) et créer, suivre et faire évoluer les modélisations correspondantes en utilisant les données et les méthodes statistiques les plus pertinentes (linéaires et non linéaires) en lien avec les data scientists de la direction Marketing et Communication
+* Préconiser de nouvelles méthodes et sources de données pour améliorer les modèles existants (R&D et approche « Test and Learn »)
+Description du profil :
+De formation Bac+4/5 en Statistiques ou Data Analyse, vous possédez une expérience réussie dans ce domaine d'environ 3 ans un poste similaire en agence média, régie publicitaire ou chez l'annonceur.
+Vous avez une bonne compréhension des problématiques marketing.
+Vous maitrisez impérativement SAS, SQL ainsi que les outils de MS Office (Excel, Power Point) et les fondamentaux du Machine Learning
+Vous avez une connaissance des langages informations (Python, Scala) et des outils de DataVisualisation.
+Vous êtes rigoureux, fiable, autonome et impliqué. Votre bon sens du relationnel et votre enthousiasme ne sont plus à démontrer.
+N'hésitez plus et postulez à notre offre. Si votre candidature est sélectionnée, vous serez invité à réaliser une vidéo de présentation. Nous vous contacterons ensuite pour un entretien.",Études et prospectives socio-économiques,,0.962507963180542
+Data Analyst expérimenté Business (H/F),"Si tu es animé(e) par la passion de transformer les chiffres en récits concrets et porteurs de sens, à l'instar de l'esprit novateur d'Archimède, et que tu as le sens de l'écoute des besoins métier du client, tu pourrais être le Data Analyst (H/F) expérimenté(e) business que nous recherchons. Rejoins notre équipe pour apporter ton expertise et ton talent d'analyse, et deviens le/la visionnaire des données qui révèlera de nouvelles perspectives métier. En tant que professionnel(le) expérimenté(e), tu connais divers aspects du traitement de la donnée dans les entreprises, qu'il s'agisse des flux, de la BI, de l'analytique métier, de la gestion, de la logistique, du commerce, du SAV, et bien plus encore.
+
+Equipe:
+Le pôle Data est constitué de 7 spécialistes qui travaillent en étroite collaboration avec les différents pôles de l'agence. En tant que membre de ce pôle, tu seras en contact direct avec les membres du pôle Data, les chefs de projet, les architectes techniques et les responsables hiérarchiques de l'agence.
+
+Scope, Sujets :
+Données métier, données d'entreprise, approche data driven, business intelligence, analyse statistique, collecte, exploration, consolidation, transformation de données, data visualisation, storytelling.
+
+Types de projets:
+Analyse de performances marketing, optimisation de la chaîne d'approvisionnement et l'identification d'opportunités de croissance, analyse de données ouvertes, scraping, analyse statistique au cas par cas.
+
+Stack technique:
+Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, SQL (MySQL, PostgreSQL), Scikit-Learn, StatsModels, NLTK, SpaCy, Tableau, Looker, JIRA, Trello, Git, GitHub, Asana.
+
+Candidat.e
+Passionné(e) par l'analyse de données, tu es un(e) expert(e) qui comprend parfaitement les besoins métier des entreprises et écoute attentivement les clients. Tu excelles également dans la dataviz, le storytelling et la transformation de données en insights stratégiques pour innover.
+
+Tes missions:
+Dans une agence de 100 personnes, au sein d'une équipe de 7 personnes, et sous la responsabilité de notre CTO et du directeur de pôle, tu auras pour mission de :
+
+- Analyser et visualisation des données
+- Analyser les données pour identifier les tendances pertinentes
+- Traduire les besoins métier en questions analytiques
+- Créer des tableaux de bord interactifs et visuels
+Optimisation et amélioration:
+- Évaluer les performances actuelles et proposer des améliorations
+- Mettre en place des modèles prédictifs pour anticiper les tendances
+- Fournir des recommandations stratégiques basées sur les analyses
+- Suivre l'impact des décisions et ajuster les stratégies
+Communication et présentation:
+- Présenter clairement les résultats et les insights aux équipes
+Veille technologique: 
+- Rester à jour avec les dernières tendances en analyse de données
+
+
+Ton profil:
+Exigence
+Nous attendons de toi une grande expertise dans l'analyse de données et la capacité à résoudre des problèmes complexes. Tu devras être capable de traduire les besoins métier en questions analytiques pertinentes et de fournir des réponses exploitables.
+
+Passion:
+Tu te caractérises par une passion ardente pour l'exploration des données, une curiosité insatiable et un désir constant d'apprendre. Tu devras être orienté(e) vers les résultats, méthodique dans ton approche, et avoir une forte capacité à communiquer efficacement les résultats de ton analyse.
+
+Ouverture:
+Comme nous, tu regardes le monde entier avec intérêt : tu aimes rencontrer des gens d'origines diverses, tu parles ou apprends plusieurs langues, les autres cultures sont des sources d'inspiration, tu peux ou souhaiterais voyager. Tu es ouvert(e) aux richesses de l'autre.
+
+
+Formation:
+Bac+5, M2 ou équivalent
+
+ Nous avons tous des imperfections ou un handicap et c'est aussi une force : tu peux nous partager le tien.",Études et prospectives socio-économiques,"[{'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'E'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'E'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'E'}, {'libelle': 'Git', 'exigence': 'S'}, {'libelle': 'Jira', 'exigence': 'S'}, {'libelle': 'Looker', 'exigence': 'E'}, {'libelle': 'NoSQL', 'exigence': 'S'}, {'libelle': 'Power BI', 'exigence': 'E'}, {'libelle': 'Python', 'exigence': 'E'}, {'libelle': 'SQL', 'exigence': 'E'}, {'libelle': 'SpaCy', 'exigence': 'S'}, {'libelle': 'StatsModels', 'exigence': 'S'}, {'libelle': 'Trello', 'exigence': 'S'}]",0.959804117679596
+Docteur en Data Science (H/F),"Vos missions :
+
+Rattaché à notre pôle Ingénierie, vous serez en charge de la recherche fondamentale et appliquée, du développement expérimental ainsi que de la consolidation des dossiers techniques CIR/CII et des relations avec les partenaires externes.
+
+Par conséquent, vos principales missions seront les suivantes :
+-	Participation aux projets R&D visant l'exploitation avancée des données collectées par Élap en y apportant votre rigueur et votre méthodologie de chercheur.
+-	Analyse de données et création de modèles prédictifs couvrant les domaines de toutes nos solutions logicielles : Finance, RH, Planning, Recrutement 
+-	Coordination des échanges et des travaux avec les partenaires externes tels que les laboratoires de recherche en psychologie, santé, gestion  et cabinets d'aides publiques.
+-	Supervision et consolidation des dossiers techniques CIR et CII. 
+
+A titre d'exemple, voici quelques sujets sur lesquels, vous travaillerez : 
+-	Analyse prédictive des flux comptables et budgétaires : affectation de dépenses, détection de fraudes, prévention des dérives de pratiques comptables...
+-	Intégration d'indicateurs psychologiques et forces motivationnelles dans les processus de recrutement, d'on-boarding, de planification 
+-	Détection et prévention du burn-out et prévision d'absentéisme.
+
+
+Votre profil :
+
+Vous êtes récemment diplômé d'un Doctorat en Data Science ou IA et vous êtes à la recherche de votre 1er emploi en tant que Docteur. 
+Vous avez donc 3 ans d'expérience en tant que Doctorant et vous venez de passer votre thèse de doctorat.
+
+Vous possédez les compétences suivantes :
+-	Connaissance approfondie des méthodologies de recherche en Data Science et IA.
+-	Solides compétences en langages de programmation tels que Python, R et des outils associés : NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch  
+-	Expérience significative dans le développement et l'application de modèles de Machine Learning.
+-	Excellentes compétences en communication et en rédaction scientifique.
+-	Capacité à travailler de manière autonome et à collaborer efficacement au sein d'une équipe multidisciplinaire.
+
+
+Conditions et Avantages :
+
+Poste en CDI ou CDD 39h avec 10 jours de RTT. Statut CADRE. Rémunération à définir. 
+Prime pour les déplacements professionnels + Prime vacances conventionnelle + Prime d'intéressement avec possibilité de placement sur un Plan Epargne Entreprise (PEE). Prime de cooptation. Prime PPV.
+Carte Titres Restaurant et mutuelle attractive.
+
+Poste basé dans nos bureaux de Paris-La Défense (92). Plusieurs jours de télétravail par semaine selon les usages de l'entreprise. Déplacements 1 fois par mois à prévoir dans nos différents bureaux : Lille dans le Nord (59) et Brignoles dans le Var (83).",Études et prospectives socio-économiques,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '300457', 'libelle': ""Définir et faire évoluer des procédés de traitement de l'information"", 'exigence': 'S'}]",0.9596329927444458
+TEAM LEADER (H/F),"Systnaps - Editeur français de logiciels, expert du Data Management depuis 17 ans, nos solutions uniques et innovantes accélèrent la transformation digitale de toutes les organisations pilotées par la donnée.
+
+Rattaché(e) directement au fondateur, ton rôle est d'être actrice /acteur sur différentes missions :
+Vous serez en charge de :
+-	Gérer un groupe d'ingénieurs en conception logicielle (activités de suivi, entretiens annuels, réunions, objectifs...
+-	Affecter le personnel de l'équipe aux activités du projet
+-	Assurer un bon niveau d'IRC en ce qui concerne les jalons
+-	Coordonner entre les équipes de R&D et les équipes intégrées
+-	Soutien à la gestion, démonstrations, proposition de feuille de route, rapports de projet et risques
+-	Contribuer au recrutement des membres (ingénieurs & stages) du département SW AI.
+-	Définir le plan de formation pour chaque ingénieur.
+-	Proposer et améliorer les schémas logiciels et de conception de nos cadres logiciels centraux pour les réseaux neuronaux
+-	Développer des modules logiciels pour les applications d'apprentissage automatique, principalement en python et C/C++
+-	Proximité des ingénieurs R&D pour les commentaires et la mise en œuvre des exemples d'utilisation
+-	Contribuer et améliorer les normes de codage logiciel (PEP8 et révisions de code)
+-	Créer des tests logiciels automatisés pour une intégration continue
+-	Analyser et optimiser l'efficacité logicielle (analyse d'exécution, multithreading)
+-	participer à des projets innovants avec nos experts.
+
+Incontournables
+-	Expériences réussies en méthode agile ;
+-	Expérimenté(e) en développement web ;
+-	Langages et frameworks suivants : 
+Framework Symfony, REST API, MongoDB, Node JS, Angular, Linux, Git, Gitlab, DevOps 
+-	Bonnes pratiques - versionning - tests - CI/CD - ;
+-	Gérer des équipes et as une expérience poussée d'interactions régulières et réussies avec une team produit ;
+-	Développer et travailler sur une roadmap tech et  faire des trade-offs, les justifier, les communiquer et les faire adopter ;
+-	Expérience minimum de 5 + années en dev full stack, nécessaires.
+-	Expérience réussie dans le monde des marketplaces,  
+-	Connaissance du principe de la Blockchain
+-	Gérer une équipe de dev full stack
+-	Expérience dans le domaine de l'analyse de données serait un plus
+
+DIPLOME/EXPERIENCE  : 
+-	Vous êtes diplômé(e) d'un Bac +5 en ingénierie, vous justifiez de minimum 5 ans d'expérience en logicielle  
+-	Vous avez une expérience significative en conception de modèles et architectures de conception logiciels
+-	Vous êtes curieux et ouvert d'esprit et vous avez un bon sens de la communication et du travail d'équipe
+-	Vous avez des connaissances en maintenance de Serveurs informatique de stockage (LINUX, Google Coud Plateform...
+-	Force de proposition
+-	Bonne capacité d'analyse et d'organisation",Études et développement informatique,"[{'code': '300688', 'libelle': 'Application web', 'exigence': 'E'}, {'code': '109846', 'libelle': 'Concevoir une application web', 'exigence': 'E'}]",0.9581394195556641
+Data analyst (H/F),"Barrière, c'est 33 Casinos, 1 Club de Jeux, 19 Hôtels, plus de 120 Restaurants et Bars, 15 Spas, 3 Golfs, 2 Tennis Club, 1 Balnéo, 1 Thalasso. Barrière, c'est aussi 50 métiers incarnés par près de 7000 collaborateurs, en France et à l'international. Et par vous aussi demain  
+
+    Contexte & Lieu de travail, pour briller en entretien
+
+Sous la responsabilité de notre Responsable de domaine Data, rattaché(e) à la Direction Data & Acquisition, vous contribuerez à la définition de la roadmap data pour les activités du groupe et assurerez la réalisation et la livraison des cas d'usage d'exploitation de données ou d'Intelligence artificielle, identifiés avec les différentes directions métiers (marketing, commerciales, jeux, hôtellerie... )
+
+    Vos missions si vous l'acceptez
+
+Le/la Data Product Owner sera en charge de la gestion des projets de la roadmap Data avec un focus particulier sur nos activités de Jeux online.
+
+Il/elle est chargé(e) de :
+Identifier et collecter les besoins des directions métiers afin d'évaluer par la data les différentes opportunités ;
+Proposer des modèles statistiques ou de machine learning pour améliorer l'expérience client et la productivité des collaborateurs ;
+Piloter  la rédaction des backlog data liés aux différents produits afin d'assurer la cohérence et le développement des cas d'usage data (segmentations et scoring clients, clustering produit, modèles de recommandation...) ;
+Analyser les performances des cas d'usage déployés en définissant au préalable les métriques à suivre et Kpis de succès et de coordonner les reportings associés avec nos équipes BI ;
+Réaliser une veille concurrentielle pour assurer la mise en place des meilleures pratiques marché sur nos sites web et outils d'aide à la décision.
+
+En lien permanent avec les équipes Produit, les développeurs et designers des sites Web, les Data analysts, les Data scientists, le Data Product Owner devra :
+Piloter le développement et le déploiement des cas d'usage sur les plateformes Data ;
+Organiser et coordonner l'implémentation ou l'exposition de ces cas d'usage au sein des différents sites WEB du groupe.
+  
+   Votre bon Profil
+
+Vous avez :
+une ou plusieurs expérience dans le data product owner et êtes familier des méthodologies agiles ;
+de bonnes connaissances techniques et une bonne compréhension des plateformes et écosystèmes Big Data ;
+de fortes compétences en management et gestion de projet ;
+une compréhension parfaite des enjeux du traitement des données et du potentiel de la data en général afin de développer une vision stratégique et identifier des axes de développement ;
+une bonne maîtrise des fondamentaux statistiques et ML (modèles classiques, technique de tests statistiques, métriques d'optimisation courantes...) ;
+des bases avancées en langage SQL ;
+2-3 années d'expériences dans le secteur du jeu en ligne seraient fortement appréciées.
+
+Vous êtes :
+diplômé(e) d'une formation supérieure en informatique bac + 4/5 ;
+doté d'une grande capacité d'écoute et d'un bon relationnel ;
+pourvu d'un esprit de synthèse et d'analyse ;
+organisé(e), rigoureux(se), méthodique ;
+à l'aise dans l'animation ;
+curieux(se) et autonome.
+
+  Nos pétillances
+
+Des bureaux modernes, connectés, avec une salle de sport ;
+Le 13ème mois ;
+Une Charte télétravail autorisant jusqu'à 3 jours par semaine ;
+L'opportunité de suivre des formations (métiers, produits, d'empowerment...) ;
+Un accompagnement personnalisé pour développer votre potentiel et évoluer au sein de notre Groupe ;
+Des tarifs collaborateurs pour se faire des week-ends de rêve.
+
+Faire vivre des moments exceptionnels à nos clients, voilà votre future raison d'être.
+Barrière, 50 métiers, 1 seul état d'esprit. N'hésitez plus, rejoignez-nous !",Études et prospectives socio-économiques,,0.9577409029006958
+Analyste Business Intelligence et Stratégie Commerciale  F/H - La Compagnie (H/F),"La Compagnie recrute, en contrat à durée indéterminée, un(e) analyste Business Intelligence et Stratégie Commerciale.
+ 
+ 
+ 
+Vos missions
+ 
+ 
+ 
+Rattaché(e) à la Direction Business Intelligence, l'analyste Business Intelligence et Stratégie Commercial aura pour mission de :
+ 
+ 
+ 
+Business Intelligence :
+ 
+ 
+ 
+         Participer activement au développement de rapports d'analyse et d'aide à la prise de décision et contribuer à une logique d'intelligence d'affaires dans les projets de la société,
+ 
+         Contribuer à l'analyse des besoins fonctionnels et techniques de chaque département de la société  et proposer des rapports d'aide à la prise de décision efficaces,
+ 
+         Aider à la création de rapports ad hoc pour répondre aux demandes spécifiques des départements et des parties prenantes internes, dont la Direction Générale et la Direction Financière,
+ 
+         Participer à la mise en place d'un écosystème de données robuste et efficace. Rendre l'accès aux données plus simple et intuitif pour les différentes équipes concernées,
+ 
+         Assister à la mise en place de processus d'automatisation pour la collecte, le nettoyage et l'analyse des données, afin d'améliorer l'efficacité opérationnelle,
+ 
+         Assurer la qualité et l'intégrité des données en mettant en place des contrôles réguliers et des procédures de validation,
+ 
+         Participer à la formation des utilisateurs finaux sur les outils et les processus liés à la Business Intelligence pour favoriser l'adoption et l'utilisation efficace des solutions déployées par l'activité.
+ 
+ 
+ 
+Business Developpment :
+ 
+ 
+ 
+         Contribuer à la réflexion et à l'exécution d'analyses poussant les différents départements techniques et opérationnels vers une optimisation de la performance de la société,
+ 
+         Assister à la structuration et l'établissement d'une veille permettant une analyse claire du marché et de la conjoncture économique concernant l'activité de transport commercial de la société,
+ 
+         Collaborer avec les équipes internes pour développer des analyses personnalisées et des solutions sur mesure en réponse aux besoins,
+ 
+         Participer à la traduction de l'ambition stratégique de l'entreprise en plan d'actions pour les activités de ventes, en explicitant et justifiant les facteurs clés de succès associés,
+ 
+         Collaborer à la définition et à l'accompagnement de la conduite du plan commercial stratégique de l'entreprise,
+ 
+         Participer à la conception et à l'accompagnement de l'implémentation de nouvelles initiatives commerciales et de partenariats stratégiques,
+ 
+         Contribuer activement au pilotage de la performance et des projets commerciaux clés de l'entreprise ainsi qu'à la réalisation des chiffres d'affaires associés au business plan.
+ 
+ 
+ 
+Ces missions ne sont pas exhaustives et évolueront en fonction des besoins de l'entreprise.
+Vous êtes issu(e) d'un cursus Bac+5 en ingénierie / commerce / informatique, spécialisation : MIAGE / BI & Analytics / Data Sciences & Business Analytics .
+  
+ Votre expérience antérieure atteste de votre capacité à concevoir et déployer des outils de reporting et de pilotage, contribuant ainsi à l'amélioration des performances globales. Vous excellez dans l'interprétation des besoins métier pour élaborer des tableaux de bord pertinents. Votre aptitude à analyser les données chiffrées vous permet de produire des rapports clairs, visuellement impactant et facilement compréhensibles par un public varié.
+  
+ Votre maîtrise avancée des outils Microsoft Office, notamment Excel et Power BI, combinée à votre intérêt pour les solutions de gestion de données, constitue un atout essentiel. Une connaissance supplémentaire en Power Query, Python, R ou SQL serait fortement appréciée.
+  
+ Doté d'un sens aigu de l'organisation, d'un business sense, d'une grande proactivité et d'un esprit d'équipe affirmé, vous êtes prêt à exceller dans ce rôle.
+  
+ Une maîtrise de l'anglais, à l'écrit comme à l'oral, est indispensable pour ce poste.
+  
+ Alors rejoignez-nous !
+  
+ 
+Nature du contrat :                   Contrat à durée indéterminée
+ 
+Rémunération :                        A déterminer
+ 
+Localisation du poste :             Arcueil (94)
+ 
+Démarrage :                            Asap",Études et prospectives socio-économiques,,0.9574233889579773
+Expert Scientifique R&D Intelligence Artificielle (H/F),"À propos de nous : 
+
+Nous sommes une équipe de médecins, de cadres de la santé, de scientifiques des données et d'experts en technologie qui s'engagent à donner à chacun, où qu'il soit, les informations dont il a besoin pour prendre des décisions éclairées en matière de soins de santé. Grâce à la puissance combinée de l'IA et du big data, nous avons créé la première solution tout-en-un qui fournit à nos utilisateurs tout ce qu'ils ont besoin de savoir sur les professionnels et les établissements médicaux. RYTE transforme les données complètes que nous recueillons sur des millions de prestataires de soins de santé et d'experts médicaux dans le monde entier en connaissances qui aident les individus et les organisations à naviguer dans les systèmes de santé. Basé à Toronto (Canada) et ayant des activités au Canada, en France, au Kazakhstan et aux Philippines, vous rejoindrez une équipe véritablement internationale, multiculturelle et dynamique, dont l'objectif est de construire quelque chose d'unique qui affecte la vie et les soins de santé à l'échelle mondiale. Pour plus d'informations sur nous, veuillez nous contacter à l'adresse www.ryte.ai. 
+
+Nous recherchons un expert de l'IA et un penseur innovant pour rejoindre l'équipe de R&D afin d'avoir un impact significatif sur le secteur de l'analyse des soins de santé.
+
+Il s'agit d'un poste d'encadrement à temps plein (CDI) en France (Paris). 
+
+Le poste : Expert Scientifique R&D Intelligence Artificielle. 
+
+Le rôle : 
+En tant que membre de l'équipe de R&D, vous menerai des projets au sein d'une équipe d'ingénieurs en IA, d'architectes et de scientifiques de données situés dans plusieurs pays pour effectuer la recherche et le développement de solutions d'IA liées à l'analyse des soins de santé, en liaison avec les universités et les organisations mondiales.
+
+Responsabilités : 
+    Élaborer, exécuter et améliorer en permanence des plans globaux de recherche et de développement en étroite collaboration avec l'équipe IA et les partenaires de Ryte à l'échelle mondiale. 
+    Instaurer une culture de l'innovation au sein de l'entreprise en encourageant l'innovation dans tous les domaines liés à l'IA.   
+    Construire et exécuter une feuille de route AI/ML pour notre plateforme d'analyse des soins de santé. 
+    Identifier les opportunités d'appliquer les dernières avancées en matière d'apprentissage automatique et d'intelligence artificielle pour construire, tester et valider des modèles prédictifs à la tête d'une équipe de data scientists. 
+    Fournir un apprentissage automatique de premier ordre et une contribution stratégique aux projets et aux opérations en cours ; mener une réflexion et une planification stratégique pour la conception, la mise en œuvre et l'orientation des initiatives d'IA/ML et être en mesure d'enthousiasmer les chefs d'entreprise sur la base de la capacité à générer un impact commercial à l'aide de stratégies d'IA/ML. 
+    Sensibilisation interne et stratégie d'adoption des méthodologies émergentes d'apprentissage automatique grâce à l'exécution d'un plan de communication efficace. 
+    Travailler en partenariat avec l'ingénierie des données, les scientifiques des données et l'intendance des données pour contribuer à l'exécution d'une stratégie de données réussie.
+Créer des algorithmes pour extraire des informations à partir de grands ensembles de données multiparamétriques globales. 
+    Déployer des algorithmes en production afin d'identifier des informations exploitables à partir de grands ensembles de données. 
+    Comparer les résultats de diverses méthodologies et recommander les meilleures techniques aux parties prenantes. 
+    Concevoir, développer et mettre en œuvre des solutions analytiques à l'aide de divers outils commerciaux et open-source tels que Python, R, TensorFlow. 
+    Développer et intégrer des processus automatisés et déploiement de modèles.","Management et ingénierie études, recherche et développement industriel","[{'code': '118500', 'libelle': 'Élaborer des propositions techniques', 'exigence': 'S'}, {'code': '119161', 'libelle': ""Identifier les contraintes d'un projet"", 'exigence': 'S'}, {'code': '124529', 'libelle': ""Déterminer des axes d'évolution technologiques"", 'exigence': 'S'}, {'code': '300337', 'libelle': ""Définir la stratégie financière d'une structure"", 'exigence': 'S'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'S'}]",0.9571290016174316
+Data-manager / Biostatisticien(ne) Senior (H/F),"Complife France est une société composée de deux centres (Brest et Lyon) qui fait partie du groupe international COMPLIFE. 
+Prestataire de service pour l'industrie du bien-être et de la beauté, Complife France évalue la tolérance, la sécurité et l'efficacité de produits cosmétiques (soins, produits capillaires, maquillages, produit solaires ).
+
+Rejoignez-nous sur le site de Lyon pour renforcer nos équipes.
+
+Vous aurez la charge de :
+
+DATA MANAGEMENT
+-	Conduire efficacement avec autonomie, rigueur et dans le respect des standards internationaux (GCP, ICH, GCDMP) toutes les activités de gestion de données :
+-	Participation à la rédaction du protocole études sur la partie data management 
+-	Design des CRFs et/ou programmation eCRF
+-	Rédaction des documents de référence (plan de Data Management, cahier de charges de validation des données et queries)
+-	Extraction des données et contrôle
+-	Programmation des contrôles de cohérence
+-	Former des utilisateurs et gérer les accès à la base de données
+-	Gérer les queries et les données externes
+-	Préparer et animer les réunions de revue des données avant gel de base
+-	Communiquer directement avec le chef de projets cliniques sur les aspects techniques et l'avancement des activités de Data Management.
+
+STATISTIQUES
+-	Rédiger et valider le plan d'analyse statistique des protocoles de recherche
+-	Programmer et exécuter les analyses statistiques 
+-	Valider les résultats en cas de sous-traitance
+
+Profil recherché : 
+-	Dynamisme, motivation, polyvalence, sens de l'organisation, autonomie, rigueur
+-	Capacité relationnelle écrite et orale
+-	Bon esprit d'équipe
+-	Formation supérieure scientifique avec une spécialisation en Data Management ou Statistique
+-	La maitrise de SAS, R ou d'un autre logiciel statistique et des standards est requise
+-	Expérience d'au moins 5 ans en essais cliniques et/ou dispositifs médicaux (réglementations / directives internationales, des dispositions éthiques liées aux essais sur l'homme et de la protection connexe des données personnelles)
+-	Bonne maitrise de l'anglais technico-scientifique écrit et oral
+
+Horaires de travail : 
+-	Temps plein : 35 heures/semaine
+-	Les heures de travail devront s'effectuer selon les besoins sur la plage horaire suivante : 7h30 à 19h00.
+-	Possibilité de déplacements en France ou à l'étranger",Expertise et support en systèmes d'information,"[{'code': '300195', 'libelle': ""Concevoir un logiciel, un système d'informations, une application"", 'exigence': 'E'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'E'}, {'code': '300495', 'libelle': 'Évaluer le résultat de ses actions', 'exigence': 'S'}]",0.9570183753967285
+Data manager (H/F),"Description du poste :
+Rattaché à la Direction Systèmes d'Information (DSI), vous intégrez une équipe de 4 personnes. Votre rôle, consiste mettre en place la collecte et la mise à disposition des données au sein de l'entreprise, être en charge d'industrialiser et mettre en production des traitements sur les données (par exemple : mise à disposition de tableaux de bord, intégration de modèles statistiques) en lien avec les équipes métiers et les équipes qui les analysent.
+C'est un rôle central et très important, situé au coeur de notre développement ! Le Data Engineer est le maillon essentiel pour fournir les données fiables aux métiers leur permettant de créer leurs nouveaux produits et services.
+Les missions sont composées des actions suivantes ;
+Acheminement de la donnée ;
+- Recueillir les besoins métiers des différentes unités demandeuses et utilisatrices de solutions de collecte et stockage de la donnée.
+- Développer les solutions techniques de collecte de la donnée via des API.
+- Développer des solutions techniques de stockage de la donnée (Hadoop).
+- Réaliser les tests unitaires et d'intégration.
+- Mettre en place et maintenir les batchs, c'est-à-dire les automatisations d'une série de traitements.
+Mise à disposition des données aux équipes utilisatrices ;
+- Industrialiser et automatiser le nettoyage de la donnée selon les spécifications retenues.
+- Gérer, maintenir et documenter de multiples bases de données (via l'importation de données externes en open data ou de données internes par exemple).
+- Gérer le cycle de vie de la donnée conformément aux directives inscrites dans le RGPD.
+- Assurer le suivi de production et la maintenance.
+Mise en production de modèles statistiques dans les applications ;
+- Développer l'industrialisation de modèles statistiques ou de machine learning.
+- Implémentation du suivi de la validité du modèle statistique.
+- Assurer le suivi de production et la maintenance.
+Suivi des projets de développement ;
+- Établir les spécifications techniques à partir de l'analyse des besoins.
+- Reporter l'activité auprès du chef de projet. Autres activités éventuelles ;
+- Automatiser la création de tableaux de bord aux équipes métiers (envoi de fichiers via des applications dédiées).
+- Assurer une veille technologique sur les outils big data.
+- Écrire la documentation relative aux bases de données (règles de gestion, dictionnaire des variables.).
+Dans le cadre de sa politique diversité, le groupe Axéréal étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap.
+Description du profil :
+De formation Bac+5 école d'ingénieur orienté développement, ou master spécialisé en data, avec une spécialisation Big Data, vous êtes passionné par l'innovation et les technologies liées aux domaines Data Analytics & AI.
+- Maîtrise de l'environnement technique du cloud provider (GCP )
+- Maîtrise des bases de données (BigQuery)
+- Maîtrise de langages de programmation (Java, Python, Spark, Scala, Sql,.)
+- Maîtrise des outils de gestion de flux et de manipulation de données ETL/ELT (Semarchy DI, Google DataFlow, Dataproc, etc .)
+- Connaissance des méthodes de développement agile
+- Maîtrise des systèmes d'exploitation (Unix, Windows.)
+Vous appréciez travailler en équipe et possédez un excellent relationnel ? C'est parfait, car le poste nécessite de travailler avec des interlocuteurs multiples et demande ainsi une grande adaptabilité.
+Aussi, vos capacités organisationnelles, votre autonomie, votre sens de l'initiative, votre rigueur et votre orientation résultat sont autant d'atouts qui vous permettront d'exceller dans la fonction.",Expertise et support en systèmes d'information,,0.9564255475997925
+Data analyst and Product Owner Delegate(H/F) anglais courant (H/F),"Crit Aéro, partenaire des recrutements pour Airbus, Pionnier de l'aérospatiale durable pour un monde sûr et solidaire, vous propose un poste de Data Analyst et product Owner.
+Valérie, notre Commandante de Bord pour ce recrutement vous explique pourquoi rejoindre Airbus : ""Tout simplement, venez partager votre mindset & vos compétences en travaillant avec des équipes multiculturelles pour contribuer à un avenir plus sûr & plus sain dans les airs »  
+Nous nous engageons pour un long voyage, Crit Tertiaire recrute en mission de Travail Temporaire, pour ce poste Le salaire dépendra de votre profil en adéquation avec la grille de la convention de la métallurgie
+Pour préparer ce voyage, après la réalisation d'une pré qualification téléphonique, vous serez convié(e) à un entretien avec notre équipe dans le but d'étudier votre parcours, échanger sur vos attentes....
+On vous dit tout !! Faisons escale sur votre plan de vol et les attentes du poste :
+Comprendre les processus, les rôles, les activités et les objets métier qualité pour mieux servir l'entreprise. 
+Intégrer une équipe en phase de constitution car l'entité QXEP Service Qualité est relativement nouvelle.
+Préparer des visualisations et des tableaux de bord pour l'examen mensuel des performances des principaux objectifs de l'entreprise et des fonctions aux niveaux du comité exécutif et des fonctions principales (souvent en mode réactif, avec des corrections et des demandes de dernière minute)
+Soutenir le développement de l'analyse de données et de la business intelligence liés aux sujets de qualité
+Vous avez une première expérience sur le secteur Aéronautique ou de l'Industrie   L'embarquement approche. Le saviez-vous : En 10 ans, le pourcentage de femmes occupant un poste dans l'Aéronautique est passé de 18% à 23% selon le Gifas...Embarquez avec nous et laissez-vous guider !
+ Reprenons notre check-list pour en savoir plus sur ce poste et faisons une escale sur vos compétences de base nécessaires à votre réussite sur le poste
+Avant l'embarquement, vérifions que nous n'avons rien oublié, dans vos bagages : de l'envie, motivation, rigueur et de l'assiduité ! Votre carte d'embarquement:
+ Vous avez au moins 5 ans d'expérience professionnelle, de préférence Expérience en qualité, fabrication et/ou approvisionnement
+Au moins 3 ans d'expérience dans le développement de solutions d'analyse et de visualisation.
+Expérience démontrée dans la gestion de données et/ou de produits numériques (compréhension et captation des besoins d'affaires, réalisation de projets numériques, business intelligence) dans un environnement international.
+Expérience innovante
+Excellentes aptitudes de communication
+Vous ne correspondez pas à 100% aux critères   Ne vous  inquiétez pas!
+Airbus soutient votre croissance personnelle avec des solutions de développement personnalisées.
+Aptitudes et compétences souhaitées
+Gestion de projet ou de produit : Safe, AGILE, Kanban, Projet ou LBIP+
+Amélioration continue : Lean, 8D, Quality mindset, PDCA et Analyses et statistiques
+IL: Codage (Langages : Python, VBA, Javascript, SQL)
+Concepts et ensembles d'outils de la plate-forme Foundry utilisés pour l'analyse et la visualisation des données (Contour, Code Workbook, Code Repository).
+Qlik Sense
+Méthodes de développement DevOps
+Vous êtes organisé pour respecter les délais.
+Curieux, rigoureux, autonome, vous faites preuve de capacités d'analyse et de diagnostic.
+
+Dans l'Aéronautique, on lit le plan de vol jusqu'au bout pour assurer la qualité du voyage de l'avion...
+Alors si vous avez bien tout lu, n'oubliez pas le nom de code : ""Embarquement immédiat pour Airbus""
+Tous nos postes sont ouverts aux candidats en situation de handicap.",Études et prospectives socio-économiques,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '300457', 'libelle': ""Définir et faire évoluer des procédés de traitement de l'information"", 'exigence': 'S'}]",0.95619136095047
+Designer / Designeuse produit (H/F),"Barrière, c'est 33 Casinos, 1 Club de Jeux, 19 Hôtels, plus de 120 Restaurants et Bars, 15 Spas, 3 Golfs, 2 Tennis Club, 1 Balnéo, 1 Thalasso. Barrière, c'est aussi 50 métiers incarnés par près de 7000 collaborateurs, en France et à l'international. Et par vous aussi demain  
+
+    Contexte & Lieu de travail, pour briller en entretien
+
+Afin de repenser l'expérience client et collaborateur pour l'ensemble de nos métiers Casinos, Jeux en ligne, Hôtel et Restauration, nous recherchons le/la futur(e) Head of Product Design.
+
+Au sein de la division Digitale, Data et Technologie du groupe Barrière, le département Produit garantit la pertinence et la cohérence des parcours et produits digitaux mis à disposition des clients et collaborateurs. Rattaché(e) à la CPO, vous serez en charge de la conception et de l'amélioration continue des différents sites, applications mobile et  interfaces utilisateurs
+
+    Vos missions si vous l'acceptez
+
+Comprendre et analyser les problématiques et attentes des utilisateurs : concevoir, réaliser et restituer des interviews utilisateurs, des discovery, des design sprint, animer des ateliers de co-conception, d'idéation, et modéliser l'expérience client sous forme d'empathy maps, customer journeys...
+Proposer et mettre en place des processus et des méthodes de conception, en coordonnant les métiers, les utilisateurs et les équipes produit afin d'améliorer nos standards Design ;
+Analyser la concurrence et les bonnes pratiques ;
+Concevoir les nouvelles expériences clients, les parcours, les maquettes, prototypes en ligne avec les standards d'accessibilité & SEO et qui répondent aux enjeux business ;
+Réaliser des tests utilisateurs afin de valider les propositions de maquettes et parcours ;
+Améliorer et maintenir une cohérence des expériences clients existantes ;
+Superviser l'enrichissement du design system existant et la construction du nouveau pour l'hôtellerie ;
+Encadrement de 2 UX/UI externes et pilotage d'une agence en cas de besoin.
+  
+   Votre bon Profil
+
+Vous justifiez d'une expérience confirmée de 5 ans en tant que Product Designer sur des sujets B2C, APP, Web et/ou e-commerce ;
+Maîtriser la conception UX/UI, le maquettage ;
+Très bon relationnel et bon communicant ;
+Maîtrise des pratiques Agile ;
+Solides compétences en analyse de données et mesure permanente de l'impact ;
+Capacité à structurer une discovery, mener des interviews utilisateurs, analyser des insights et valider ou invalider des besoins ;
+Vous faites preuve d'empathie, d'une grande autonomie et de rigueur ;
+Excellentes compétences en communication et en gestion des parties prenantes ;
+Vous savez prendre des initiatives et mettre en avant vos idées pour améliorer les pratiques collectives ;
+Vous maîtrisez les outils de production d'UX Design : Figma, Figjam, Miro, Mural, Maze, Notion, Jira, Confluence, etc.
+
+  Nos pétillances
+
+Des bureaux modernes, connectés, avec une salle de sport ;
+Le 13ème mois ;
+Une Charte télétravail autorisant jusqu'à 3 jours par semaine ;
+L'opportunité de suivre des formations (métiers, produits, d'empowerment...) ;
+Un accompagnement personnalisé pour développer votre potentiel et évoluer au sein de notre Groupe ;
+Des tarifs collaborateurs pour se faire des week-ends de rêve.
+
+Faire vivre des moments exceptionnels à nos clients, voilà votre future raison d'être.
+Barrière, 50 métiers, 1 seul état d'esprit. N'hésitez plus, rejoignez-nous !",Design industriel,,0.9548998475074768
+Ingénieur système solutions mécatroniques véhicule électrique (H/F),"Lieu de travail : Montréal, QC, Canada
+ *contrat de droit local*
+
+1 poste à pourvoir
+- 37,5h/semaine du lundi au vendredi (possibilité de temps complémentaire jusqu'à 40h /semaine)
+- Présence sur site : 100 % (possibilité d'une formule hybride 3/5)
+
+Classification nationale des professions (CNP)
+21231 - Ingénieurs/ingénieures et concepteurs/conceptrices en logiciel
+21311 - Ingénieurs informaticiens/ingénieures informaticiennes (sauf ingénieurs/ingénieures et concepteurs/conceptrices en logiciel)
+21310 - Ingénieurs électriciens et électroniciens/ingénieures électriciennes et électroniciennes
+
+En tant que membre du service ingénierie R&D relevant du chef de service, vous collaborez étroitement avec des équipes d'ingénierie multidisciplinaires pour la définition, le suivi et la validation des exigences fonctionnelles des solutions R&D, notamment celui de systèmes de batteries.
+
+- Collaborer avec diverses équipes interfonctionnelles afin d'établir des exigences pour les nouvelles fonctionnalités du système de batterie, les diagnostics, les algorithmes, etc.
+- Élaborer des exigences et des documents de spécifications au niveau du système et du sous-système en collaboration avec les équipes de conception optique, électrique et mécanique
+- Diriger les activités de vérification de la conception, rédiger des propositions et des livres blancs, fournir une assistance technique aux activités de développement commercial, dont des présentations aux clients et de conférence, diriger l'évaluation de la préparation technique et de l'analyse des risques
+- Collaborer étroitement avec des équipes d'ingénierie du matériel et de la mécanique pour le suivi et la gestion des besoins de développement des batteries
+- Collaborer étroitement avec des équipes V&V pour la réalisation du processus de test et de validation
+- Réaliser le développement de fonctionnalités et caractéristiques fonctionnelles spécifiques à la sécurité
+- Communiquer avec les ingénieurs pour mettre à jour/modifier la documentation afin de maintenir une représentation précise des livrables
+- Contribuer à l'architecture globale de système
+- Soutenir le développement des processus de production en série et de standardisation des processus entre les différents services
+- Réaliser des tâches ou des projets ad hoc fournis par la direction
+- Collaborer avec des équipes pluridisciplinaires pour s'assurer que les sous-systèmes pertinents sont conçus selon les exigences appropriées. Travailler en étroite collaboration avec les ingénieurs de conception, de qualité et de fabrication des produits, ainsi qu'avec l'équipe de production afin d'assurer que le système réponde à tous les objectifs critiques du client
+- Évaluer, concevoir et intégrer des systèmes logiciels de batteries aux véhicules et aux systèmes connexes afin d'équilibrer les exigences de performance, de fiabilité, de coût et de poids
+
+Requis
+Expérience avec des outils de simulation au niveau du système (MATLAB Expérience) avec des outils de gestion des exigences (DOORS)
+- Travailler dans un environnement multidisciplinaire
+- Bac+3/4 ou 5 en génie ou dans un domaine similaire - 8 ans d'expérience minimum
+- Expérience avec Model Based Systems Engineering et SysML.
+- Expérience avec IBM DOORS/ELM ou autre outil de gestion des exigences.
+- Connaissance développement Agile de systèmes intégrés (mécaniques, électriques et logiciels).
+- Avoir de fortes compétences en communication, une façon de travailler proactive et orientée vers les solutions et la volonté de vous familiariser avec les nouvelles technologies et les outils de développement.
+- Anglais courant
+- connaissance des normes automobiles telles que ISO 26262, IATF 16494, AEC-Q100, APQP, PPAP; Connaissance des protocoles de communication sans fil et câblés est un atout.
+
+Salaire compétitif selon expérience, 4 sem. congés payés,11 jours Fériés, 5 Maladie, Programmes assurances collectives d'entreprise, Participation REER de l'employeur, Bonus","Management et ingénierie études, recherche et développement industriel","[{'code': '118500', 'libelle': 'Élaborer des propositions techniques', 'exigence': 'S'}, {'code': '119161', 'libelle': ""Identifier les contraintes d'un projet"", 'exigence': 'S'}, {'code': '124529', 'libelle': ""Déterminer des axes d'évolution technologiques"", 'exigence': 'S'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'S'}]",0.9538056254386902
+Airbus atlantic - ingénieur supply chain & logistique (all gender) (H/F),"Description de l'emploi :Vous êtes à la recherche d'un nouveau challenge ??ContexteUn poste d'Ingénieur Supply Chain & Logistique vient de s'ouvrir au sein d'Airbus Atlantic sur son site de Méaulte (80). Dans le cadre de montées cadence et de transformations industrielles, vous rejoindrez le Service Cross Plant PC&L afin de supporter les sites opérationnels tout en assurant une vision et dynamique métier pour le groupe Airbus Atlantic.Au sein de l'équipe, vous serez en charge de définir, contribuer et mener des projets pour l'ensemble des sites avec la contribution des opérationnels PC&L et des autres métiers du groupe Airbus Atlantic.Poste proposéLe spécialiste Supply Chain & Logistique a pour principale mission d'animer des équipes opérationnelles multi fonctionnelles et de les fédérer autour d'un objectif commun et d'une vision métier PC&L partagée.A ce titre, ses principales missions sont : Définir, développer et mettre en place les routines qui permettent de répondre aux objectifs de la société en termes de couts, qualité et délaisAccompagner par son expertise l'utilisation des outils et systèmes d'information applicables au métier PC&L planning (SAP, AirSupply, Data viz, ?)Contribuer à l'harmonisation des processus, standards et méthodologies de fonctionnement du métier PC&L planning (en lien avec la démarche AAOS du groupe)Définir, faire valider et maintenir à jour la Roadmap de la communauté PC&L planning, en allant chercher l'adhérence de toutes les parties prenantesPiloter et contribuer aux projets PC&L du PC&L planning (Product Structure, planification, ordonnancement, gestion de master data, flux inter compagnies?)Analyser les écarts constatés lors des routines de surveillance des master data clés du métier PC&L planning pour en assurer la correction avec les opérationnels PC&L site concernés ainsi que les autres métiers impactésIdentifier, faire connaitre et transversaliser les Best Practices au sein de la communauté métier PC&L planningCréer, maintenir, ou fournir des supports documentaires permettant de formaliser et harmoniser les Best Practices du métier planningGérer les activités de sous-traitance lorsqu'applicable (spécifications, suivi des livrables ?).Parlons de vous !Nous recherchons des candidats ayant les expériences et les compétences suivantes :De formation Bac+5 Mécanique/Génie industriel ou équivalent avec une expérience de 3 ans minimum en Supply Chain et/ou Gestion IndustrielleMaitrise et pratique opérationnelle des principes MRP II (notamment PDP-MRP-Exécution) et des concepts de la Supply Chain globale au sein d'une entité de productionBonne connaissance des outils, méthodes et solutions de gestion de Projet (LBIP, démarche d'amélioration, ?)Expérience confirmée dans l'analyse de données (via divers outils de data visualisation) et de l'environnement SAPBon fonctionnement en réseau multi-métiers et multisites avec une certaine aisance de communicationAutonome, rigoureux et pédagogueBon niveau d'anglais recommandé (B1)La certification APICS (CPIM niveau 1) serait un plus appréciéParlons de nous !Notre site Airbus Atlantic de Méaulte (80) est spécialisé dans l'assemblage de toutes les pointes avant Airbus mais il est également un centre de Recherche et Technologies et un lycée d'enseignement d'excellence.Environnement & Conditions de travail :Airbus Atlantic c'est aussi : Prendre part à des projets ambitieux, à la pointe de la technologie pour construire l'avion de demain, en lien avec les enjeux environnementaux.  Un environnement qui valorise la proximité et la dimension humaine, au sein d'un collectif engagé et solidaire.L'opportunité d'apprendre et d'évoluer tout au long de votre parcours, en étant accompagné dans votre développement pour une carrière sur-mesure. Avoir la liberté d'entreprendre et de laisser libre court à vos initiatives.Ses conditions de travail attractives et ses avantages : restaurant d'entreprise s",Management et ingénierie gestion industrielle et logistique,,0.953413188457489
+Ingénieur Production Monitoring et Analytics (débutant) - F/H (H/F),"Une grande quantité d'équipements de production des sites opérés par Total Energies sont connectés grâce au logiciel PI qui collecte les mesures effectuées par les instruments et les amène en temps réel sur nos écrans. Ces données sont d'abord essentielles pour les équipes en charge du support des installations. Ensuite, le PI Monitoring Center (PIMC) est chargé de valoriser cette donnée en fournissant à nos clients sur les sites industriels des solutions avancées de surveillance pour améliorer la performance des opérations.
+
+ 
+Une des applications fournies par le PMIC a pour objectif de surveiller les émissions de gaz à effet de serre et l'efficacité énergétique sur l'ensemble de nos installations en temps réel. Dans ce cadre, vous serez intégré.e à l'équipe afin de :
+
+ * Créer des modèles (PI-AF, PI-Vision, Power BI.) pour le suivi/amélioration de l'efficacité énergétique des consommateurs significatifs d'énergie tels que les pompes, les compresseurs et les turbines.
+ * Créer des modèles de suivi des émissions et d'optimisation des gaz à effet de serre dans les actifs opérés.
+ * Incorporer d'autres bases de données (hors temps réel) dans nos modèles pour contribuer à la détection de gaz à effet de serre.
+
+ 
+Vos activités seront marquées par l'abstraction intellectuelle, la modélisation des systèmes et l'algorithmique. Vous fournirez des solutions fonctionnelles en adoptant une approche agile centrée sur la satisfaction du client. Enfin, la maîtrise de la suite PI vous permettra de créer et de proposer des solutions de surveillance avancées, capitalisant sur l'expertise et le savoir-faire de notre branche OneTech.
+Nous recherchons au CSTJF à PAU (64), un.e Ingénieur Production Monitoring et Analytics (débutant) - F/H
+
+Vous êtes récemment diplômé.ée d'un Bac+5 en tant qu'ingénieur.e généraliste ? Débutez votre carrière au sein d'une entreprise engagée aux multiples facettes et venez apprendre auprès d'équipes internationales expérimentées !
+
+Vous avez des connaissances générales sur les installations de traitement d'huile et de gaz (thermodynamique, mécanique des fluides, électronique) ainsi que sur les processus industriels (types de machines, capteurs...) ? 
+
+Vous maitrisez Power BI et les requêtes vers différentes sources (Web, SQL, Excel, API Web) ? Des connaissances sur la Suite PI est un vrai plus ! 
+
+Doté.e d'un sens de l'écoute, vous êtes orienté.e client ? 
+
+Vous êtes reconnu.e pour votre esprit d'équipe, votre curiosité et vos capacités de communication ? 
+
+Un niveau d'anglais intermédiaire/avancé est requis pour ce poste. 
+
+Dans le cadre de sa politique Diversité, TotalEnergies étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap. 
+
+ 
+
+Nous vous proposons un Contrat de Professionnalisation Temps Plein qualifiant de 12 mois (100% en entreprise) incluant 15% de formation interne (métier, linguistique, outils.) dispensée par des organismes sélectionnés par TotalEnergies. Ce contrat vous permettra d'acquérir une année d'expérience professionnelle tout en étant formé aux spécificités de votre métier en lien avec les activités de la Compagnie. Un réel atout pour booster votre employabilité !Pour postuler à cette offre, vous devez impérativement posséder, à la date d'embauche, un titre de séjour valide pour la période couverte par cette offre (minimum 13 mois). Attention, la conclusion de ce contrat de professionnalisation ne permet pas la délivrance d'un titre de séjour (article R.52221-6 du Code du travail).
+
+Ce poste ne s'adresse pas aux personnes recherchant une alternance avec une école ou une formation diplômante, mais aux personnes récemment diplômées à la recherche d'une première expérience.","Management et ingénierie études, recherche et développement industriel",,0.953108012676239
+Développeur / Développeuse décisionnel - Business Intelligence,"Au sein de notre siège social, nous recherchons notre prochain(e) Développeur BI F/H/X.
+
+Encadré(e) par un Chef de Projet, vous aurez la charge d'appréhender les problématiques Data des directions métiers, de les accompagner dans la structuration de leurs besoins et de mettre en place les solutions data et reporting au sein de notre marque.
+
+En tant que référent(e) technique de l'environnement BI, vos principales missions seront :
+
+Analyser les besoins métiers :
+
+- Collecter et analyser les besoins métiers
+
+- Être force de proposition pour déployer de nouveaux rapports/dashboards pertinents pour les équipes métiers
+
+Conception :
+
+- Participer à la constitution du schéma cible de data
+
+- Définir l'architecture data
+
+- Définir les indicateurs et dictionnaires de données
+
+- Rédiger les spécifications techniques
+
+- Cartographier les flux de données
+
+- Définir les interfaces de données à partir des diverses sources de données d'entreprise et les transformations requises (ETL Talend)
+
+Développement des solutions BI :
+
+- Développer des flux de données entre les datasources et le framework (ODS / datawarehouse / datamart) dans un contexte multi-sources (ETL Talend)
+
+- Développer des reports et dashboards sous Microsoft PowerBI (static et dataviz)
+
+Recettes / Qualité :
+
+- Réaliser les tests d'intégration et transformation des données
+
+- Contrôler l'intégrité des données par rapport aux besoins
+
+Assurer le Support utilisateurs :
+
+- Réception et résolution des dysfonctionnements rencontrés par les utilisateurs
+
+- Assurer le relais avec des prestataires de services sur la TMA de certaines briques applicatives (TM1, Cognos)
+
+- Gestion des demandes d'évolutions en fonction de leur impact business et veiller à ce qu'un suivi soit fait sur chaque incident
+
+Maintenance et évolution des flux de données : 
+
+- Suivre et améliorer les process d'alimentation mis en place
+
+- Consommer des données de webservices / Api
+
+- Proposer des solutions d'optimisation des modèles existants
+
+- Assurer la maintenance des documentations dans le cadre d'améliorations ou d'évolutions techniques
+
+Assurer le RUN :
+
+- Surveillance et gestion des traitements planifiés (chaines de traitements BI)
+
+- Être garant de la qualité et de la cohérence des données du Datawarehouse
+
+- Participer au maintien à jour des plateformes / applicatifs (paramétrage, suivi, identification d'améliorations,  )
+
+- Proposer des solutions d'optimisation des modèles existants
+
+- Devenir le référent technique de l'environnement Data pour les équipes techniques internes
+
+
+Si vous vous reconnaissez dans ce portrait et que :
+
+Vous avez des connaissances ETL Talend, BDD Microsoft SQL Server, Microsoft Power BI
+
+ Vous êtes passionné(e) par la Data, organisé(e), curieux(se), autonome ? Vous avez un bon sens du relationnel et un esprit d'analyse et de synthèse  ?
+
+Alors nous nous sommes trouvés !
+
+De notre côté, nous nous engageons à vous offrir un cadre de travail enthousiasmant, riche en projets au sein d'une équipe dotée d'une double dose d'optimisme ! Nous permettons à nos collaborateurs de télétravailler 2j/semaine.
+
+Reconnue entreprise à mission depuis 2020, Aigle étend son engagement social en faveur d'un monde du travail accessible aux personnes en situation de handicap, visible ou invisible.
+
+ Nos offres d'emploi sont par conséquent ouvertes à tous.",Études et développement informatique,"[{'code': '300688', 'libelle': 'Application web', 'exigence': 'S'}, {'code': '109846', 'libelle': 'Concevoir une application web', 'exigence': 'S'}, {'code': '300188', 'libelle': 'Rédiger un cahier des charges, des spécifications techniques', 'exigence': 'S'}, {'code': '300242', 'libelle': 'Déterminer des mesures correctives', 'exigence': 'E'}, {'code': '300366', 'libelle': 'Recueillir et analyser les besoins client', 'exigence': 'E'}]",0.9529454112052917
+Data Scientist Junior (H/F),"Dans le cadre d'un projet ambitieux dans la lutte contre la fraude dans le domaine du e-commerce, nous recherchons activement un profil qui correspondra aux attentes suivante:
+
+Responsabilités :
+Collaborer avec les équipes pour comprendre les besoins métier et identifier les opportunités d'application de l'analyse de données.
+Concevoir, développer et mettre en œuvre des pipelines de données pour l'extraction, le nettoyage, la transformation et la visualisation des données.
+Effectuer des analyses exploratoires pour identifier des tendances, des modèles et des insights significatifs.
+Développer et mettre en œuvre des modèles de machine learning et des algorithmes de prédiction.
+Participer à la conception et à l'implémentation d'architectures de bases de données.
+Intégrer les modèles et les analyses dans des applications et des systèmes en production.
+Maintenir une documentation précise des processus, des modèles et des analyses réalisées.
+
+
+Diplôme en ingénierie (Bac +5 ou plus) dans le domaine de l'IT (Computer Science).
+
+Maîtrise de Python, SQL, Neo4j et des bibliothèques couramment utilisées pour l'analyse de données.
+Expérience pratique avec des outils de développement et de déploiement de modèles ML/DL sur Dataiku.
+Compréhension des concepts de data engineering et des pipelines de données.
+Capacité à travailler dans un environnement dynamique et à s'adapter rapidement aux nouvelles technologies et aux nouveaux défis.
+Excellentes compétences en communication et en travail d'équipe.
+
+Atouts :
+Expérience avec des bases de données NoSQL et Graphs.
+Connaissance des outils de conteneurisation et d'orchestration.
+Expérience dans la conception de systèmes de recommandation.
+Compréhension des principes de l'apprentissage automatique en ligne.
+Maîtrise d'autres langues, en particulier le français et l'anglais.
+
+À propos de vous :
+Vous êtes un ingénieur passionné par l'analyse de données et l'apprentissage automatique, doté d'un esprit curieux et d'une capacité à résoudre des problèmes complexes. Vous aimez travailler dans un environnement collaboratif où l'innovation est encouragée, et vous êtes prêt à contribuer activement à des projets de données stratégiques qui ont un impact significatif sur l'entreprise.
+
+
+Date de début : Immédiatement
+Télétravail possible
+Maîtrise du français et de l'anglais indispensable
+Déplacement surtout sur Paris et Lille",Études et prospectives socio-économiques,"[{'code': '101397', 'libelle': 'Modélisation et simulation', 'exigence': 'S'}, {'code': '102732', 'libelle': 'Langages de programmation informatique', 'exigence': 'S'}, {'code': '113255', 'libelle': 'Business Intelligence (BI) / Informatique décisionnelle', 'exigence': 'S'}, {'code': '115921', 'libelle': 'Big data Analytics', 'exigence': 'S'}, {'code': '117685', 'libelle': 'Modélisation statistique', 'exigence': 'S'}, {'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'E'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'E'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'E'}, {'code': '117323', 'libelle': ""Coordonner le déroulement d'une étude"", 'exigence': 'S'}, {'code': '117698', 'libelle': 'Concevoir des modèles de détection des insights consommateurs', 'exigence': 'S'}, {'code': '120552', 'libelle': 'Analyser les insights et les usages des consommateurs', 'exigence': 'S'}, {'code': '122178', 'libelle': 'Réaliser des études spécifiques', 'exigence': 'S'}, {'code': '124418', 'libelle': 'Réaliser un modèle de prévision', 'exigence': 'S'}, {'code': '125901', 'libelle': ""Mettre en place des outils d'aide à la décision"", 'exigence': 'S'}, {'code': '300119', 'libelle': 'Réaliser une veille documentaire', 'exigence': 'E'}, {'code': '300457', 'libelle': ""Définir et faire évoluer des procédés de traitement de l'information"", 'exigence': 'E'}, {'libelle': 'Data science methodology', 'exigence': 'S'}, {'libelle': 'Deep Learning', 'exigence': 'E'}, {'libelle': 'Fraud detection', 'exigence': 'S'}, {'libelle': 'Machine Learning', 'exigence': 'E'}]",0.9526473879814148
+Technical leader data scientist f/h (H/F),"Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 83 000 collaborateurs pour un chiffre d'affaires de 19,0 milliards d'euros en 2022, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran s'engage dans des programmes de recherche et développement qui préservent les priorités environnementales de sa feuille de route d'innovation technologique.
+
+
+
+Safran est dans le top 30 des meilleurs employeurs mondiaux 2022 selon le magazine Forbes.
+
+
+
+Safran Engineering Services offre des services en ingénierie de haute technologie dans les domaines de l'aéronautique, de l'énergie et du transport terrestre. Avec 30 ans d'expérience, la société s'appuie sur 3 000 ingénieurs répartis dans 9 pays à travers le monde.
+
+
+Descriptif missionLa data science est au coeur de la transformation industrielle chez Safran et se met au service de nos métiers de la production (manufacturing 4.0) ou de la surveillance de nos systèmes en vol (Service 4.0).
+
+En intégrant Safran Engineering Services vous aurez l'opportunité de pouvoir répondre aux problématiques industrielles actuelles en utilisant les données métier issues des machines de production, des capteurs embarqués, des opérations de maintenance, etc et mettant en oeuvre les technologies algorithmiques de l'état de l'art.
+
+Dans ce cadre et au sein du pôle Data de Safran Engineering Services, votre mission consistera à intervenir sur toutes les phases du cycle de vie d'un projet data (Prise de besoin métier, Proof of Concept, industrialisation). Vous aurez la responsabilité d'encadrer techniquement les jeunes data scientist de l'équipe sur leur projet, d'assurer leur montée en compétences et de supporter le management sur la structuration de l'équipe dans sa croissance. 
+
+
+
+Concrètement, vous aurez trois principaux volets de responsabilité : 
+
+
+
+o Production technique
+
+
+
+- Définir le besoin en échangeant avec les métiers
+
+- Appliquer des techniques d'extraction et d'analyse d'informations, obtenues à partir de différentes sources de données industrielles, 
+
+- Evaluer la qualité et la richesse des données, les analyser et en restituer les résultats vers le Métier, 
+
+- Analyser les données pour traduire une problématique Métier en problème mathématique/statistique et réciproquement,
+
+- Comparer et évaluer différents modèles ou méthodes de calculs (Machine Learning, deep learning) et anticiper les avantages et inconvénients dans un environnement Métier,
+
+- Concevoir et développer des visualisations impactantes pour le métier
+
+- Utiliser les infrastructures Cloud de Safran (AWS)
+
+- Spécifier les solutions retenues et accompagner l'équipe dans l'industrialisation des traitements de données dans un logiciel industriel.
+
+
+
+o Support au cadrage des projets
+
+
+
+- Contribuer à l'élaboration des réponses techniques aux appels d'offres 
+
+- Identifier les work packages des projets en phase de démarrage
+
+
+
+o Mentoring technique des profils juniors
+
+
+
+- Participer à l'évolution et l'amélioration continue de l'équipe Data (nouvelles offres, méthodes, pratiques de code, ...)
+
+- Assurer la montée en compétences des data scientist (veille technique et scientifique, animation de l'équipe)",Installation et maintenance d'équipements industriels et d'exploitation,,0.9521639943122864
+Chef de Projet Dynamics CRM F/H - mylight150 (H/F),"En tant que chef de projet Dynamics CRM, tu seras en charge de la plateforme Dynamics 365 et des outils liés au domaine Commerce, Support & Marketing. 
+Rattaché(e) au manager du pôle ERP & Business Solutions, au sein d'une direction informatique en plein développement, tes principales missions seront : 
+ 
+ 
+  
+- Analyser, comprendre et rédiger les besoins des utilisateurs métiers et proposer des solutions adaptées et innovantes autour de la solution CRM pour optimiser les processus métier et réduire les coûts (Sales, Customer Service & Marketing), 
+- Configurer l'application MS Dynamics CRM 365 en fonction des besoins spécifiques de l'entreprise (Formulaire, modèle de données, paramétrage.), 
+- Travailler en collaboration avec les départements métiers, du pôle Produit & Innovation, en utilisant les méthodologies internes de gestion de projet et déploiement (Agile, Azure DevOps.), 
+- Piloter le déploiement des solutions et garantir la disponibilité et l'intégrité des données entrantes et sortantes en collaboration avec nos partenaires internes / externes, 
+- Assurer le maintien en condition opérationnelle de la plateforme CRM et de son intégration au sein du SI global, 
+- Participer à l'assistance du CRM auprès des utilisateurs, 
+- Assurer la veille technologique et le suivi des évolutions de la plateforme 365 et anticiper les impacts et opportunités la concernant. 
+ 
+- Issu(e) d'une formation supérieure (IT idéalement), tu as acquis au moins 3 ans d'expérience au sein d'une ESN ou d'une DSI dont une expérience d'au moins 2 ans traitant des sujets d'implémentation / développement de la solution Microsoft Dynamics CRM 365 (SaaS) dont tu as une excellente connaissance des différents modules. Idéalement tu as l'habitude de traiter des sujets autour de la Power Platform (Automate et Apps), ainsi qu'une connaissance des technologies Javascript/.NET.   
+- Tu as une forte sensibilité sur la qualité des données et l'efficience opérationnelle de tes clients internes et adore travailler au contact des métiers.   
+- Curieux(se), tu es guidé(e) par ton envie d'apprendre et de partager tes connaissances. Ta capacité d'organisation et de rédaction te permet d'élaborer des cahiers des charges, plan de test, ou encore documentation technique ou utilisateur.  
+- Tu es reconnu(e) pour ta flexibilité, ta ténacité et ton savoir-être.  
+- Tu parles couramment anglais. 
+ 
+ 
+ 
+Compétences SI attendues :
+ 
+ 
+  
+- CRM : Expérience significative sur Dynamics CRM 365 (Sales, Field Service.) 
+- Plateforme Microsoft : Power Apps, Power Automate, Dataverse 
+- SQL / BI : Connaissances pratiques 
+- ERP : Idéalement MS Dynamics Business Central ou MS Navision 
+- Méthodologie & Outil Projet : Scrum, Azure DevOps",Ingénierie et études du BTP,,0.9520105719566345
+Concepteur développeur informatique (H/F),"Description du poste :
+Développer vos compétences au sein d'une équipe humaine et dynamique, contribuer à des missions passionnantes permettant de prévenir et de maîtriser les risques, ça vous tente ?
+APAVE recherche un Concepteur/Développeur Applicatif H/F en CDI :
+La DSI APAVE édite ses propres logiciels métiers. De plus APAVE s'est lancée dans un projet de refonte de son SI ; cette refonte passe, entre autre, par la mise de nouvelles normes technologies ainsi que la mise à jour de ses infrastructures et outils techniques.
+A la demande du chef de projet MOE, et sur la base de l'Analyse Fonctionnelle Détaillée, le concepteur-développeur analyse, code et teste les composants logiciels applicatifs dans le respect des évolutions du Systèmes d'Information souhaitées, des normes et des procédures.
+De manière globale le concepteur-développeur Analyse, précise, actualise et met en place un modèle d'application en accord avec la politique SI et les besoins du client/de l'utilisateur.
+Il conçoit les structures de données et construit les modèles de structuration des systèmes en fonction des résultats obtenus par le biais de différents langages de modélisation.
+Il utilise les techniques de conception pour développer une application adaptée en accord avec les besoins du client et adapte les solutions existantes.
+Il veillera au bon respect de a méthodologie projet APAVE.
+Les principales tâches, sous la responsabilité du développeur, sont :
+- Conception et développement d'applications
+- Intégration des systèmes
+- Tests unitaire
+- Production de la documentation
+- Maintenance en condition opérationnelle des briques applicatives de son périmètre
+- Respect du délai et de la qualité des développements
+Choisissez-nous !
+En rejoignant Apave, vous intégrez plus qu'un groupe : vous prenez part à une histoire où la force du collectif est une réalité, où la notion d'accompagnement s'exprime au quotidien, pour que chacun trouve naturellement sa place.
+Parce que chez Apave, nous considérons nos di¿érences comme une richesse que nous mettons chaque jour au service de missions à forte utilité sociale.
+Nous rejoindre, c'est :
+- Prendre du plaisir dans le travail et développer votre carrière. Nous vous proposons une diversité de missions loin de la routine, un programme de formation complet tout au long de votre parcours, et des possibilités de mobilité interne au sein du Groupe
+- Une entreprise engagée dans votre équilibre vie professionnelle / vie personnelle : [Droit à la déconnexion, Interventions majoritairement sur un secteur géographique défini]
+- Bénéficier des avantages : [13ème mois, forfait repas ou ticket restaurant selon conditions de déplacement, RTT, participation / intéressement, plan d'épargne, prime vacances]
+- Des outils connectés et de mobilité pour réaliser votre activité : [Smartphone, Tablette, Voiture]
+Description du profil :
+Parlons de vous !
+D'abord, votre cursus :
+De formation Bac + 2 (BTS ou DUT) ou ingénieur
+Vous justifiez d'une expérience de minimum de 3 ans sur un poste similaire.
+Ensuite, vos compétences, vos qualités personnelles :
+- Maîtrise de la conduite de projets informatiques.
+- Maîtrise de la modélisation et l'analyse des processus métiers.
+- Principes de la qualité, normes régissant les systèmes de qualité et d'ergonomie.
+- Connaissance en Architecture Logiciel :
+- Webservice REST ou micro-service
+- Front Office WEB / Back Office
+- Connaissances techniques parmi les langages et framework de développement :
+- Web (PHP, Java, Angular,.)
+- Base de données
+- ETL / ESB / Interfaces
+- Méthodologies Projet :
+- Scrum / Agile / développement itératif
+- Bon relationnel
+- Capacité rédactionnelle
+- Capacité d'adaptation et autonomie
+- Goût pour la technique et les nouvelles technologies
+- Capacités d'analyse et de synthèse / Force de proposition
+- Sensible aux notions de Design et Créativité
+Cette description correspond à votre profil ? Nous sommes faits pour nous entendre !
+À partir de maintenant, comment ça se passe ?
+1. Faites-vous connaître. Postulez.
+2. Vous avez attiré notre curiosité ? Nous vous contactons pour un 1er échange.
+3. Nous souhaitons poursuivre ensemble ? Des entretiens opérationnels techniques et RH vous attendent.
+4. Bienvenue ! Notre collaboration va commencer, hâte de vous retrouver !",Études et développement informatique,,0.9516698718070984

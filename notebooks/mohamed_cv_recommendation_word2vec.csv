@@ -1,0 +1,1042 @@
+intitule,description,romeLibelle,competences,cosine_similarity
+Data Scientist H/F (H/F),"Vos missions
+Acteur/Actrice du changement, vous jouerez un rôle clé dans l'analyse et l'exploitation de nos données pour mettre en place et développer des méthodes analytiques et contribuer à l'amélioration continue de nos produits/services. Vous travaillerez en étroite collaboration avec notre équipe de data scientist, d'ingénieurs et d'autres départements pour résoudre des problèmes complexes et vulgariser les résultats.
+
+Votre quotidien
+En tant que Data Scientist, vous :
+
+Collectez, nettoyez et préparez les données pour l'analyse.
+Concevez, développez et mettez en œuvre des modèles de machine learning et d'apprentissage profond.
+Effectuez des analyses statistiques pour extraire des informations significatives.
+Collaborez avec les équipes métier pour comprendre leurs besoins et proposez des solutions basées sur les données.
+Créez des tableaux de bord et des rapports pour visualiser les résultats de l'analyse powerBI ou autre.
+Participez à la recherche de nouvelles sources de données pertinentes.
+Restez à jour avec les dernières avancées en matière de data science et de machine learning.
+
+
+Contexte
+Au sein de la Direction Générale Industrielle & Ingénierie, vous travaillerez dans une jeune équipe de Data Science du département Intégration Projets Multi-métiers et Mesures (IP3M). Vous répondrez au besoin exprimé par la Direction Technique.
+
+Horaires
+Poste au forfait jour.
+
+Profil recherché
+Titulaire d'un BAC+5 en statistiques, mathématiques, informatique ou domaine connexe (master ou école d'ingénieurs), vous disposez d'une expérience démontrée en data science, y compris la création de modèles prédictifs.
+
+Vous maîtrisez des langages de programmation tels que Python ou/et R et avez une connaissance des bibliothèques et des frameworks de machine learning (scikit-learn, TensorFlow, ...) ainsi que des compétences en manipulation de données et en outils tels que SQL, Pandas, etc.
+
+Vous maitrisez Devops et git et avez d'excellentes compétences en communication et en présentation.
+
+Une capacité à travailler de manière autonome et en équipe est demandée.
+
+La connaissance du ferroviaire serait un plus.",Études et prospectives socio-économiques,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '300119', 'libelle': 'Réaliser une veille documentaire', 'exigence': 'S'}, {'code': '300457', 'libelle': ""Définir et faire évoluer des procédés de traitement de l'information"", 'exigence': 'S'}]",0.9683746695518494
+Data Analyst expérimenté Business (H/F),"Si tu es animé(e) par la passion de transformer les chiffres en récits concrets et porteurs de sens, à l'instar de l'esprit novateur d'Archimède, et que tu as le sens de l'écoute des besoins métier du client, tu pourrais être le Data Analyst (H/F) expérimenté(e) business que nous recherchons. Rejoins notre équipe pour apporter ton expertise et ton talent d'analyse, et deviens le/la visionnaire des données qui révèlera de nouvelles perspectives métier. En tant que professionnel(le) expérimenté(e), tu connais divers aspects du traitement de la donnée dans les entreprises, qu'il s'agisse des flux, de la BI, de l'analytique métier, de la gestion, de la logistique, du commerce, du SAV, et bien plus encore.
+
+Equipe:
+Le pôle Data est constitué de 7 spécialistes qui travaillent en étroite collaboration avec les différents pôles de l'agence. En tant que membre de ce pôle, tu seras en contact direct avec les membres du pôle Data, les chefs de projet, les architectes techniques et les responsables hiérarchiques de l'agence.
+
+Scope, Sujets :
+Données métier, données d'entreprise, approche data driven, business intelligence, analyse statistique, collecte, exploration, consolidation, transformation de données, data visualisation, storytelling.
+
+Types de projets:
+Analyse de performances marketing, optimisation de la chaîne d'approvisionnement et l'identification d'opportunités de croissance, analyse de données ouvertes, scraping, analyse statistique au cas par cas.
+
+Stack technique:
+Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, SQL (MySQL, PostgreSQL), Scikit-Learn, StatsModels, NLTK, SpaCy, Tableau, Looker, JIRA, Trello, Git, GitHub, Asana.
+
+Candidat.e
+Passionné(e) par l'analyse de données, tu es un(e) expert(e) qui comprend parfaitement les besoins métier des entreprises et écoute attentivement les clients. Tu excelles également dans la dataviz, le storytelling et la transformation de données en insights stratégiques pour innover.
+
+Tes missions:
+Dans une agence de 100 personnes, au sein d'une équipe de 7 personnes, et sous la responsabilité de notre CTO et du directeur de pôle, tu auras pour mission de :
+
+- Analyser et visualisation des données
+- Analyser les données pour identifier les tendances pertinentes
+- Traduire les besoins métier en questions analytiques
+- Créer des tableaux de bord interactifs et visuels
+Optimisation et amélioration:
+- Évaluer les performances actuelles et proposer des améliorations
+- Mettre en place des modèles prédictifs pour anticiper les tendances
+- Fournir des recommandations stratégiques basées sur les analyses
+- Suivre l'impact des décisions et ajuster les stratégies
+Communication et présentation:
+- Présenter clairement les résultats et les insights aux équipes
+Veille technologique: 
+- Rester à jour avec les dernières tendances en analyse de données
+
+
+Ton profil:
+Exigence
+Nous attendons de toi une grande expertise dans l'analyse de données et la capacité à résoudre des problèmes complexes. Tu devras être capable de traduire les besoins métier en questions analytiques pertinentes et de fournir des réponses exploitables.
+
+Passion:
+Tu te caractérises par une passion ardente pour l'exploration des données, une curiosité insatiable et un désir constant d'apprendre. Tu devras être orienté(e) vers les résultats, méthodique dans ton approche, et avoir une forte capacité à communiquer efficacement les résultats de ton analyse.
+
+Ouverture:
+Comme nous, tu regardes le monde entier avec intérêt : tu aimes rencontrer des gens d'origines diverses, tu parles ou apprends plusieurs langues, les autres cultures sont des sources d'inspiration, tu peux ou souhaiterais voyager. Tu es ouvert(e) aux richesses de l'autre.
+
+
+Formation:
+Bac+5, M2 ou équivalent
+
+ Nous avons tous des imperfections ou un handicap et c'est aussi une force : tu peux nous partager le tien.",Études et prospectives socio-économiques,"[{'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'E'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'E'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'E'}, {'libelle': 'Git', 'exigence': 'S'}, {'libelle': 'Jira', 'exigence': 'S'}, {'libelle': 'Looker', 'exigence': 'E'}, {'libelle': 'NoSQL', 'exigence': 'S'}, {'libelle': 'Power BI', 'exigence': 'E'}, {'libelle': 'Python', 'exigence': 'E'}, {'libelle': 'SQL', 'exigence': 'E'}, {'libelle': 'SpaCy', 'exigence': 'S'}, {'libelle': 'StatsModels', 'exigence': 'S'}, {'libelle': 'Trello', 'exigence': 'S'}]",0.9653668999671936
+Data manager (H/F),"Description du poste :
+Rattaché à la Direction Systèmes d'Information (DSI), vous intégrez une équipe de 4 personnes. Votre rôle, consiste mettre en place la collecte et la mise à disposition des données au sein de l'entreprise, être en charge d'industrialiser et mettre en production des traitements sur les données (par exemple : mise à disposition de tableaux de bord, intégration de modèles statistiques) en lien avec les équipes métiers et les équipes qui les analysent.
+C'est un rôle central et très important, situé au coeur de notre développement ! Le Data Engineer est le maillon essentiel pour fournir les données fiables aux métiers leur permettant de créer leurs nouveaux produits et services.
+Les missions sont composées des actions suivantes ;
+Acheminement de la donnée ;
+- Recueillir les besoins métiers des différentes unités demandeuses et utilisatrices de solutions de collecte et stockage de la donnée.
+- Développer les solutions techniques de collecte de la donnée via des API.
+- Développer des solutions techniques de stockage de la donnée (Hadoop).
+- Réaliser les tests unitaires et d'intégration.
+- Mettre en place et maintenir les batchs, c'est-à-dire les automatisations d'une série de traitements.
+Mise à disposition des données aux équipes utilisatrices ;
+- Industrialiser et automatiser le nettoyage de la donnée selon les spécifications retenues.
+- Gérer, maintenir et documenter de multiples bases de données (via l'importation de données externes en open data ou de données internes par exemple).
+- Gérer le cycle de vie de la donnée conformément aux directives inscrites dans le RGPD.
+- Assurer le suivi de production et la maintenance.
+Mise en production de modèles statistiques dans les applications ;
+- Développer l'industrialisation de modèles statistiques ou de machine learning.
+- Implémentation du suivi de la validité du modèle statistique.
+- Assurer le suivi de production et la maintenance.
+Suivi des projets de développement ;
+- Établir les spécifications techniques à partir de l'analyse des besoins.
+- Reporter l'activité auprès du chef de projet. Autres activités éventuelles ;
+- Automatiser la création de tableaux de bord aux équipes métiers (envoi de fichiers via des applications dédiées).
+- Assurer une veille technologique sur les outils big data.
+- Écrire la documentation relative aux bases de données (règles de gestion, dictionnaire des variables.).
+Dans le cadre de sa politique diversité, le groupe Axéréal étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap.
+Description du profil :
+De formation Bac+5 école d'ingénieur orienté développement, ou master spécialisé en data, avec une spécialisation Big Data, vous êtes passionné par l'innovation et les technologies liées aux domaines Data Analytics & AI.
+- Maîtrise de l'environnement technique du cloud provider (GCP )
+- Maîtrise des bases de données (BigQuery)
+- Maîtrise de langages de programmation (Java, Python, Spark, Scala, Sql,.)
+- Maîtrise des outils de gestion de flux et de manipulation de données ETL/ELT (Semarchy DI, Google DataFlow, Dataproc, etc .)
+- Connaissance des méthodes de développement agile
+- Maîtrise des systèmes d'exploitation (Unix, Windows.)
+Vous appréciez travailler en équipe et possédez un excellent relationnel ? C'est parfait, car le poste nécessite de travailler avec des interlocuteurs multiples et demande ainsi une grande adaptabilité.
+Aussi, vos capacités organisationnelles, votre autonomie, votre sens de l'initiative, votre rigueur et votre orientation résultat sont autant d'atouts qui vous permettront d'exceller dans la fonction.",Expertise et support en systèmes d'information,,0.9633319973945618
+TEAM LEADER (H/F),"Systnaps - Editeur français de logiciels, expert du Data Management depuis 17 ans, nos solutions uniques et innovantes accélèrent la transformation digitale de toutes les organisations pilotées par la donnée.
+
+Rattaché(e) directement au fondateur, ton rôle est d'être actrice /acteur sur différentes missions :
+Vous serez en charge de :
+-	Gérer un groupe d'ingénieurs en conception logicielle (activités de suivi, entretiens annuels, réunions, objectifs...
+-	Affecter le personnel de l'équipe aux activités du projet
+-	Assurer un bon niveau d'IRC en ce qui concerne les jalons
+-	Coordonner entre les équipes de R&D et les équipes intégrées
+-	Soutien à la gestion, démonstrations, proposition de feuille de route, rapports de projet et risques
+-	Contribuer au recrutement des membres (ingénieurs & stages) du département SW AI.
+-	Définir le plan de formation pour chaque ingénieur.
+-	Proposer et améliorer les schémas logiciels et de conception de nos cadres logiciels centraux pour les réseaux neuronaux
+-	Développer des modules logiciels pour les applications d'apprentissage automatique, principalement en python et C/C++
+-	Proximité des ingénieurs R&D pour les commentaires et la mise en œuvre des exemples d'utilisation
+-	Contribuer et améliorer les normes de codage logiciel (PEP8 et révisions de code)
+-	Créer des tests logiciels automatisés pour une intégration continue
+-	Analyser et optimiser l'efficacité logicielle (analyse d'exécution, multithreading)
+-	participer à des projets innovants avec nos experts.
+
+Incontournables
+-	Expériences réussies en méthode agile ;
+-	Expérimenté(e) en développement web ;
+-	Langages et frameworks suivants : 
+Framework Symfony, REST API, MongoDB, Node JS, Angular, Linux, Git, Gitlab, DevOps 
+-	Bonnes pratiques - versionning - tests - CI/CD - ;
+-	Gérer des équipes et as une expérience poussée d'interactions régulières et réussies avec une team produit ;
+-	Développer et travailler sur une roadmap tech et  faire des trade-offs, les justifier, les communiquer et les faire adopter ;
+-	Expérience minimum de 5 + années en dev full stack, nécessaires.
+-	Expérience réussie dans le monde des marketplaces,  
+-	Connaissance du principe de la Blockchain
+-	Gérer une équipe de dev full stack
+-	Expérience dans le domaine de l'analyse de données serait un plus
+
+DIPLOME/EXPERIENCE  : 
+-	Vous êtes diplômé(e) d'un Bac +5 en ingénierie, vous justifiez de minimum 5 ans d'expérience en logicielle  
+-	Vous avez une expérience significative en conception de modèles et architectures de conception logiciels
+-	Vous êtes curieux et ouvert d'esprit et vous avez un bon sens de la communication et du travail d'équipe
+-	Vous avez des connaissances en maintenance de Serveurs informatique de stockage (LINUX, Google Coud Plateform...
+-	Force de proposition
+-	Bonne capacité d'analyse et d'organisation",Études et développement informatique,"[{'code': '300688', 'libelle': 'Application web', 'exigence': 'E'}, {'code': '109846', 'libelle': 'Concevoir une application web', 'exigence': 'E'}]",0.9581624865531921
+Leader technique - CDI - Mérignac (H/F),"Qu'allez-vous trouver chez nous ?
+- Un impact direct de vos actions en faveur de l'emploi de personnes en situation de handicap,
+- Une politique salariale évolutive chaque année, un plan de carrière potentiel sous 2 à 3 ans,
+- Des technos et des projets intéressants dans lesquels vous serez un réel acteur.
+Qui sommes nous ?
+GESTFORM s'est donc doté, depuis plusieurs années, d'un service interne totalement dédié à la conception et au déploiement de ses outils de traitement numérique.
+Véritable ESN interne, cette équipe élabore des solutions logicielles, matérielles, et organisationnelles performantes et paramétrables.
+GESTFORM dispose également d'une chaine d'intégration continue (Devops) hébergée dans notre propre data center.
+
+Vos missions : 
+Au sein de ce Pôle SI constituée d'une quarantaine de personnes, en étroite collaboration avec vos collègues, vous participez développement de nos solutions.
+Vos grandes missions seront donc de travailler sur :
+- L'évolution et refonte des applications développées
+- La maintenance des applications de production et de gestion
+- La conception à la mise en production au sein de notre usine numérique
+Enfin, votre rôle de Leader technique fait de vous un référent, vous accompagnez les plus jeunes développeurs dans leur quotidien.
+Vous redescendez les consignes données par l'architecte SI sur les technos à utiliser et les choix.
+Nos langages et outils :
+- IDE : Visual Studio, VSCodium  
+ - Versionning : Git, svn  
+ - Méthodologie : Agile / Scrum 
+ - Langage : Angular, Python, .net, C#, Javascript . 
+
+Nous avons de plus en plus de technos récentes (de quoi se faire plaisir.
+
+Votre profil
+Titulaire d'un Bac+3 / 5 Systèmes Informatiques et Logiciel
+Vous disposez de connaissance sur les bases de données SQL Serveur.
+Vous disposez également d'une base de connaissance des principes Clean Code et d'une sensibilité concernant l'UI/UX.
+Vous attachez une réelle importance à la qualité de votre code et de vos livrables en générale.
+Plus qu'un niveau d'étude, nous recherchons une personne autonome et investie dans sa mission, passionnée, rigoureuse et curieuse et ayant un bon sens de la relation client (client interne).
+
+Votre expérience fait que vous pouvez conseiller et accompagner des développeurs juniors. Vous êtes bienveillant, patient et pédagogue.
+
+Vous vous êtes reconnu(e) dans ce descriptif ? vous avez envie de nous rejoindre ? alors postulez ! Vous serez recontacté(e) par notre chargée de recrutement dans les prochains jours.
+
+Pour votre organisation personnelle :
+- Horaires classiques (même pour les cadres   )
+- Un Accord de télétravail de 2 jours par semaine
+
+La rémunération brute annuelle est composée d'un fixe entre 40 et 42k€ (selon expérience) + prime intéressement + PEE + PERCO + RTT
+
+Également, d'autres avantages :
+- Parcours d'intégration personnalisé
+- Forte Politique de formation
+- Possibilité d'évolution (plan de carrière mis en place)
+- CSE
+- Mutuelle d'entreprise avec prise en charge de 63% de la part de Gestform sur la base mutuelle (22€ à votre charge)",Études et développement informatique,"[{'code': '113798', 'libelle': 'Python', 'exigence': 'S'}, {'code': '118748', 'libelle': 'Méthodologie Scrum', 'exigence': 'S'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'S'}, {'code': '300679', 'libelle': ""Tester un logiciel, un système d'informations, une application"", 'exigence': 'S'}, {'code': '400261', 'libelle': 'Coder', 'exigence': 'S'}]",0.957667350769043
+Analyste Business Intelligence et Stratégie Commerciale  F/H - La Compagnie (H/F),"La Compagnie recrute, en contrat à durée indéterminée, un(e) analyste Business Intelligence et Stratégie Commerciale.
+ 
+ 
+ 
+Vos missions
+ 
+ 
+ 
+Rattaché(e) à la Direction Business Intelligence, l'analyste Business Intelligence et Stratégie Commercial aura pour mission de :
+ 
+ 
+ 
+Business Intelligence :
+ 
+ 
+ 
+         Participer activement au développement de rapports d'analyse et d'aide à la prise de décision et contribuer à une logique d'intelligence d'affaires dans les projets de la société,
+ 
+         Contribuer à l'analyse des besoins fonctionnels et techniques de chaque département de la société  et proposer des rapports d'aide à la prise de décision efficaces,
+ 
+         Aider à la création de rapports ad hoc pour répondre aux demandes spécifiques des départements et des parties prenantes internes, dont la Direction Générale et la Direction Financière,
+ 
+         Participer à la mise en place d'un écosystème de données robuste et efficace. Rendre l'accès aux données plus simple et intuitif pour les différentes équipes concernées,
+ 
+         Assister à la mise en place de processus d'automatisation pour la collecte, le nettoyage et l'analyse des données, afin d'améliorer l'efficacité opérationnelle,
+ 
+         Assurer la qualité et l'intégrité des données en mettant en place des contrôles réguliers et des procédures de validation,
+ 
+         Participer à la formation des utilisateurs finaux sur les outils et les processus liés à la Business Intelligence pour favoriser l'adoption et l'utilisation efficace des solutions déployées par l'activité.
+ 
+ 
+ 
+Business Developpment :
+ 
+ 
+ 
+         Contribuer à la réflexion et à l'exécution d'analyses poussant les différents départements techniques et opérationnels vers une optimisation de la performance de la société,
+ 
+         Assister à la structuration et l'établissement d'une veille permettant une analyse claire du marché et de la conjoncture économique concernant l'activité de transport commercial de la société,
+ 
+         Collaborer avec les équipes internes pour développer des analyses personnalisées et des solutions sur mesure en réponse aux besoins,
+ 
+         Participer à la traduction de l'ambition stratégique de l'entreprise en plan d'actions pour les activités de ventes, en explicitant et justifiant les facteurs clés de succès associés,
+ 
+         Collaborer à la définition et à l'accompagnement de la conduite du plan commercial stratégique de l'entreprise,
+ 
+         Participer à la conception et à l'accompagnement de l'implémentation de nouvelles initiatives commerciales et de partenariats stratégiques,
+ 
+         Contribuer activement au pilotage de la performance et des projets commerciaux clés de l'entreprise ainsi qu'à la réalisation des chiffres d'affaires associés au business plan.
+ 
+ 
+ 
+Ces missions ne sont pas exhaustives et évolueront en fonction des besoins de l'entreprise.
+Vous êtes issu(e) d'un cursus Bac+5 en ingénierie / commerce / informatique, spécialisation : MIAGE / BI & Analytics / Data Sciences & Business Analytics .
+  
+ Votre expérience antérieure atteste de votre capacité à concevoir et déployer des outils de reporting et de pilotage, contribuant ainsi à l'amélioration des performances globales. Vous excellez dans l'interprétation des besoins métier pour élaborer des tableaux de bord pertinents. Votre aptitude à analyser les données chiffrées vous permet de produire des rapports clairs, visuellement impactant et facilement compréhensibles par un public varié.
+  
+ Votre maîtrise avancée des outils Microsoft Office, notamment Excel et Power BI, combinée à votre intérêt pour les solutions de gestion de données, constitue un atout essentiel. Une connaissance supplémentaire en Power Query, Python, R ou SQL serait fortement appréciée.
+  
+ Doté d'un sens aigu de l'organisation, d'un business sense, d'une grande proactivité et d'un esprit d'équipe affirmé, vous êtes prêt à exceller dans ce rôle.
+  
+ Une maîtrise de l'anglais, à l'écrit comme à l'oral, est indispensable pour ce poste.
+  
+ Alors rejoignez-nous !
+  
+ 
+Nature du contrat :                   Contrat à durée indéterminée
+ 
+Rémunération :                        A déterminer
+ 
+Localisation du poste :             Arcueil (94)
+ 
+Démarrage :                            Asap",Études et prospectives socio-économiques,,0.9564691781997681
+Développeur - CDI - Mérignac (H/F),"Qu'allez-vous trouver chez nous ?
+- Un impact direct de vos actions en faveur de l'emploi de personnes en situation de handicap,
+- Une politique salariale évolutive chaque année, un plan de carrière potentiel sous 2 à 3 ans,
+- Des technos et des projets intéressants dans lesquels vous serez un réel acteur.
+
+Qui sommes nous ?
+
+GESTFORM s'est donc doté, depuis plusieurs années, d'un service interne totalement dédié à la conception et au déploiement de ses outils de traitement numérique.
+
+Véritable ESN interne, cette équipe élabore des solutions logicielles, matérielles, et organisationnelles performantes et paramétrables.
+
+GESTFORM dispose également d'une chaine d'intégration continue (Devops) hébergée dans notre propre data center.
+
+Vos missions :
+
+Au sein de ce Pôle SI constituée d'une quarantaine de personnes, en étroite collaboration avec vos collègues, vous participez développement de nos solutions.
+
+Pour cela vos missions sur ce poste seront :
+-	Travailler sur le développement de nouvelles prestations : de la conception à la mise en production au sein de notre usine numérique
+-	Concevoir et développer les nouvelles fonctionnalités de nos solutions
+-	Participer à l'optimisation de nos solutions existantes
+-	Participer aux refontes technologiques / d'architecture
+-	Participer à l'analyse, qualification et correction des défauts de production
+-	Élaborer les stratégies de tests
+
+Nos langages et outils :
+- IDE : Visual Studio, VSCodium  
+ - Versionning : Git, svn  
+ - Méthodologie : Agile / Scrum  
+- Langage : Angular, Python, .net, C#, Javascript  
+
+Nous avons de plus en plus de technos récentes (de quoi se faire plaisir).
+
+Votre profil
+
+Titulaire d'un Bac+3 / 5 Systèmes Informatiques et Logiciel, vous justifiez d'une expérience de 2-5 ans en développement d'applications.  
+
+Vous disposez de connaissance sur les bases de données SQL Serveur.
+
+Vous disposez également d'une base de connaissance des principes Clean Code et d'une sensibilité concernant l'UI/UX.
+
+Vous attachez une réelle importance à la qualité de votre code et de vos livrables en générale.
+
+Plus qu'un niveau d'étude, nous recherchons une personne autonome et investie dans sa mission, passionnée, rigoureuse et curieuse et ayant un bon sens de la relation client (client interne).
+
+Votre expérience fait que vous pouvez conseiller et accompagner des développeurs juniors. 
+
+Vous vous êtes reconnu(e) dans ce descriptif ? vous avez envie de nous rejoindre ? alors postulez ! Vous serez recontacté(e) par notre chargée de recrutement dans les prochains jours.
+
+Pour votre organisation personnelle :
+- Horaires classiques (même pour les cadres   )
+- Un Accord de télétravail de 2 jours par semaine
+
+La rémunération brute annuelle est composée d'un fixe entre 40 et 42k€ (selon expérience) + prime intéressement + PEE + PERCO + RTT
+
+Également, d'autres avantages :
+- Parcours d'intégration personnalisé
+- Forte Politique de formation
+- Possibilité d'évolution (plan de carrière mis en place)
+- CSE
+- Mutuelle d'entreprise avec prise en charge de 63% de la part de Gestform sur la base mutuelle (22€ à votre charge)",Études et développement informatique,"[{'code': '113798', 'libelle': 'Python', 'exigence': 'S'}, {'code': '118748', 'libelle': 'Méthodologie Scrum', 'exigence': 'S'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'S'}, {'code': '300679', 'libelle': ""Tester un logiciel, un système d'informations, une application"", 'exigence': 'S'}, {'code': '400261', 'libelle': 'Coder', 'exigence': 'S'}]",0.9547054767608643
+Docteur en Data Science (H/F),"Vos missions :
+
+Rattaché à notre pôle Ingénierie, vous serez en charge de la recherche fondamentale et appliquée, du développement expérimental ainsi que de la consolidation des dossiers techniques CIR/CII et des relations avec les partenaires externes.
+
+Par conséquent, vos principales missions seront les suivantes :
+-	Participation aux projets R&D visant l'exploitation avancée des données collectées par Élap en y apportant votre rigueur et votre méthodologie de chercheur.
+-	Analyse de données et création de modèles prédictifs couvrant les domaines de toutes nos solutions logicielles : Finance, RH, Planning, Recrutement 
+-	Coordination des échanges et des travaux avec les partenaires externes tels que les laboratoires de recherche en psychologie, santé, gestion  et cabinets d'aides publiques.
+-	Supervision et consolidation des dossiers techniques CIR et CII. 
+
+A titre d'exemple, voici quelques sujets sur lesquels, vous travaillerez : 
+-	Analyse prédictive des flux comptables et budgétaires : affectation de dépenses, détection de fraudes, prévention des dérives de pratiques comptables...
+-	Intégration d'indicateurs psychologiques et forces motivationnelles dans les processus de recrutement, d'on-boarding, de planification 
+-	Détection et prévention du burn-out et prévision d'absentéisme.
+
+
+Votre profil :
+
+Vous êtes récemment diplômé d'un Doctorat en Data Science ou IA et vous êtes à la recherche de votre 1er emploi en tant que Docteur. 
+Vous avez donc 3 ans d'expérience en tant que Doctorant et vous venez de passer votre thèse de doctorat.
+
+Vous possédez les compétences suivantes :
+-	Connaissance approfondie des méthodologies de recherche en Data Science et IA.
+-	Solides compétences en langages de programmation tels que Python, R et des outils associés : NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch  
+-	Expérience significative dans le développement et l'application de modèles de Machine Learning.
+-	Excellentes compétences en communication et en rédaction scientifique.
+-	Capacité à travailler de manière autonome et à collaborer efficacement au sein d'une équipe multidisciplinaire.
+
+
+Conditions et Avantages :
+
+Poste en CDI ou CDD 39h avec 10 jours de RTT. Statut CADRE. Rémunération à définir. 
+Prime pour les déplacements professionnels + Prime vacances conventionnelle + Prime d'intéressement avec possibilité de placement sur un Plan Epargne Entreprise (PEE). Prime de cooptation. Prime PPV.
+Carte Titres Restaurant et mutuelle attractive.
+
+Poste basé dans nos bureaux de Paris-La Défense (92). Plusieurs jours de télétravail par semaine selon les usages de l'entreprise. Déplacements 1 fois par mois à prévoir dans nos différents bureaux : Lille dans le Nord (59) et Brignoles dans le Var (83).",Études et prospectives socio-économiques,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '300457', 'libelle': ""Définir et faire évoluer des procédés de traitement de l'information"", 'exigence': 'S'}]",0.9541563987731934
+Data Analyst H/F (H/F),"Nous intervenons chez nos clients sur des problématiques :
+- De stratégie et de transformation data/digitale (gouvernance des données, roadmap data, digitalisation),
+- De maîtrise d'œuvre et gestion de projets Data à forts enjeux (utilisation des méthodes Agiles, Scrum, DevOps),
+- De réalisation de projets Data & Analytics (Business Intelligence, MDM, BIG DATA, Data Sciences, Low Coding),
+- Enfin, nous développons et commercialisons des solutions métiers à haute valeur ajoutée (ingénierie, gestion de projets, outils grands programmes, suivi de production, maintenance).
+
+Environnement de travail (principal/secondaire) : 
+- Fonctionnel : Industrie, logistique et fonctions transverses,
+- Plateformes Cloud : Microsoft AZURE/Google Cloud Platform,
+- Plateformes Data Onpremise : SQL Server Suite,
+- Outils de Reporting : Microsoft Power BI/Qlicksense,
+- Plateformes d'intégration: SQL Integration Services (SSIS) et Azure Data Factory (ADF),
+- Langages de programmation : SQL, DAX, M.
+
+Missions :  
+- Apporter conseils et expertises à nos clients lors des missions Data,
+- Concevoir, développer et mettre en place des solutions Data & Analytics de bout en bout,
+- Participer à la captation et l'analyse des besoins de nos clients avec l'aide de nos consultants Data,
+- Rédiger les cahiers des charges et les spécifications fonctionnelles pour formaliser les besoins de nos clients,
+- Concevoir les solutions à mettre en œuvre de façon à répondre aux exigences et attentes des utilisateurs,
+- Contribuer à la conception, puis à la mise en place des infrastructures que ce soit en IaaS, SaaS ou PaaS,  
+- Concevoir et mettre en place des flux de données automatisés, des modèles de données,   
+- Concevoir et développer des reporting d'aide à la décision (calculs complexes et algorithmes inclus), 
+- Documenter les solutions développées et en assurer le maintien en conditions opérationnelles (MCO),
+- Assurer le suivi du projet et la relation avec le client final,
+- Participer aux projets de développements de produits internes du cabinet Archery,
+- Participer à la dynamique commerciale de l'entreprise,
+- Assurer la veille technologique et contribuer à étendre nos expertises. 
+
+Informations générales du poste :
+- Avoir entre 5 et 10 d'expérience sur un poste similaire idéalement dans une DSI ou en régie,
+- Maitriser l'environnement de travail détaillé ci-dessus,
+- Être autonome, rigoureux, force de proposition, pédagogue et avoir un très bon relationnel,
+- Soif d'apprendre et à l'aise dans l'apprentissage de nouvelles technologies ou outils,
+- Maitriser de la conduite de projet et de l'animation de ses instances,
+- Maîtriser l'anglais de manière professionnelle (lu, écrit, parlé),
+- Localisation du poste : Tours centre (possibilité de Télétravail partiel),
+- Mobilité: Missions ponctuelles sur la France entière,
+- Prise de fonction: Début 2024,
+- Salaire et avantages : Selon profil, Tickets restaurants ; Mutuelle avantageuse ; Matériel récent.",Études et prospectives socio-économiques,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'libelle': 'Anglais professionnel', 'exigence': 'E'}]",0.9536330699920654
+Développeur-euse sénior CAPLAB (H/F),"Référence site UCA 2023082A
+
+MISSIONS ET ENVIRONNEMENT DE TRAVAIL :
+La Direction Opérationnelle des Systèmes d'Information de l'Université Clermont Auvergne (UCA) est composée de différents pôles dont celui de Co-développement national, au sein duquel se trouve l'équipe de développement CAPLAB.
+L'UCA est centre de co-construction d'un projet national de Système d'Informations Recherche, CAPLAB, en collaboration avec l'AMUE, agence nationale. L'ingénieur-e en ingénierie logicielle aura un rôle de Technical leader auprès de l'équipe et il/elle participera à la production logicielle principalement en back end, avec des technologies actuelles, en méthodologie agile. Cette application est à destination de la communauté des chercheurs en laboratoires au sein des établissements français.
+Le poste est localisé sur le Campus des Cézeaux à Aubière, proche de Clermont-Ferrand.
+ 
+ACTIVITES ESSENTIELLES :
+Taches récurrentes à réaliser durant la vie du projet
+-	Développer l'application coté back : web services en environnement Spring dans un contexte de grande volumétrie de données avec de fortes exigences de performance.
+-	Développer des tests unitaires automatisés
+-	Concevoir le modèle de données
+-	Mettre en place des bouchons de tests pour les systèmes extérieurs
+-	Participer à l'encadrement des développements Front-end (angular)
+-	Accompagner et contrôler la production de l'équipe de développement
+
+COMPETENCES REQUISES :
+Connaissances :
+-	Maitrise de la programmation objet et du langage JAVA &gt;= 7
+-	Maitrise d'une librairie d'inversion de contrôle (Guice, Spring, ...)
+-	Maitrise d'un framework de mapping objet relationnel (JPA, Hibernate, Toplilk)
+-	Maitrise du SQL, capacité à élaborer et optimiser requêtes complexes
+-	Maitrise du développement de web services REST
+-	Expérience acquise dans le développement en équipe avec Git et méthodologie agile
+-	Expérience dans le développement de micro-services (souhaitée)
+-	Maitrise de la pratique de test unitaire automatisés et des librairies associées : Mockito, JUnit ou autres (souhaitée)
+-	Expérience des pratiques d'intégration continue et de leur mise en œuvre : Gitlab CI et Docker (souhaitée)
+
+Compétences opérationnelles :
+-	Développer en autonomie, tester, documenter, concevoir en méthodologie agile
+-	Conception, documentation
+-	Intégration
+-	Analyse
+-	Ergonomie des applications web
+-	Travailler dans une équipe agile (SCRUM) à taille humaine
+-	Rédaction de spécifications techniques
+-	Maitrise des design patterns et d'une méthode de conception (UML, Merise, ...)
+-	Capacité à travailler dans un contexte agile, à présenter ses réalisations et à les confronter avec la vision utilisateur.
+-	Evaluation de la charge (au travers d'une méthode adaptée à l'agilité)
+
+
+PREREQUIS / FORMATION souhaitée : 
+-	Expérience de 5 à 10 ans minimum dans le domaine, dont en position de fullstack Java/angular
+
+SPECIFICITES / CONTRAINTES DU POSTE :
+-	Rémunération : 3731€ brut mensuel
+-	Contrat de travail à durée indéterminée : 37h30 hebdomadaire
+-	Congés : 49 jours de congés annuels pour un temps plein d'un an (Base 37h30)
+-	Télétravail renforcé possible (jusqu'à 3 jours par semaine)
+-	Participation aux frais de transports en commun
+-	Participation Mutuelle à hauteur de 15€ /mois
+-	Des offres loisirs, sport et culture pour tous les agents
+-	Possibilité d'accès, sous condition, à un emplacement parking à proximité
+-	Forfait mobilité durable pour l'utilisation d'un cycle sur les trajets domicile-travail
+
+POUR POSTULER :
+Veuillez faire parvenir un CV et une lettre de motivation au plus tard le 01er avril 2024  à l'attention de M. le Président de l'Université Clermont Auvergne par mail",Études et développement informatique,"[{'code': '300688', 'libelle': 'Application web', 'exigence': 'S'}, {'code': '109846', 'libelle': 'Concevoir une application web', 'exigence': 'S'}]",0.9528873562812805
+"Software Developer (Ruby, Elixir) (H/F)","Vos missions : 
+ 	Collaborer avec des équipes interfonctionnelles pour concevoir, développer et mettre en œuvre des solutions logicielles de haute qualité à l'aide de Ruby, Ruby on Rails et Elixir en adéquation avec mission de Dickson et les besoins des clients.
+ 	Piloter et mettre en œuvre le processus de développement en veillant au respect des meilleures pratiques, des normes de qualité du code et à la livraison des projets dans les délais impartis.
+ 	Superviser et accompagner les développeurs juniors, en favorisant une culture de l'apprentissage continu et du perfectionnement.
+ 	Contribuer aux décisions architecturales et aux discussions sur la conception technique afin de garantir la « scalabilité », les performances et la maintenabilité de nos produits logiciels.
+ 	Se tenir au courant des technologies émergentes et des tendances du secteur, recommander et mettre en œuvre des améliorations pertinentes de nos processus de développement de logiciels.
+ 	Participer au processus de recrutement et d'embauche dans le cadre de l'élargissement de notre équipe interne, en évaluant les candidats potentiels et en participant aux entretiens techniques.
+ 	Collaborer avec les autres membres de l'équipe pour mener à bien la transition d'un modèle basé sur des sous-traitants à une équipe interne de développement de logiciels cohésive et hautement efficace.
+Ce poste offre la possibilité d'évoluer vers un poste de « lead » au fur et à mesure que nous internalisons les sous-traitants et que nous élargissons notre équipe de développement interne.
+
+Votre profil
+Nous valorisons une approche ouverte de la technologie, et en tant que développeur(se) senior, vous devez être prêt(e) à explorer et à sortir de votre zone de confort lorsqu'il s'agit d'adopter de nouvelles technologies. Votre capacité d'adaptation et votre volonté d'apprendre seront essentielles lorsque nous intégrerons les deux plateformes et choisirons les technologies les mieux adaptées pour assurer le succès de notre portail IoT.
+Outre les compétences techniques, nous accordons une grande importance à l'expérience acquise au sein d'un éditeur de logiciel. Cette expérience apportera une vision précieuse des défis et des opportunités propres à l'industrie des éditeurs de logiciels indépendants et contribuera au succès de nos solutions au service de notre clientèle diversifiée.
+
+Vos compétences techniques :
+Développement Web : Maîtrise de l'intégration transparente des composants Frontend pour créer des expériences utilisateur exceptionnelles. Compétences dans l'utilisation de frameworks web MVC, en particulier Ruby on Rails et Elixir/Phoenix. Connaissance des concepts architecturaux REST, englobant des aspects tels que les versions d'API, l'authentification et les meilleures pratiques en matière de sécurité. 
+Gestion de bases de données : Aptitude à travailler avec des bases de données relationnelles telles que PostgreSQL et MySQL. Capacité à concevoir, mettre en œuvre et optimiser des schémas de base de données, ainsi qu'à élaborer des requêtes SQL efficaces. Une bonne connaissance de Redis est souhaitable.
+Déploiement et DevOps : des connaissances dans le déploiement d'applications à l'aide de la conteneurisation, en particulier à l'aide de Kubernetes sur des plateformes cloud telles que AWS, seraient un atout. Connaissance des méthodologies DevOps et des outils d'intégration et de déploiement continus (CI/CD).
+Outils de développement : Expérience des tests, de l'analyse de la qualité du code, du débogage et des techniques d'optimisation des performances pour garantir des applications performantes et évolutives. Expertise avec les systèmes de contrôle de version, en particulier Git.
+Livraison du code : Expérience de la décomposition d'objectifs de haut niveau en travaux itératifs. Annonce complete sur https://dicksondata.com/fr-fr/carrieres/software-developer-ruby-elixir",Études et développement informatique,"[{'code': '109882', 'libelle': 'SQL', 'exigence': 'S'}, {'code': '119718', 'libelle': 'Ruby', 'exigence': 'S'}, {'code': '300198', 'libelle': 'Paramétrer un logiciel, un outil, un système numérique', 'exigence': 'S'}, {'code': '300406', 'libelle': ""Communiquer à l'écrit en langue étrangère"", 'exigence': 'S'}, {'code': '300411', 'libelle': ""Communiquer à l'oral en langue étrangère"", 'exigence': 'S'}, {'code': '300582', 'libelle': 'Comparer des solutions, produits ou matériels', 'exigence': 'S'}, {'code': '300679', 'libelle': ""Tester un logiciel, un système d'informations, une application"", 'exigence': 'S'}, {'code': '400192', 'libelle': ""Garantir le bon fonctionnement, la disponibilité et la performance d'une solution logicielle"", 'exigence': 'S'}]",0.9527280330657959
+Développeur Java Junior (H/F),"La société Pégase Market, agence de communication et web marketing du groupe Formusson basée au Mans recherche un Développeur Java Junior H/F.
+
+Le groupe Mirwault est un groupe de négoce qui s'articule autour de deux pôles, Formusson Distribution qui rassemble des sociétés expertes en distribution d'articles de quincaillerie dans l'univers de la menuiserie d'intérieure et d'extérieure (QAMA, ARENA Quincaillerie, FAILLE Industrie, HUBERT Quincaillerie, Dompro, Neuvil Distribution) et Menil Distribution, spécialisé dans l'équipement cheval et nature (Abrivert, Hippomat, France Maréchalerie).
+
+Descriptif du poste : 
+
+Rattaché(e) au Directeur de l'agence Pégase Market dont vous dépendez, vous assurerez les missions suivantes :
+-	Développer des fonctionnalités pour nos applications en utilisant les Framesworks Jakarta EE et Spring 
+-	Ecrire du code SQL adapté pour les interactions avec la base de données 
+-	S'assurer de suivre les bonnes pratiques, design patterns et les principes SOLID 
+-	Utiliser Git pour gérer le code source
+-	Rédiger la documentation technique pour les fonctionnalités développées
+-	Mettre en place des protocoles de tests pour garantir la qualité du code 
+-	Participer aux évolutions de la stack et des Frameworks utilisés 
+-	Remonter les risques aux équipes de tests d'intégration
+-	Travailler en étroite collaboration avec les membres de l'équipe pour s'assurer que les objectifs de développement sont atteints 
+-	Être curieux et continuer à apprendre de nouvelles technologies et compétences pour améliorer les projets 
+
+Profil recherché :
+
+Vous maîtrisez Git (branch / commit / rebase / merge) et avez une expérience conséquente sur des Frameworks (Jakarta EE, Spring). 
+Vous justifiez d'une expérience d'au moins 2 ans sur un poste similaire.
+
+Vous maîtrisez les compétences suivantes :
+-	Compréhension de l'anglais technique
+-	Maîtrise de Java ou à défaut d'un langage objet statiquement typé 
+-	Maîtrise des Framework tels que Jakarta EE, Spring, etc. 
+-	Bonne maîtrise de SQL 
+-	Intérêt pour les bonnes pratiques, design patterns, etc. 
+
+Qualités :
+
+-	Curieux(se) et rigoureux(se)
+-	Autonome, organisé (e) et dynamique
+-	Capacité d'adaptation et d'analyse
+
+Contrat : CDI
+
+Localisation : Le Mans (72) - Télétravail selon la règlementation en vigueur dans l'entreprise
+
+Vous souhaitez rejoindre un groupe familial en plein essor incarnant les valeurs de l'audace, du leadership, de la passion et de la diversité. Cela fait partie de vos qualités ? N'hésitez plus, postulez !",Études et développement informatique,"[{'code': '102788', 'libelle': 'HTML', 'exigence': 'S'}, {'code': '109862', 'libelle': 'Architecture web', 'exigence': 'S'}, {'code': '109870', 'libelle': 'Java', 'exigence': 'E'}, {'code': '109881', 'libelle': 'PHP', 'exigence': 'E'}, {'code': '109882', 'libelle': 'SQL', 'exigence': 'E'}, {'code': '110150', 'libelle': 'Anglais technique', 'exigence': 'E'}, {'code': '113279', 'libelle': 'J2EE', 'exigence': 'S'}, {'code': '116620', 'libelle': 'Produits multimédias', 'exigence': 'S'}, {'code': '300688', 'libelle': 'Application web', 'exigence': 'S'}, {'code': '109846', 'libelle': 'Concevoir une application web', 'exigence': 'S'}, {'code': '113317', 'libelle': 'Développer une application en lien avec une base de données', 'exigence': 'E'}, {'code': '115531', 'libelle': 'Sélectionner, assembler et intégrer des composants informatiques (progiciels, bases de données, développements spécifiques, ...)', 'exigence': 'S'}, {'code': '120451', 'libelle': ""Réaliser la mise en production de solutions logicielles dans un environnement d'exploitation"", 'exigence': 'E'}, {'code': '126535', 'libelle': 'Réaliser des études et développements informatiques', 'exigence': 'S'}, {'code': '300019', 'libelle': ""Accompagner l'appropriation d'un outil par ses utilisateurs"", 'exigence': 'E'}, {'code': '300450', 'libelle': 'Respecter la confidentialité des informations', 'exigence': 'E'}, {'code': '300579', 'libelle': 'Communiquer auprès de ses clients internes et externes', 'exigence': 'S'}, {'code': '300679', 'libelle': ""Tester un logiciel, un système d'informations, une application"", 'exigence': 'E'}, {'code': '400145', 'libelle': ""Proposer des pistes d'amélioration des solutions"", 'exigence': 'S'}, {'code': '400192', 'libelle': ""Garantir le bon fonctionnement, la disponibilité et la performance d'une solution logicielle"", 'exigence': 'S'}, {'code': '400261', 'libelle': 'Coder', 'exigence': 'E'}, {'code': '400478', 'libelle': 'Piloter des évolutions ou des paramétrages à apporter aux composants', 'exigence': 'S'}, {'code': '400775', 'libelle': 'Analyser les indicateurs pertinents sur les tendances et les usages des clients', 'exigence': 'S'}, {'code': '400796', 'libelle': 'Vérifier la compatibilité des développements produits avec les spécifications', 'exigence': 'E'}]",0.951407253742218
+Data analyst (H/F),"Description du poste :
+Au sein du pôle Marketing Conquête, vous aurez pour mission de suivre l'activité de recrutement de nouveaux clients au travers des actions marketing et commerciales en exploitant les différentes sources de données.
+Vous utiliserez des outils et des techniques statistiques afin d'organiser, de synthétiser et de traduire les informations pour faciliter la prise de décision. Vous valoriserez l'ensemble des données client pour en extraire de la connaissance utile à l'optimisation des offres et services de Boursorama.
+Vous aurez comme principales missions :
+Reporting et suivi des actions commerciales :***Concevoir, produire et automatiser la production des tableaux de bord de l'activité commerciale et marketing
+* Produire des insights pertinents pour tirer des enseignements, lever des alertes dans le cadre de certains reportings d'activités à forte valeur ajoutée, notamment au regard des actualités business
+* Mettre en place des solutions de DataVisualisation et s'assurer de leur évolution
+* Réaliser certains ciblages d'opérations commerciales / campagnes marketing : appropriation du contexte et des enjeux, challenge des demandeurs métier
+* Produire des bilans d'opérations commerciales / campagnes marketing en identifiant des enseignements sur la performance des campagnes et des recommandations pour des futures actions marketing
+Analyses et modélisation :***Réaliser des études statistiques adhoc sur des problématiques marketing (acquisition, lancement de produits/services .)
+* Etudier la performance du recrutement de nouveaux clients : profils clients recrutés, types de produits souscrits, performance des leviers d'acquisition
+* Identifier des solutions utilisant la datascience pour répondre à des enjeux du pôle Marketing Conquête (prévision du volume d'entrées en relation, optimisation du CAC.) et créer, suivre et faire évoluer les modélisations correspondantes en utilisant les données et les méthodes statistiques les plus pertinentes (linéaires et non linéaires) en lien avec les data scientists de la direction Marketing et Communication
+* Préconiser de nouvelles méthodes et sources de données pour améliorer les modèles existants (R&D et approche « Test and Learn »)
+Description du profil :
+De formation Bac+4/5 en Statistiques ou Data Analyse, vous possédez une expérience réussie dans ce domaine d'environ 3 ans un poste similaire en agence média, régie publicitaire ou chez l'annonceur.
+Vous avez une bonne compréhension des problématiques marketing.
+Vous maitrisez impérativement SAS, SQL ainsi que les outils de MS Office (Excel, Power Point) et les fondamentaux du Machine Learning
+Vous avez une connaissance des langages informations (Python, Scala) et des outils de DataVisualisation.
+Vous êtes rigoureux, fiable, autonome et impliqué. Votre bon sens du relationnel et votre enthousiasme ne sont plus à démontrer.
+N'hésitez plus et postulez à notre offre. Si votre candidature est sélectionnée, vous serez invité à réaliser une vidéo de présentation. Nous vous contacterons ensuite pour un entretien.",Études et prospectives socio-économiques,,0.9505228400230408
+Technical leader data scientist f/h (H/F),"Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 83 000 collaborateurs pour un chiffre d'affaires de 19,0 milliards d'euros en 2022, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran s'engage dans des programmes de recherche et développement qui préservent les priorités environnementales de sa feuille de route d'innovation technologique.
+
+
+
+Safran est dans le top 30 des meilleurs employeurs mondiaux 2022 selon le magazine Forbes.
+
+
+
+Safran Engineering Services offre des services en ingénierie de haute technologie dans les domaines de l'aéronautique, de l'énergie et du transport terrestre. Avec 30 ans d'expérience, la société s'appuie sur 3 000 ingénieurs répartis dans 9 pays à travers le monde.
+
+
+Descriptif missionLa data science est au coeur de la transformation industrielle chez Safran et se met au service de nos métiers de la production (manufacturing 4.0) ou de la surveillance de nos systèmes en vol (Service 4.0).
+
+En intégrant Safran Engineering Services vous aurez l'opportunité de pouvoir répondre aux problématiques industrielles actuelles en utilisant les données métier issues des machines de production, des capteurs embarqués, des opérations de maintenance, etc et mettant en oeuvre les technologies algorithmiques de l'état de l'art.
+
+Dans ce cadre et au sein du pôle Data de Safran Engineering Services, votre mission consistera à intervenir sur toutes les phases du cycle de vie d'un projet data (Prise de besoin métier, Proof of Concept, industrialisation). Vous aurez la responsabilité d'encadrer techniquement les jeunes data scientist de l'équipe sur leur projet, d'assurer leur montée en compétences et de supporter le management sur la structuration de l'équipe dans sa croissance. 
+
+
+
+Concrètement, vous aurez trois principaux volets de responsabilité : 
+
+
+
+o Production technique
+
+
+
+- Définir le besoin en échangeant avec les métiers
+
+- Appliquer des techniques d'extraction et d'analyse d'informations, obtenues à partir de différentes sources de données industrielles, 
+
+- Evaluer la qualité et la richesse des données, les analyser et en restituer les résultats vers le Métier, 
+
+- Analyser les données pour traduire une problématique Métier en problème mathématique/statistique et réciproquement,
+
+- Comparer et évaluer différents modèles ou méthodes de calculs (Machine Learning, deep learning) et anticiper les avantages et inconvénients dans un environnement Métier,
+
+- Concevoir et développer des visualisations impactantes pour le métier
+
+- Utiliser les infrastructures Cloud de Safran (AWS)
+
+- Spécifier les solutions retenues et accompagner l'équipe dans l'industrialisation des traitements de données dans un logiciel industriel.
+
+
+
+o Support au cadrage des projets
+
+
+
+- Contribuer à l'élaboration des réponses techniques aux appels d'offres 
+
+- Identifier les work packages des projets en phase de démarrage
+
+
+
+o Mentoring technique des profils juniors
+
+
+
+- Participer à l'évolution et l'amélioration continue de l'équipe Data (nouvelles offres, méthodes, pratiques de code, ...)
+
+- Assurer la montée en compétences des data scientist (veille technique et scientifique, animation de l'équipe)",Installation et maintenance d'équipements industriels et d'exploitation,,0.9491717219352722
+Expert Scientifique R&D Intelligence Artificielle (H/F),"À propos de nous : 
+
+Nous sommes une équipe de médecins, de cadres de la santé, de scientifiques des données et d'experts en technologie qui s'engagent à donner à chacun, où qu'il soit, les informations dont il a besoin pour prendre des décisions éclairées en matière de soins de santé. Grâce à la puissance combinée de l'IA et du big data, nous avons créé la première solution tout-en-un qui fournit à nos utilisateurs tout ce qu'ils ont besoin de savoir sur les professionnels et les établissements médicaux. RYTE transforme les données complètes que nous recueillons sur des millions de prestataires de soins de santé et d'experts médicaux dans le monde entier en connaissances qui aident les individus et les organisations à naviguer dans les systèmes de santé. Basé à Toronto (Canada) et ayant des activités au Canada, en France, au Kazakhstan et aux Philippines, vous rejoindrez une équipe véritablement internationale, multiculturelle et dynamique, dont l'objectif est de construire quelque chose d'unique qui affecte la vie et les soins de santé à l'échelle mondiale. Pour plus d'informations sur nous, veuillez nous contacter à l'adresse www.ryte.ai. 
+
+Nous recherchons un expert de l'IA et un penseur innovant pour rejoindre l'équipe de R&D afin d'avoir un impact significatif sur le secteur de l'analyse des soins de santé.
+
+Il s'agit d'un poste d'encadrement à temps plein (CDI) en France (Paris). 
+
+Le poste : Expert Scientifique R&D Intelligence Artificielle. 
+
+Le rôle : 
+En tant que membre de l'équipe de R&D, vous menerai des projets au sein d'une équipe d'ingénieurs en IA, d'architectes et de scientifiques de données situés dans plusieurs pays pour effectuer la recherche et le développement de solutions d'IA liées à l'analyse des soins de santé, en liaison avec les universités et les organisations mondiales.
+
+Responsabilités : 
+    Élaborer, exécuter et améliorer en permanence des plans globaux de recherche et de développement en étroite collaboration avec l'équipe IA et les partenaires de Ryte à l'échelle mondiale. 
+    Instaurer une culture de l'innovation au sein de l'entreprise en encourageant l'innovation dans tous les domaines liés à l'IA.   
+    Construire et exécuter une feuille de route AI/ML pour notre plateforme d'analyse des soins de santé. 
+    Identifier les opportunités d'appliquer les dernières avancées en matière d'apprentissage automatique et d'intelligence artificielle pour construire, tester et valider des modèles prédictifs à la tête d'une équipe de data scientists. 
+    Fournir un apprentissage automatique de premier ordre et une contribution stratégique aux projets et aux opérations en cours ; mener une réflexion et une planification stratégique pour la conception, la mise en œuvre et l'orientation des initiatives d'IA/ML et être en mesure d'enthousiasmer les chefs d'entreprise sur la base de la capacité à générer un impact commercial à l'aide de stratégies d'IA/ML. 
+    Sensibilisation interne et stratégie d'adoption des méthodologies émergentes d'apprentissage automatique grâce à l'exécution d'un plan de communication efficace. 
+    Travailler en partenariat avec l'ingénierie des données, les scientifiques des données et l'intendance des données pour contribuer à l'exécution d'une stratégie de données réussie.
+Créer des algorithmes pour extraire des informations à partir de grands ensembles de données multiparamétriques globales. 
+    Déployer des algorithmes en production afin d'identifier des informations exploitables à partir de grands ensembles de données. 
+    Comparer les résultats de diverses méthodologies et recommander les meilleures techniques aux parties prenantes. 
+    Concevoir, développer et mettre en œuvre des solutions analytiques à l'aide de divers outils commerciaux et open-source tels que Python, R, TensorFlow. 
+    Développer et intégrer des processus automatisés et déploiement de modèles.","Management et ingénierie études, recherche et développement industriel","[{'code': '118500', 'libelle': 'Élaborer des propositions techniques', 'exigence': 'S'}, {'code': '119161', 'libelle': ""Identifier les contraintes d'un projet"", 'exigence': 'S'}, {'code': '124529', 'libelle': ""Déterminer des axes d'évolution technologiques"", 'exigence': 'S'}, {'code': '300337', 'libelle': ""Définir la stratégie financière d'une structure"", 'exigence': 'S'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'S'}]",0.9485855102539062
+Développeur / Développeuse d'application h/f,"La Direction IT and Opération Services (IOS) a pour objectif de doter CACIB de la meilleure Plateforme IT et Opérations pour répondre aux besoins de maintenir et renforcer la qualité des services rendus à CACIB et de se préparer aux enjeux de croissance et de transformation digitale de CACIB dans les années futures.
+
+
+
+
+
+Rejoignez la Direction IOS / Global IT (GIT) de CA-CIB, responsable de la conception, du développement, de la maintenance des applications et des systèmes de la Banque !               
+
+
+
+
+
+A la pointe de l'innovation technologique, ses équipes accompagnent sur le plan technique et fonctionnel, les activités et projets de développement des différents métiers de la Banque de Financements et d'Investissement dans un environnement international.
+
+
+
+
+
+En intégrant une filière informatique de plus de 2.500 collaborateurs, vous bénéficierez de multiples opportunités professionnelles, grâce à la diversité de nos métiers et à nos parcours évolutifs au sein de nos entités.
+
+
+
+
+
+
+
+
+La Direction des Systèmes d'information, « Global IT », recherche un(e) :
+
+
+ - Developpeur Java - Programme Loanscape H/F - Basé à Montrouge (92) -
+
+
+
+
+
+ 
+
+
+Votre équipe
+
+
+Intégré aux équipes Corporate Banking, vous serez rattaché au Deputy Program Director du programme stratégique LOANSCAPE qui vise à travers la refonte des systèmes de l'ensemble de la chaîne Front to back à :
+
+
+
+ Construire une nouvelle plate-forme pour interconnecter les investisseurs, les prêteurs et les clients sur les marchés syndiqués
+
+ Construire une plateforme numérique pour les clients et investisseurs de CACIB
+
+ Gérer les accords avec un grand pool de prêteurs, différents formats de prêt, les investisseurs institutionnels et multi-produits
+
+ Accroître l'agilité grâce à des transactions plus ciblées et structurées
+
+ Mettre en place une solution conforme aux exigences réglementaires (Bâle IV, IFRS 9)
+
+ Implémenter un nouveau système Back-office multi-entités
+
+
+
+
+
+
+Vos missions
+
+
+En tant que développeur Java, vous développez des fonctionnalités au sein d'une équipe donnée. Vous travaillez en autonomie et dans une démarche d'amélioration continue.
+
+
+Vous êtes responsable de la qualité du code selon la conception, les normes et les standards en vigueur.
+
+
+Vous mettez en évidence quand les besoins non fonctionnels doivent être pris en compte dans un sprint Agile.
+
+
+
+
+
+Au sein de ce poste, vous aurez pour principales missions :
+
+
+
+ Construire un code aligné sur les directives et les normes de qualité du projet CACIB
+
+ Effectuer des tests unitaires
+
+ Automatiser les tests en fonction de la stratégie de test, de l'objectif de couverture de test défini et des pratiques de la software factory
+
+ Implémenter et réaliser les tests techniques tels que définis dans la stratégie de test
+
+ Proposer des besoins non fonctionnels dans les sprints
+
+ Estimer et mettre à jour les user stories
+
+ Mettre à jour le backlog de sprint
+
+
+
+
+Niveau d'études minimum
+
+
+Bac+5 / M2 et plus
+
+
+
+
+
+Formation / Spécialisation
+
+
+Formation :  Ecole d'ingénieur, université
+
+
+Spécialisation : Information ou Corporate Finance
+
+
+
+
+
+Niveau d'expérience minimum
+
+
+6-10 ans
+
+
+Expérience :
+
+
+Vous justifiez d'une expérience de 3 à 5 ans, de préférence dans une fonction de de développeur ou d'architecte technique dans une BFI ou dans un cabinet de conseil à dominante Corporate Finance.
+
+
+
+
+
+Compétences recherchées
+
+
+Compétences métiers :
+
+
+
+ Maitrise du Système d'Information d'une BFI,
+
+ Expérience en méthodologie Agile
+
+ Une première connaissance des financements structurés serait un plus.
+
+
+
+
+
+
+Compétences comportementales :
+
+
+
+ Aptitude au travail collaboratif en lien avec de multiples acteurs
+
+ Capacité d'intervention et d'analyse sur des sujets complexes
+
+ Capacités rédactionnelles
+
+ Sens de l'engageme nt
+
+
+
+
+
+
+Outils informatiques
+
+
+Architectures logicielles orientées évènements, ingénierie de développement intranet/internet, déploiement orienté Cloud et devops, méthodes agiles.
+
+
+
+
+
+Langues",Études et développement informatique,,0.9480063319206238
+Ingénieur / Ingénieure de développement informatique (H/F),"Barrière, c'est 33 Casinos, 1 Club de Jeux, 19 Hôtels, plus de 120 Restaurants et Bars, 15 Spas, 3 Golfs, 2 Tennis clubs, 1 Balnéo, 1 Thalasso. Barrière, c'est aussi 50 métiers incarnés par près de 7000 collaborateurs, en France et à l'international. Et par vous aussi demain  
+
+    Contexte & Lieu de travail, pour briller en entretien
+
+Au sein du SI Barrière, le Pôle Production assure la supervision, l'exploitation des systèmes d'information et le support auprès des établissements du Groupe.
+
+Rattaché à ce pôle, vous intervenez en tant qu'Expert Technique Cloud et DevOps sur les projets métiers et data mais aussi sur les projets techniques transverses liés à l'infrastructure Cloud hybride et à l'architecture applicative en place au sein du groupe Barrière. Dans ce cadre, vous êtes partie prenante des travaux menés par les équipes de la production et de l'exploitation ainsi que des projets réalisés par les équipes de développement. Vous travaillez également en étroite collaboration avec l'équipe Architecture et Sécurité.
+
+    Vos missions si vous l'acceptez
+
+En tant que DevSecOps et en étroite collaboration avec le lead développeur, vos missions seront les suivantes :
+- Etre garant(e) de l'infrastructure Cloud hybride en place en termes de maintenance et d'évolution ;
+- Comprendre les exigences du métier et les indicateurs clés de performance d'un projet ;
+- Enrichir l'environnement et les processus DevOps actuel en étant force de proposition, par ex Infrastructure as code, utilisation de Cloud build, ... ;
+- Contrôler les processus tout au long du cycle de vie pour s'assurer de leur respect et mettre à jour ou créer de nouveaux processus pour les améliorer et minimiser les gaspillages ;
+- Encourager et construire des processus automatisés dans la mesure du possible ;
+- Avec la mise en place d'une politique dite DevSecOps, identifier et déployer des mesures de cybersécurité en effectuant en permanence une évaluation des vulnérabilités et une gestion des risques ;
+- Contribuer au développement des compétences techniques de l'équipe technique, à la veille technologique permanente de la structure en animant des sessions de formation internes ou externes sur vos sujets d'expertise ;
+- Pilotage des infogéreurs opérants sur les plateformes Cloud.
+  
+   Votre bon Profil
+
+- Vous êtes Ingénieur DevOps / DevSecOps avec +6 ans d'expérience ;
+- Vous avez une première expérience au poste de DevOps et vous souhaitez aujourd'hui rejoindre une entreprise où vous aurez un impact et où vous aurez la place de construire et prendre des décisions ;
+- Vous avez une réelle expertise du service de Cloud Computing GCP ;
+- Vous avez l'expérience dans l'utilisation des différents outils de versionning ;
+- Vous maîtrisez les outils de conteneurisation tels que Docker et Kubernetes pour déployer des applications dans des environnements isolés ;
+- Vous avez une bonne connaissance d'outils tels que Terraform, Ansible... pour la gestion de la configuration et l'automatisation de l'infrastructure ;
+- Vous êtes en capacité d'écrire des scripts en shell (Bash, ZSH...) pour automatiser des tâches et des processus et maîtriser au moins un langage de programmation back-end (Java, Python, C++...) ;
+- Vous êtes organisé(e), curieux(se), force de proposition et avez le sens du contact et du service ;
+- Vous maîtrisez l'anglais professionnel. Des échanges avec les différents fournisseurs basés en Europe sont à prévoir.
+ 
+  Notre processus de recrutement
+
+- Appel d'introduction avec le Directeur de la Production ;
+- Entretien technique avec le Directeur de la Production et le Lead Développeur ;
+- Entretien avec la Responsable des Ressources Humaines ;
+- Entretien avec le DSI du Groupe Barrière.
+
+    Nos pétillances
+
+- Des bureaux modernes, avec une salle de sport privée ;
+- Une Charte télétravail autorisant jusqu'à 3 jours par semaine ;
+- L'opportunité de suivre des formations (métiers, produits, d'empowerment...) ;
+- Un accompagnement personnalisé pour développer votre potentiel et évoluer au sein de notre Groupe ;
+- Des tarifs collaborateurs pour se faire des week-ends de rêve.
+
+Faire vivre des moments exceptionnels à nos clients, voilà votre future raison d'être.
+Barrière, 50 métiers, 1 seul état d'esprit. N'hésitez plus, rejoignez-nous !",Études et développement informatique,,0.9475881457328796
+Architecte Infrastructure (H/F),"Encadré par les responsable du service, vous êtes en charge de :
+La Direction des Infrastructures, Cloud et Ingénieries de la Direction des Technologies du Groupe est chargée de l'architecture, de la maintenance et de l'évolution du socle technique permettant le déploiement du SI du groupe (Régie publicitaire, Contenus, Corporate...) et des systèmes broadcast (Studio, Régies de production, Régies finales) dans des environnements on-prem et cloud.
+Le service a un rôle majeur dans le plan de transformation des SI et leur migration dans le cloud.
+
+Cette direction est aujourd'hui composée de plusieurs pôles d'expertise (Réseaux, DBA, Infra, Cloud ..) et d'un pôle Ops Domaine dont le rôle est de faire le lien entre équipes de développement et équipes Infras.
+Nous sommes à la recherche du futur/la future Architecte Infrastructures qui sera sous la responsabilité du Service Owner Infrastructures et aura en charge dans une équipe d'architectes la création et l'évolution de nos architectures on-prem.
+
+Les équipes d'ingénierie broadcast ont en charge la mise en œuvre des systèmes audiovisuels, en s'appuyant sur des infrastructures que l'architecte aura au préalable défini.
+
+A ce titre il est donc primordial que vous ayez de fortes compétences broadcast et IT.
+
+En environnement Broadcast :
+- Connaissance des systèmes de MAM/NRCS/Diffusion tels que Dalet/Imagine, Harmonic
+- Suite logiciel Adobe
+- Fonctionnement d'une régie de production, les équipements mis en oeuvre
+- Système Cerebrum (EVS)
+- Infrastructure Riedel (MediorNet)
+- Connaître les différents formats de compression
+- Connaître les normes SDI, UHD/HDR
+- Savoir faire des mesures video (métrologie en SDI/UHD/HDR)
+- Les notions de remote prod
+
+La maîtrise de l'éco-système 2110 :
+- DCNM / IPFM (Cisco) ou un équivalent d'un autre fabricant
+- Architecture/ topologie/ contraintes
+- Management inband, oob
+- Mise en place de systèmes résilients
+- La norme SMPTE 2110 et toutes ses déclinaisons (2110-10 à 2110-40 par ex)
+- La maîtrise du PTP (configuration réseau, grandmaster )
+- Optimisation de la QOS
+- Savoir choisir/utiliser/configurer un broadcast controller
+- Savoir utiliser les outils de métrologie ST2110 et SDI
+- le protocole Dante (pour gérer la migration vers le 2110)
+
+En environnement IT :
+- Les bases de la technologie Cloud AWS pour le broadcast
+- La virtualisation de serveurs (vmware) et les contraintes liées au 2110/Dante
+- La virtualisation de postes de travail (Citrix) et les contraintes spécifiques à l'audiovisuel
+- la maîtrise des systèmes windows
+- Configuration de Gpo dans un AD
+- Fonctionnement des équipements réseau (firewall, switchs, DNS ..)
+- Les solutions KVM (adder, Raritan)
+
+Afin de :
+- Définir les architectures répondant aux besoins métier
+- Assurer la veille technologique
+- Anticiper les obsolescence techniques
+
+Compétences requises :
+Vous êtes diplômé(e) d'une école d'ingénieur ou Master 2 équivalent dans les métiers techniques audiovisuels, vous justifiez d'au moins 3 ans d'expérience.
+Compétences et qualités requises :
+- Connaissance des principes d'architectures techniques et fonctionnelles des systèmes TV
+- Les technologies réseau et principalement celles autour du SMPTE 2110
+- Autonome et proactif
+- Capacité à travailler en équipe
+- Esprit de synthèse et facilités rédactionnelles (DEX, DAT,  )
+- La communication afin d'être la passerelle entre les différents experts IT et broadcast.",Direction et ingénierie en entretien infrastructure et bâti,"[{'code': '123083', 'libelle': ""Évaluer les besoins et les impératifs d'exploitation d'une infrastructure"", 'exigence': 'S'}, {'code': '300148', 'libelle': 'Élaborer des actions ou des règles de prévention', 'exigence': 'S'}, {'code': '300258', 'libelle': 'Contrôler la qualité et la conformité des process', 'exigence': 'S'}, {'code': '300435', 'libelle': ""Optimiser les effectifs, l'adéquation et l'allocation des ressources"", 'exigence': 'S'}]",0.9474457502365112
+Architecte Infrastructure (H/F),"Encadré par les responsable du service, vous êtes en charge de :
+La Direction des Infrastructures, Cloud et Ingénieries de la Direction des Technologies du Groupe est chargée de l'architecture, de la maintenance et de l'évolution du socle technique permettant le déploiement du SI du groupe (Régie publicitaire, Contenus, Corporate...) et des systèmes broadcast (Studio, Régies de production, Régies finales) dans des environnements on-prem et cloud.
+Le service a un rôle majeur dans le plan de transformation des SI et leur migration dans le cloud.
+
+Cette direction est aujourd'hui composée de plusieurs pôles d'expertise (Réseaux, DBA, Infra, Cloud ..) et d'un pôle Ops Domaine dont le rôle est de faire le lien entre équipes de développement et équipes Infras.
+Nous sommes à la recherche du futur/la future Architecte Infrastructures qui sera sous la responsabilité du Service Owner Infrastructures et aura en charge dans une équipe d'architectes la création et l'évolution de nos architectures on-prem.
+
+Les équipes d'ingénierie broadcast ont en charge la mise en œuvre des systèmes audiovisuels, en s'appuyant sur des infrastructures que l'architecte aura au préalable défini.
+
+A ce titre il est donc primordial que vous ayez de fortes compétences broadcast et IT.
+
+En environnement Broadcast :
+- Connaissance des systèmes de MAM/NRCS/Diffusion tels que Dalet/Imagine, Harmonic
+- Suite logiciel Adobe
+- Fonctionnement d'une régie de production, les équipements mis en oeuvre
+- Système Cerebrum (EVS)
+- Infrastructure Riedel (MediorNet)
+- Connaître les différents formats de compression
+- Connaître les normes SDI, UHD/HDR
+- Savoir faire des mesures video (métrologie en SDI/UHD/HDR)
+- Les notions de remote prod
+
+La maîtrise de l'éco-système 2110 :
+- DCNM / IPFM (Cisco) ou un équivalent d'un autre fabricant
+- Architecture/ topologie/ contraintes
+- Management inband, oob
+- Mise en place de systèmes résilients
+- La norme SMPTE 2110 et toutes ses déclinaisons (2110-10 à 2110-40 par ex)
+- La maîtrise du PTP (configuration réseau, grandmaster )
+- Optimisation de la QOS
+- Savoir choisir/utiliser/configurer un broadcast controller
+- Savoir utiliser les outils de métrologie ST2110 et SDI
+- le protocole Dante (pour gérer la migration vers le 2110)
+
+En environnement IT :
+- Les bases de la technologie Cloud AWS pour le broadcast
+- La virtualisation de serveurs (vmware) et les contraintes liées au 2110/Dante
+- La virtualisation de postes de travail (Citrix) et les contraintes spécifiques à l'audiovisuel
+- la maîtrise des systèmes windows
+- Configuration de Gpo dans un AD
+- Fonctionnement des équipements réseau (firewall, switchs, DNS ..)
+- Les solutions KVM (adder, Raritan)
+
+Afin de :
+- Définir les architectures répondant aux besoins métier
+- Assurer la veille technologique
+- Anticiper les obsolescence techniques
+
+Compétences requises :
+Vous êtes diplômé(e) d'une école d'ingénieur ou Master 2 équivalent dans les métiers techniques audiovisuels, vous justifiez d'au moins 3 ans d'expérience.
+Compétences et qualités requises :
+- Connaissance des principes d'architectures techniques et fonctionnelles des systèmes TV
+- Les technologies réseau et principalement celles autour du SMPTE 2110
+- Autonome et proactif
+- Capacité à travailler en équipe
+- Esprit de synthèse et facilités rédactionnelles (DEX, DAT,  )
+- La communication afin d'être la passerelle entre les différents experts IT et broadcast.",Direction et ingénierie en entretien infrastructure et bâti,"[{'code': '123083', 'libelle': ""Évaluer les besoins et les impératifs d'exploitation d'une infrastructure"", 'exigence': 'S'}, {'code': '300148', 'libelle': 'Élaborer des actions ou des règles de prévention', 'exigence': 'S'}, {'code': '300258', 'libelle': 'Contrôler la qualité et la conformité des process', 'exigence': 'S'}, {'code': '300435', 'libelle': ""Optimiser les effectifs, l'adéquation et l'allocation des ressources"", 'exigence': 'S'}]",0.9474457502365112
+Architecte Infrastructure (H/F),"Encadré par les responsable du service, vous êtes en charge de :
+La Direction des Infrastructures, Cloud et Ingénieries de la Direction des Technologies du Groupe est chargée de l'architecture, de la maintenance et de l'évolution du socle technique permettant le déploiement du SI du groupe (Régie publicitaire, Contenus, Corporate...) et des systèmes broadcast (Studio, Régies de production, Régies finales) dans des environnements on-prem et cloud.
+Le service a un rôle majeur dans le plan de transformation des SI et leur migration dans le cloud.
+
+Cette direction est aujourd'hui composée de plusieurs pôles d'expertise (Réseaux, DBA, Infra, Cloud ..) et d'un pôle Ops Domaine dont le rôle est de faire le lien entre équipes de développement et équipes Infras.
+Nous sommes à la recherche du futur/la future Architecte Infrastructures qui sera sous la responsabilité du Service Owner Infrastructures et aura en charge dans une équipe d'architectes la création et l'évolution de nos architectures on-prem.
+
+Les équipes d'ingénierie broadcast ont en charge la mise en œuvre des systèmes audiovisuels, en s'appuyant sur des infrastructures que l'architecte aura au préalable défini.
+
+A ce titre il est donc primordial que vous ayez de fortes compétences broadcast et IT.
+
+En environnement Broadcast :
+- Connaissance des systèmes de MAM/NRCS/Diffusion tels que Dalet/Imagine, Harmonic
+- Suite logiciel Adobe
+- Fonctionnement d'une régie de production, les équipements mis en oeuvre
+- Système Cerebrum (EVS)
+- Infrastructure Riedel (MediorNet)
+- Connaître les différents formats de compression
+- Connaître les normes SDI, UHD/HDR
+- Savoir faire des mesures video (métrologie en SDI/UHD/HDR)
+- Les notions de remote prod
+
+La maîtrise de l'éco-système 2110 :
+- DCNM / IPFM (Cisco) ou un équivalent d'un autre fabricant
+- Architecture/ topologie/ contraintes
+- Management inband, oob
+- Mise en place de systèmes résilients
+- La norme SMPTE 2110 et toutes ses déclinaisons (2110-10 à 2110-40 par ex)
+- La maîtrise du PTP (configuration réseau, grandmaster )
+- Optimisation de la QOS
+- Savoir choisir/utiliser/configurer un broadcast controller
+- Savoir utiliser les outils de métrologie ST2110 et SDI
+- le protocole Dante (pour gérer la migration vers le 2110)
+
+En environnement IT :
+- Les bases de la technologie Cloud AWS pour le broadcast
+- La virtualisation de serveurs (vmware) et les contraintes liées au 2110/Dante
+- La virtualisation de postes de travail (Citrix) et les contraintes spécifiques à l'audiovisuel
+- la maîtrise des systèmes windows
+- Configuration de Gpo dans un AD
+- Fonctionnement des équipements réseau (firewall, switchs, DNS ..)
+- Les solutions KVM (adder, Raritan)
+
+Afin de :
+- Définir les architectures répondant aux besoins métier
+- Assurer la veille technologique
+- Anticiper les obsolescence techniques
+
+Compétences requises :
+Vous êtes diplômé(e) d'une école d'ingénieur ou Master 2 équivalent dans les métiers techniques audiovisuels, vous justifiez d'au moins 3 ans d'expérience.
+Compétences et qualités requises :
+- Connaissance des principes d'architectures techniques et fonctionnelles des systèmes TV
+- Les technologies réseau et principalement celles autour du SMPTE 2110
+- Autonome et proactif
+- Capacité à travailler en équipe
+- Esprit de synthèse et facilités rédactionnelles (DEX, DAT,  )
+- La communication afin d'être la passerelle entre les différents experts IT et broadcast.",Direction et ingénierie en entretien infrastructure et bâti,"[{'code': '123083', 'libelle': ""Évaluer les besoins et les impératifs d'exploitation d'une infrastructure"", 'exigence': 'S'}, {'code': '300148', 'libelle': 'Élaborer des actions ou des règles de prévention', 'exigence': 'S'}, {'code': '300258', 'libelle': 'Contrôler la qualité et la conformité des process', 'exigence': 'S'}, {'code': '300435', 'libelle': ""Optimiser les effectifs, l'adéquation et l'allocation des ressources"", 'exigence': 'S'}]",0.9474457502365112

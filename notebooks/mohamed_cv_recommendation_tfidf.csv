@@ -1,0 +1,797 @@
+intitule,description,romeLibelle,competences,cosine_similarity_tfidf
+Chef de projets informatiques (H/F),"Vous êtes curieux/rieuse et passionné/ée par votre métier, vous êtes force de propositions.
+Vous êtes Pédagogue, vous avez le sens du dialogue pour apporter des solutions aux attentes des utilisateurs, vous êtes réactif et disponible.
+Vous faites preuve d'ouverture d'esprit ce qui vous permet de vous adapter rapidement aux évolutions technologiques.
+
+Ce poste est fait pour vous !
+
+
+Que ferez-vous ?
+
+En tant que Chef de projets informatiques vous êtes en charge de la gestion des projets études et de l'assistance aux utilisateurs.
+Au sein d'une équipe informatique de 12 collaborateurs, rattaché/ée au Responsable du pôle études et développements (équipe composée de 6 personnes), vos missions principales seront les suivantes :
+
+ * Vous gérez principalement un projet de mise en œuvre d'un datawarehouse et élaborer des tableaux de bord
+ * Vous gérez d'autres projets en liens avec les différents métiers de la société
+ * Vous assurez la coordination des équipes internes et éventuellement externes
+ * Vous collectez et analyser les besoins des métiers
+ * Vous pilotez les phases de recette
+ * Vous assistez les utilisateurs aux logiciels installés (internes ou externes).
+ * Vous assurez la hotline fonctionnelle utilisateur
+ * Vous rédigez et tenez à jour les différentes documentations
+
+Le poste nécessite de très bonnes connaissances en Business Intelligence pour être à même de mener un projet de ce type, mais il demande également des compétences étendues, pour être à même de prendre en charge tous types de projets informatiques.
+
+Informations complémentaires :
+Poste ouvert dans le cadre d'un renfort, à pourvoir immédiatement.
+
+Statut Cadre Forfait jours (210 jours travaillés par année civile complète, avec 12 jours de repos).
+
+Le poste est basé au siège social, à Bourg en Bresse, (60 Km nord-est de Lyon - bureaux à 1 km de la gare de Bourg).
+
+Télétravail possible 1 jour par semaine dans le cadre d'un accord d'entreprise.
+
+Rémunération selon profil et expérience / Merci de transmettre vos prétentions salariales.
+13ème mois + 6ème semaine de congés payés + tickets restaurants + mutuelle familiale prise en charge à 100% + avantages CE + intéressement éventuel.
+
+Rejoignez-nous !
+
+Dans le cadre de sa politique d'égalité professionnelle entre les hommes et les femmes, la SEMCODA s'engage à étudier les candidatures en dehors de toute considération liée au sexe.
+Lors du processus de recrutement, des critères de sélection strictement identiques sont appliqués.
+Pour réussir à ce poste ?
+
+ * BAC+5 en informatique / développement / gestion de projets
+ * Expérience minimum de 5 ans dans le secteur informatique lié au développement de projets / gestion de projets de toutes natures
+   
+ * Connaissance outils ETL et DATAVIZ (expérience Power BI souhaitée)
+ * Maitrise du SQL
+   
+ * La connaissance du logement social serait un plus.",Direction des systèmes d'information,,[[0.53447853]]
+Data Analyst expérimenté Business (H/F),"Si tu es animé(e) par la passion de transformer les chiffres en récits concrets et porteurs de sens, à l'instar de l'esprit novateur d'Archimède, et que tu as le sens de l'écoute des besoins métier du client, tu pourrais être le Data Analyst (H/F) expérimenté(e) business que nous recherchons. Rejoins notre équipe pour apporter ton expertise et ton talent d'analyse, et deviens le/la visionnaire des données qui révèlera de nouvelles perspectives métier. En tant que professionnel(le) expérimenté(e), tu connais divers aspects du traitement de la donnée dans les entreprises, qu'il s'agisse des flux, de la BI, de l'analytique métier, de la gestion, de la logistique, du commerce, du SAV, et bien plus encore.
+
+Equipe:
+Le pôle Data est constitué de 7 spécialistes qui travaillent en étroite collaboration avec les différents pôles de l'agence. En tant que membre de ce pôle, tu seras en contact direct avec les membres du pôle Data, les chefs de projet, les architectes techniques et les responsables hiérarchiques de l'agence.
+
+Scope, Sujets :
+Données métier, données d'entreprise, approche data driven, business intelligence, analyse statistique, collecte, exploration, consolidation, transformation de données, data visualisation, storytelling.
+
+Types de projets:
+Analyse de performances marketing, optimisation de la chaîne d'approvisionnement et l'identification d'opportunités de croissance, analyse de données ouvertes, scraping, analyse statistique au cas par cas.
+
+Stack technique:
+Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, SQL (MySQL, PostgreSQL), Scikit-Learn, StatsModels, NLTK, SpaCy, Tableau, Looker, JIRA, Trello, Git, GitHub, Asana.
+
+Candidat.e
+Passionné(e) par l'analyse de données, tu es un(e) expert(e) qui comprend parfaitement les besoins métier des entreprises et écoute attentivement les clients. Tu excelles également dans la dataviz, le storytelling et la transformation de données en insights stratégiques pour innover.
+
+Tes missions:
+Dans une agence de 100 personnes, au sein d'une équipe de 7 personnes, et sous la responsabilité de notre CTO et du directeur de pôle, tu auras pour mission de :
+
+- Analyser et visualisation des données
+- Analyser les données pour identifier les tendances pertinentes
+- Traduire les besoins métier en questions analytiques
+- Créer des tableaux de bord interactifs et visuels
+Optimisation et amélioration:
+- Évaluer les performances actuelles et proposer des améliorations
+- Mettre en place des modèles prédictifs pour anticiper les tendances
+- Fournir des recommandations stratégiques basées sur les analyses
+- Suivre l'impact des décisions et ajuster les stratégies
+Communication et présentation:
+- Présenter clairement les résultats et les insights aux équipes
+Veille technologique: 
+- Rester à jour avec les dernières tendances en analyse de données
+
+
+Ton profil:
+Exigence
+Nous attendons de toi une grande expertise dans l'analyse de données et la capacité à résoudre des problèmes complexes. Tu devras être capable de traduire les besoins métier en questions analytiques pertinentes et de fournir des réponses exploitables.
+
+Passion:
+Tu te caractérises par une passion ardente pour l'exploration des données, une curiosité insatiable et un désir constant d'apprendre. Tu devras être orienté(e) vers les résultats, méthodique dans ton approche, et avoir une forte capacité à communiquer efficacement les résultats de ton analyse.
+
+Ouverture:
+Comme nous, tu regardes le monde entier avec intérêt : tu aimes rencontrer des gens d'origines diverses, tu parles ou apprends plusieurs langues, les autres cultures sont des sources d'inspiration, tu peux ou souhaiterais voyager. Tu es ouvert(e) aux richesses de l'autre.
+
+
+Formation:
+Bac+5, M2 ou équivalent
+
+ Nous avons tous des imperfections ou un handicap et c'est aussi une force : tu peux nous partager le tien.",Études et prospectives socio-économiques,"[{'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'E'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'E'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'E'}, {'libelle': 'Git', 'exigence': 'S'}, {'libelle': 'Jira', 'exigence': 'S'}, {'libelle': 'Looker', 'exigence': 'E'}, {'libelle': 'NoSQL', 'exigence': 'S'}, {'libelle': 'Power BI', 'exigence': 'E'}, {'libelle': 'Python', 'exigence': 'E'}, {'libelle': 'SQL', 'exigence': 'E'}, {'libelle': 'SpaCy', 'exigence': 'S'}, {'libelle': 'StatsModels', 'exigence': 'S'}, {'libelle': 'Trello', 'exigence': 'S'}]",[[0.5216798]]
+Chef de missions comptables (H/F),"Descriptif de poste :
+Notre Chef de missions comptables intervient dans la gestion et la tenue comptable d'un portefeuille de dossiers clients, en passant par :
+-	La mise à jour des dossiers avec les différents outils d'intégrations informatiques mis en place par CO Expertise,
+-	La supervision d'assistants,
+-	La préparation et l'établissement des comptes annuels,
+-	L'accompagnement des clients dans leur gestion avec des tableaux de bord et prévisionnels avec la suite MEG de RCA.
+
+Profil recherché :
+-	Avoir de bonnes connaissances informatiques, dont ACD.
+-	Expérience de 3 à 5 ans en cabinet comptable.
+-	DCG ou Master.
+-	Être organisé, méthodique, rigoureux et savoir travailler en équipe.
+
+Base 39h, temps plein.
+Rémunération : selon expérience. 
+Avantages : ticket restaurant, prime annuelle, 13ème mois, participation aux titres de transports et à la mutuelle.
+
+Afin de favoriser la cohésion et l'esprit d'équipe, nous organisons des événements d'entreprise (repas de Noël, journée de cohésion...).",Audit et contrôle comptables et financiers,"[{'code': '117019', 'libelle': 'Méthodes et procédures de contrôle comptable', 'exigence': 'E'}, {'code': '119405', 'libelle': 'Procédures de contrôle comptable', 'exigence': 'S'}, {'code': '300318', 'libelle': 'Réaliser des opérations comptables', 'exigence': 'S'}, {'code': '300449', 'libelle': 'Expliquer et faire respecter les règles et procédures\xa0', 'exigence': 'E'}]",[[0.50936855]]
+Data Scientist H/F (H/F),"Vos missions
+Acteur/Actrice du changement, vous jouerez un rôle clé dans l'analyse et l'exploitation de nos données pour mettre en place et développer des méthodes analytiques et contribuer à l'amélioration continue de nos produits/services. Vous travaillerez en étroite collaboration avec notre équipe de data scientist, d'ingénieurs et d'autres départements pour résoudre des problèmes complexes et vulgariser les résultats.
+
+Votre quotidien
+En tant que Data Scientist, vous :
+
+Collectez, nettoyez et préparez les données pour l'analyse.
+Concevez, développez et mettez en œuvre des modèles de machine learning et d'apprentissage profond.
+Effectuez des analyses statistiques pour extraire des informations significatives.
+Collaborez avec les équipes métier pour comprendre leurs besoins et proposez des solutions basées sur les données.
+Créez des tableaux de bord et des rapports pour visualiser les résultats de l'analyse powerBI ou autre.
+Participez à la recherche de nouvelles sources de données pertinentes.
+Restez à jour avec les dernières avancées en matière de data science et de machine learning.
+
+
+Contexte
+Au sein de la Direction Générale Industrielle & Ingénierie, vous travaillerez dans une jeune équipe de Data Science du département Intégration Projets Multi-métiers et Mesures (IP3M). Vous répondrez au besoin exprimé par la Direction Technique.
+
+Horaires
+Poste au forfait jour.
+
+Profil recherché
+Titulaire d'un BAC+5 en statistiques, mathématiques, informatique ou domaine connexe (master ou école d'ingénieurs), vous disposez d'une expérience démontrée en data science, y compris la création de modèles prédictifs.
+
+Vous maîtrisez des langages de programmation tels que Python ou/et R et avez une connaissance des bibliothèques et des frameworks de machine learning (scikit-learn, TensorFlow, ...) ainsi que des compétences en manipulation de données et en outils tels que SQL, Pandas, etc.
+
+Vous maitrisez Devops et git et avez d'excellentes compétences en communication et en présentation.
+
+Une capacité à travailler de manière autonome et en équipe est demandée.
+
+La connaissance du ferroviaire serait un plus.",Études et prospectives socio-économiques,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '300119', 'libelle': 'Réaliser une veille documentaire', 'exigence': 'S'}, {'code': '300457', 'libelle': ""Définir et faire évoluer des procédés de traitement de l'information"", 'exigence': 'S'}]",[[0.50656741]]
+Gestionnaire de bases de données et de ressources documentaires (H/F),"Ax&eacute;r&eacute;al est l'un des tous premiers groupes coop&eacute;ratifs c&eacute;r&eacute;aliers fran&ccedil;ais, pr&eacute;sent en France et &agrave; l'international et sp&eacute;cialis&eacute; dans la culture et la transformation de c&eacute;r&eacute;ales pour les march&eacute;s de la brasserie, boulangerie et &eacute;levage.
+
+ Ax&eacute;r&eacute;al rassemble 11 000 agriculteurs et 4 000 collaborateurs et r&eacute;alise un chiffre d'affaires d'environ 3 milliards d'euros. Le Groupe op&egrave;re dans 18 pays.
+
+ Premier collecteur de mati&egrave;res premi&egrave;res c&eacute;r&eacute;ali&egrave;res durables, Ax&eacute;r&eacute;al contribue &agrave; une offre alimentaire de qualit&eacute; et a l'ambition de devenir &laquo; La coop&eacute;rative agricole durable &raquo;.
+
+ Dans le cadre de sa politique diversit&eacute;, Ax&eacute;r&eacute;al &eacute;tudie, &agrave; comp&eacute;tences &eacute;gales, toutes candidatures n'est pas celles de personnes en situation de handicap.
+
+ Au sein du Service Adh&eacute;rent et Cr&eacute;dit client, vous serez rattach&eacute; directement au R&eacute;f&eacute;rent donn&eacute;es et Processus.
+
+ Vos missions principales seront r&eacute;parties dans deux cat&eacute;gories : la maintenance des donn&eacute;es du MDM client et le suivi des reportings du groupe AXEREAL.
+
+ Sur la partie gestion de base de donn&eacute;es :
+
+ * Participer au nettoyage des donn&eacute;es historiques de la base de donn&eacute;es (MDM) client d'Ax&eacute;r&eacute;al.
+
+ * Collecter et analyser les donn&eacute;es courantes &agrave; l'aide de dashboard interne au logiciel SEMARCHY
+
+ * Corriger en masse les donn&eacute;es alt&eacute;r&eacute;es, inexactes ou non pertinentes en continu, en particularit&eacute; dans la gestion du r&eacute;f&eacute;rentiel tiers, du capital social, du cr&eacute;dit client et de la gestion des comptes.
+
+ * Effectuer et mettre &agrave; jour des rapports, tableaux et graphiques pour suivre l'&eacute;volution de ces informations sur le long terme.
+
+ * Contr&ocirc;ler dans le logiciel comptable la bonne ex&eacute;cution des flux d'informations.
+
+ * Animer et s'assurer d'une information homog&egrave;ne sur l'ensemble du p&eacute;rim&egrave;tre.
+
+ * Dans le cadre de la mise en place du nouvel ERP, participer &agrave; la revue et &agrave; la reprise des donn&eacute;es.
+
+ Sur la partie reporting :
+
+ * Mettre &agrave; jour les tableaux de suivi du service adh&eacute;rent et cr&eacute;dit client de mani&egrave;re r&eacute;guli&egrave;re (hebdomadaire et mensuel).
+
+ * Participer &agrave; la cr&eacute;ation, la modification et l'am&eacute;lioration des reportings existants sur EXCEL et POWERBI.
+
+ * Contribuer aux &eacute;volutions en cours et futures de ces tableaux de bord vers l'outil POWERBI.
+
+ * V&eacute;rifier l'exactitude des donn&eacute;es travaill&eacute;es par des contr&ocirc;les r&eacute;guliers.
+
+ En outre, il vous sera &eacute;galement demand&eacute; de d&eacute;crire les proc&eacute;dures et modes op&eacute;ratoires en coordination avec les experts m&eacute;tiers.
+ 
+ Savoir-&ecirc;tre :
+
+ * Aptitude &agrave; manier les outils informatiques.
+
+ * Sens de la relation client interne et externe.
+
+ * Excellente rigueur et go&ucirc;t pour l'efficacit&eacute; op&eacute;rationnelle.
+
+ * Forte capacit&eacute; &agrave; travailler en &eacute;quipe
+
+ * Tr&egrave;s bonne capacit&eacute; d'analyse et de synth&egrave;se
+
+ * V&eacute;hiculer l'image de l'entreprise au regard des valeurs du groupe
+
+ Qualit&eacute;s :
+
+ Force de proposition, autonomie, rigueur et force d'initiative.
+
+ Formation:
+
+ * BAC +2/+3 en informatique
+
+ * Une exp&eacute;rience de minimum 3 ans dans un poste similaire
+
+ * Tr&egrave;s bonne ma&icirc;trise du pack office (principalement EXCEL)
+
+ * Bonne ma&icirc;trise de POWERBI ou outils &eacute;quivalents
+
+ * Des connaissances en langage SQL et VBA serait un plus
+
+ Dans le cadre de sa politique diversit&eacute;, le groupe Ax&eacute;r&eacute;al &eacute;tudie, &agrave; comp&eacute;tences &eacute;gales, toutes candidatures n'est pas celles de personnes en situation de handicap.",Gestion de l'information et de la documentation,,[[0.4925724]]
+Technicien(ne) méthodes de production en usinage (H/F),"L'ENTREPRISE : 
+
+SD Services, leader français dans le domaine de l'aménagement de véhicules utilitaires, recrute un(e) technicien(ne) méthodes de production en usinage en CDI pour son usine de Gevrey-Chambertin (21).
+
+
+MISSIONS PRINCIPALES : 
+
+Améliorer les process au sein de l'atelier d'usinage en partenariat avec le bureau d'étude :
+
+- Optimiser les solutions techniques,
+- Améliorer la productivité,
+- Rechercher de nouveaux outils pour les machines,
+- Analyser les dysfonctionnements et participer à la mise en place des actions correctives,
+- Suivre l'usinage des aménagements des prototypes,
+- Participer aux réunions d'animations en lien avec son activité,
+- Concevoir et actualiser des outils de suivi et d'analyse (tableaux de bord, graphiques),
+- Concevoir ou modifier les procédures dédiées aux opérateurs de production.
+
+PROFIL : 
+
+- Idéalement issu(e) d'un BTS CPRP (Conception des Processus et Réalisation de Produits), 
+- Vous disposez de connaissances techniques dans de nombreux domaines telles que la mécanique, science des matériaux, usinage, automatisme, etc.,
+- Vous disposez de connaissances sur des logiciels de conception et de programmation,
+- Vous maîtrisez les applications utilisées en production et en gestion de production,
+- Vous êtes capable d'analyser les données, les ressources, les contraintes et les coûts,
+- Vous disposez nécessairement d'une expérience sur machines à commandes numériques.
+
+
+
+INFORMATIONS COMPLÉMENTAIRES : 
+
+- Durée de travail : 39h hebdomadaires,
+- Salaire : fixe selon profil et expériences + une variable mensuelle selon les primes de résultats de l'usine,
+- Primes de vacances (équivalence à un 13ème mois), 
+- Tickets restaurant (pris en charge à 60% par l'employeur), 
+- Mutuelle (prise en charge à 100% par l'employeur), 
+- Chèques CESU (pris en charge à 75% par l'employeur), 
+- Avantages CSE : chèques vacances, tickets cinéma.
+
+Cette offre vous intéresse ? Envoyez-nous votre candidature !",Intervention technique en méthodes et industrialisation,,[[0.49067665]]
+Technicien(ne) méthodes de production en usinage (H/F),"L'ENTREPRISE : 
+
+SD Services, leader français dans le domaine de l'aménagement de véhicules utilitaires, recrute un(e) technicien(ne) méthodes de production en usinage en CDI pour son usine de Gevrey-Chambertin (21).
+
+
+MISSIONS PRINCIPALES : 
+
+Améliorer les process au sein de l'atelier d'usinage en partenariat avec le bureau d'étude :
+
+- Optimiser les solutions techniques,
+- Améliorer la productivité,
+- Rechercher de nouveaux outils pour les machines,
+- Analyser les dysfonctionnements et participer à la mise en place des actions correctives,
+- Suivre l'usinage des aménagements des prototypes,
+- Participer aux réunions d'animations en lien avec son activité,
+- Concevoir et actualiser des outils de suivi et d'analyse (tableaux de bord, graphiques),
+- Concevoir ou modifier les procédures dédiées aux opérateurs de production.
+
+PROFIL : 
+
+- Idéalement issu(e) d'un BTS CPRP (Conception des Processus et Réalisation de Produits), 
+- Vous disposez de connaissances techniques dans de nombreux domaines telles que la mécanique, science des matériaux, usinage, automatisme, etc.,
+- Vous disposez de connaissances sur des logiciels de conception et de programmation,
+- Vous maîtrisez les applications utilisées en production et en gestion de production,
+- Vous êtes capable d'analyser les données, les ressources, les contraintes et les coûts,
+- Vous disposez nécessairement d'une expérience sur machines à commandes numériques.
+
+
+
+INFORMATIONS COMPLÉMENTAIRES : 
+
+- Durée de travail : 39h hebdomadaires,
+- Salaire : fixe selon profil et expériences + une variable mensuelle selon les primes de résultats de l'usine,
+- Primes de vacances (équivalence à un 13ème mois), 
+- Tickets restaurant (pris en charge à 60% par l'employeur), 
+- Mutuelle (prise en charge à 100% par l'employeur), 
+- Chèques CESU (pris en charge à 75% par l'employeur), 
+- Avantages CSE : chèques vacances, tickets cinéma.
+
+Cette offre vous intéresse ? Envoyez-nous votre candidature !",Intervention technique en méthodes et industrialisation,,[[0.49067665]]
+Responsable Infrastructure et Intégration Technique (H/F),"Dans l'esprit des halles traditionnelles, les magasins Grand Frais réunissent en un seul et même lieu 5 professionnels de l'alimentation : un primeur, un épicier, un fromager, un boucher et un poissonnier. Nos professionnels mettent leur expertise au service de nos clients afin de les conseiller et les accompagner tout au long de leur parcours en magasin. A la manière d'un commerçant de quartier, nous instaurons une véritable proximité et une relation de confiance avec nos clients.
+
+Au sein du de la Direction des Systèmes d'information, sur un domaine technique couvrant un ensemble défini de Services d'infrastructures Techniques (Poste de Travail, service Desk, telecom, datacenter, cloud) et de Solutions applicatives et d'infrastructures (Collaboration, Applications RH, Active Directory, Gestion des identités, Toip ...), votre rôle consiste à :  
+
+- Piloter le processus d'architecture technique. 
+- Manager l'ensemble des prestataires et experts externes. 
+- Produire chaque année les informations de budget optimisé de marche courante et des projets du domaine technique. 
+- Superviser la conception et la mise en place de solution et d'infrastructure : 
+      - en répondant aux besoins et planning exprimés par les sponsors projets (IS ou IT) dans le respect des règles d'EA et des standards techniques 
+      - en préservant l'évolutivité 
+      - en intégrant le besoin de décommissionnement. 
+
+- Apporter votre expertise technique dans la conception de la solution 
+- Apporter l'expertise aux Plateformes métiers pour le développement des solutions 
+- Assurer le transfert de compétences vers les équipes opérationnelles internes et/ou fournisseur. 
+- Garantir la qualité des solutions construites pour une utilisation en marche courante et leur évolutivité¿: 
+- S'assurer que le support de niveau 3 fournit le service attendu 
+- Suivre la performance opérationnelle des applications et intègre les évolutions ou corrections dans une démarche d'amélioration continue 
+- Assurer la pérennité de la marche courante par la prise en compte des besoins traités en mode amélioration continue 
+- Gérer le portefeuille des projets du domaine technique  
+- Participer aux instances de CAB. 
+- Assurer la bonne utilisation du SI par ses utilisateurs : s'assurer que les procédures opérationnelles sont disponibles côté fournisseurs 
+- Assurer l'alignement de l'infrastructure et des objectifs du business. 
+
+Environnement technique 
+
+- Environnement MICROSOFT (windows server, exchange, office 365, active directory, WSUS, SQL, powershell etc...)  
+- Réseaux LAN, WAN, WIFI, SWITCH (cisco) FIREWALL (WatchGuard), MPLS 
+- Environnement CITRIX (Xenapp, netscaler) 
+- Virtualisation (VMWARE vSphere, ESX) et stockage (Datacore) 
+- Sécurité anti-virus, EDR (cybereason) 
+- Gestion de Tickets¿: GLPI, Service Now.
+
+Diplômé d'un BAC+5, vous possédez de solide base en informatique (systèmes, réseaux, base de données, sécurité). Vous justifiez d'une première expérience sur des missions de responsable des infrastrutures techniques et pilotage de  l'intégration technique, idéalement acquise dans un environnement multisite.
+
+Vos atouts pour réussir dans ce poste ?
+
+- Votre goût prononcé pour les nouvelles technologies sera un véritable atout. 
+- Rigoureux.se, doté.e d'une bonne capacité d'écoute et de synthèse, vous avez à cœur de mener des projets à bien
+- Votre dynamisme, pédagogie et excellent relationnel vous permettent de créer rapidement et simplement du lien avec les différents interlocuteurs
+
+Informations complémentaires :
+- Poste statut cadre à pourvoir dès que possible 
+- Rémunération selon profil sur 13 mois + Prime sur objectifs
+- 10 RTT /année pleine
+- Nos locaux sont situés à 3 min à pied de la gare de Givors Ville - Accessible en train depuis Lyon en 20 min.",Études et développement informatique,"[{'code': '300688', 'libelle': 'Application web', 'exigence': 'S'}, {'code': '109846', 'libelle': 'Concevoir une application web', 'exigence': 'S'}, {'code': '300188', 'libelle': 'Rédiger un cahier des charges, des spécifications techniques', 'exigence': 'S'}, {'code': '300242', 'libelle': 'Déterminer des mesures correctives', 'exigence': 'S'}, {'code': '300366', 'libelle': 'Recueillir et analyser les besoins client', 'exigence': 'S'}]",[[0.48922169]]
+Leader technique - CDI - Mérignac (H/F),"Qu'allez-vous trouver chez nous ?
+- Un impact direct de vos actions en faveur de l'emploi de personnes en situation de handicap,
+- Une politique salariale évolutive chaque année, un plan de carrière potentiel sous 2 à 3 ans,
+- Des technos et des projets intéressants dans lesquels vous serez un réel acteur.
+Qui sommes nous ?
+GESTFORM s'est donc doté, depuis plusieurs années, d'un service interne totalement dédié à la conception et au déploiement de ses outils de traitement numérique.
+Véritable ESN interne, cette équipe élabore des solutions logicielles, matérielles, et organisationnelles performantes et paramétrables.
+GESTFORM dispose également d'une chaine d'intégration continue (Devops) hébergée dans notre propre data center.
+
+Vos missions : 
+Au sein de ce Pôle SI constituée d'une quarantaine de personnes, en étroite collaboration avec vos collègues, vous participez développement de nos solutions.
+Vos grandes missions seront donc de travailler sur :
+- L'évolution et refonte des applications développées
+- La maintenance des applications de production et de gestion
+- La conception à la mise en production au sein de notre usine numérique
+Enfin, votre rôle de Leader technique fait de vous un référent, vous accompagnez les plus jeunes développeurs dans leur quotidien.
+Vous redescendez les consignes données par l'architecte SI sur les technos à utiliser et les choix.
+Nos langages et outils :
+- IDE : Visual Studio, VSCodium  
+ - Versionning : Git, svn  
+ - Méthodologie : Agile / Scrum 
+ - Langage : Angular, Python, .net, C#, Javascript . 
+
+Nous avons de plus en plus de technos récentes (de quoi se faire plaisir.
+
+Votre profil
+Titulaire d'un Bac+3 / 5 Systèmes Informatiques et Logiciel
+Vous disposez de connaissance sur les bases de données SQL Serveur.
+Vous disposez également d'une base de connaissance des principes Clean Code et d'une sensibilité concernant l'UI/UX.
+Vous attachez une réelle importance à la qualité de votre code et de vos livrables en générale.
+Plus qu'un niveau d'étude, nous recherchons une personne autonome et investie dans sa mission, passionnée, rigoureuse et curieuse et ayant un bon sens de la relation client (client interne).
+
+Votre expérience fait que vous pouvez conseiller et accompagner des développeurs juniors. Vous êtes bienveillant, patient et pédagogue.
+
+Vous vous êtes reconnu(e) dans ce descriptif ? vous avez envie de nous rejoindre ? alors postulez ! Vous serez recontacté(e) par notre chargée de recrutement dans les prochains jours.
+
+Pour votre organisation personnelle :
+- Horaires classiques (même pour les cadres   )
+- Un Accord de télétravail de 2 jours par semaine
+
+La rémunération brute annuelle est composée d'un fixe entre 40 et 42k€ (selon expérience) + prime intéressement + PEE + PERCO + RTT
+
+Également, d'autres avantages :
+- Parcours d'intégration personnalisé
+- Forte Politique de formation
+- Possibilité d'évolution (plan de carrière mis en place)
+- CSE
+- Mutuelle d'entreprise avec prise en charge de 63% de la part de Gestform sur la base mutuelle (22€ à votre charge)",Études et développement informatique,"[{'code': '113798', 'libelle': 'Python', 'exigence': 'S'}, {'code': '118748', 'libelle': 'Méthodologie Scrum', 'exigence': 'S'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'S'}, {'code': '300679', 'libelle': ""Tester un logiciel, un système d'informations, une application"", 'exigence': 'S'}, {'code': '400261', 'libelle': 'Coder', 'exigence': 'S'}]",[[0.4830951]]
+Consultant/Consultante CRM - Rennes (H/F),"Descriptif du poste
+Divalto recrute pour son partenaire RBI à Rennes !
+
+Vos missions :
+
+Vous participez à la mise en place des solutions métiers gestion commerciale et gestion logistique,
+
+Vous personnalisez le CRM Divalto Weavy des futurs clients,
+
+Vous intégrez le CRM Divalto Weavy chez les futurs clients,
+
+Vous accompagnez l'adoption du CRM auprès des utilisateurs,
+
+Vous pilotez l'analyse des besoins des clients et la mise en œuvre de la solution proposée.
+
+Profil recherché
+Votre différence
+
+Vos compétences techniques ;
+
+Vous êtes passionné.e d'informatique,
+
+Vous maitrisez le langage SQL,
+
+Vous possédez des connaissances techniques dans le domaine de la logistique, de la production et/ou de l'industrie,
+
+Vous connaissez les logiciels CRM d'un point de vu fonctionnel et technique,
+
+Vous avez un niveau d'anglais professionnel,
+
+La connaissance des langages de développement .NET et C# est un plus.
+
+Vos compétences humaines :
+
+Vous disposez d'excellentes capacités relationnelles,
+
+Vous savez vous adapter,
+
+Vous êtes réactif-ive et organisé-e.
+
+Vous savez adapter votre posture face à un client
+
+Votre formation et votre expérience pro :
+
+De formation Bac +3 minimum, vous justifiez d'une première expérience réussie de 2 années dans l'intégration d'applications dédiées à la gestion d'entreprise.
+
+Les différences de RBI
+
+Package salarial attractif,
+
+12 RTT par an avec une base de temps de travail hebdomadaire de 37H30,
+
+1 jour de télétravail par semaine avec possibilité de full remote,
+
+Participation aux frais d'abonnements de transports en commun,
+
+Mise à disposition d'une voiture de service pour les déplacements professionnels.
+
+Déroulement des entretiens
+Entretien téléphonique de pré-qualification avec Nathan
+
+Premier entretien sur site avec Jean-Charles MICHEL
+
+Entretien technique avec l'opérationnel
+
+Rencontre avec la Direction",Conseil et maîtrise d'ouvrage en systèmes d'information,"[{'code': '109818', 'libelle': 'Élaborer des solutions techniques et fonctionnelles', 'exigence': 'S'}, {'code': '120326', 'libelle': 'Recenser les besoins du commanditaire', 'exigence': 'S'}, {'code': '120327', 'libelle': 'Analyser les processus métier', 'exigence': 'S'}, {'code': '300021', 'libelle': 'Transmettre une technique, un savoir-faire', 'exigence': 'S'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'S'}]",[[0.48172865]]
+Consultant/Consultante CRM - Rennes (H/F),"Descriptif du poste
+Divalto recrute pour son partenaire RBI à Rennes !
+
+Vos missions :
+
+Vous participez à la mise en place des solutions métiers gestion commerciale et gestion logistique,
+
+Vous personnalisez le CRM Divalto Weavy des futurs clients,
+
+Vous intégrez le CRM Divalto Weavy chez les futurs clients,
+
+Vous accompagnez l'adoption du CRM auprès des utilisateurs,
+
+Vous pilotez l'analyse des besoins des clients et la mise en œuvre de la solution proposée.
+
+Profil recherché
+Votre différence
+
+Vos compétences techniques ;
+
+Vous êtes passionné.e d'informatique,
+
+Vous maitrisez le langage SQL,
+
+Vous possédez des connaissances techniques dans le domaine de la logistique, de la production et/ou de l'industrie,
+
+Vous connaissez les logiciels CRM d'un point de vu fonctionnel et technique,
+
+Vous avez un niveau d'anglais professionnel,
+
+La connaissance des langages de développement .NET et C# est un plus.
+
+Vos compétences humaines :
+
+Vous disposez d'excellentes capacités relationnelles,
+
+Vous savez vous adapter,
+
+Vous êtes réactif-ive et organisé-e.
+
+Vous savez adapter votre posture face à un client
+
+Votre formation et votre expérience pro :
+
+De formation Bac +3 minimum, vous justifiez d'une première expérience réussie de 2 années dans l'intégration d'applications dédiées à la gestion d'entreprise.
+
+Les différences de RBI
+
+Package salarial attractif,
+
+12 RTT par an avec une base de temps de travail hebdomadaire de 37H30,
+
+1 jour de télétravail par semaine avec possibilité de full remote,
+
+Participation aux frais d'abonnements de transports en commun,
+
+Mise à disposition d'une voiture de service pour les déplacements professionnels.
+
+Déroulement des entretiens
+Entretien téléphonique de pré-qualification avec Nathan
+
+Premier entretien sur site avec Jean-Charles MICHEL
+
+Entretien technique avec l'opérationnel
+
+Rencontre avec la Direction",Conseil et maîtrise d'ouvrage en systèmes d'information,"[{'code': '109818', 'libelle': 'Élaborer des solutions techniques et fonctionnelles', 'exigence': 'S'}, {'code': '120326', 'libelle': 'Recenser les besoins du commanditaire', 'exigence': 'S'}, {'code': '120327', 'libelle': 'Analyser les processus métier', 'exigence': 'S'}, {'code': '300021', 'libelle': 'Transmettre une technique, un savoir-faire', 'exigence': 'S'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'S'}]",[[0.48172865]]
+Assistant commercial / Assistante commerciale,"Rattaché au service communication et commercial, et sous l'autorité de la responsable du service, située à Flers (61) vous aurez pour mission de contribuer au développement commercial du GRETA Portes Normandes et au sourcing des différentes actions de formation. 
+
+Vos missions :
+- Prospection et démarchage commercial auprès des entreprises du territoire
+- Accompagner les Conseillers en Formation Continue dans leur rôle d'agent de développement (prise de RDV pour les CFC, participer à des réunions  )
+- Mettre à jour les fichiers clients et bases de données
+- Mettre en œuvre des opérations de mailings et/ou de relance téléphonique (notamment les relances suite à des devis sans réponses)
+- Assurer le suivi et la fidélisation des clients.
+- Promouvoir les dispositifs de formation auprès des clients, prospects et partenaires (actions de phoning et e-mailings)
+- Participer activement à la définition du plan d'action commercial et à la mise en œuvre en lien avec la responsable commercial.
+- Mise en relation candidats / entreprises pour les contrats d'alternance
+- Saisie de l'offre de formation sur EDOF
+
+Aptitudes professionnelles :
+- Sens de l'organisation
+- Sens du travail collaboratif
+- Sens de l'initiative et de l'autonomie
+- Réactivité
+- Aptitude à interroger ses pratiques professionnelles
+- Droits et obligations
+- Secret professionnel et confidentialité
+
+Compétences :
+- Méthodologie de suivi et d'évaluation des actions
+- Méthodologie de suivi de projet
+- Techniques de commercialisation
+- Utilisation de l'outil informatique et du logiciel ou progiciel spécifique
+- Utilisation des outils bureautiques 
+
+Formation et expériences :
+- BAC+2 avec expérience professionnelle significative d'un an sur fonctions commerciales et communication dans le domaine des services.  
+- La connaissance du secteur de la formation est un plus. 
+
+Avantages :
+- Supplément Familial de Traitement
+- Nombre de jours de congés annuels
+- Participation à la mutuelle
+
+Statut et rémunération :
+- Contrat de vacation puis contrat à durée déterminée de droit public
+- Poste à pourvoir à partir du 01/02/2024
+- Fin de contrat : 31/08/2024 (renouvelable)
+- Rémunération selon la grille des agents non titulaires de l'Etat, le diplôme et l'expérience
+- Lieux d'exercices : Évreux - Lycée Louis Modeste Leroy - 27000 Évreux 
+Vous serez amené à vous déplacer sur le territoire de l'Eure et d'Elbeuf ; au sein des 6 antennes du GPN : Evreux, Bernay, Pont-Audemer, Vernon, Elbeuf et Louviers (prise en charge des frais de déplacements)",Assistant commercial / Assistante commerciale,"[{'code': '124537', 'libelle': ""Vérifier les conditions de réalisation d'une commande"", 'exigence': 'S'}]",[[0.48104705]]
+chef cellule comptable H/F - EC159888,"chef cellule comptable H/F - EC159888 Composée d'une équipe de 10 personnes dont 3 cadres A, 3 cadres B et 6 comptables, la Direction financière est l'acteur principal lors de la mise en place de tout nouveau projet. Elle prépare, suit et contrôle les budgets du syndicat. Chaque comptable est responsable d'un périmètre d'activités (enfouissement des réseaux, énergies renouvelables, numérique-) qui lui permet de travailler sur l'ensemble des missions comptables de l'engagement à la gestion des écritures de dépenses et recettes jusqu'aux contrôles a posteriori. L'ensemble de la comptabilité est totalement dématérialisé grâce à l'utilisation de la plateforme Chorus Pro, du logiciel CIVIL Finances et d'un parapheur électronique DOCAPOST FAST.
+Le poste de chef de cellule comptable
+En tant que chef.fe de cellule comptable, vous assurerez l'encadrement d'agents comptables (2 agents) et vous serez en charge du contrôle de l'exécution du budget à travers les missions suivantes : 
+- Participer à l'élaboration du budget du SIPPEREC et veiller à sa bonne exécution par les agents comptables.
+o Vous participez à l'élaboration des documents budgétaires dans le respect des   instructions comptables M14, M57 et M4.
+o Vous vous assurez du respect des contraintes financières du syndicat.
+o Vous tenez des tableaux de bords financiers.
+o Vous suivez l'exécution budgétaire par le contrôle à postériori des écritures passées par les agents comptables.
+o Vous pilotez la gestion de la trésorerie et suivez le recouvrement des titres de recette.
+- Suivi de la mise à jour comptable du patrimoine du syndicat : -contrôle des immobilisations entrées à l'actif, amortissement, cession, mise à la réforme, transmission du bilan annuel des entrées et sorties du patrimoine auprès du comité syndical et du Trésorier
+Prise en charge des missions spécifiques telles que l'administration et la gestion du système d'information de la direction des finances ainsi que le pilotage et le développement des projets informatiques liés aux finances et à la dématérialisation.
+- Contrôler la gestion comptable de 2 budgets et coordonner avec une gestionnaire le contrôle et le traitement de la TCCFE.",Direction de la sécurité civile et des secours,,[[0.48082051]]
+Consultant / Consultante en Logiciels de Gestion / Comptabilité (H/F),"NS2B recherche  1 Consultant(e) technicien(e) de support et Formation h/f en logiciels de Gestion et Comptabilité , afin de renforcer son équipe Logiciels basée à ST DENIS - île de la Réunion (97400). 
+
+La personne retenue intègrera l'équipe logicielle qui a pour rôle d'accompagner les entreprises clientes dans la mise en place et l'exploitation des solutions de gestion et Comptabilité proposées par NS2B
+Les missions concernent dans un premier temps l'accompagnement au quotidien dans le cadre du support téléphonique. Ensuite après validation, les missions peuvent s'élargir au paramétrage des logiciels et à la formation des clients.  
+
+MISSIONS : 
+- Prises d'appels téléphoniques pour faire le support technique client
+- Paramétrage des logiciels - Récupération et migration de fichier 
+- Formation des utilisateurs sur les logiciels
+- Test de nouveaux logiciels 
+- Intervention à distance et sur site 
+
+Vous pourrez être amené(e) à vous déplacer chez les clients dans tout le département.
+
+PROFIL : 
+Des qualités d'écoute, de compréhension, de pédagogie et d'autonomie sont nécessaires pour ce poste. il est important également d'avoir des notions de gestion et de comptabilité. 
+Idéalement, le/la candidat (e) retenu(e) doit connaître au moins une des solutions de gestion suivantes : EBP, SAGE, COALA, QUADRATUS, ACD sur les applications comptables et facturation. 
+Une bonne maitrise de la bureautique (Excel/Word/Outlook) est requise.
+Une connaissance des requêtes SQL serait appréciée ainsi que des notions en matière de tableaux de bord ou analyse de rentabilité. 
+Le/la  candidat(e) devra être disponible rapidement et très motivé(e). 
+Rejoignez une équipe dynamique et un cadre de travail détendu et sympathique  . 
+
+N'hésitez pas ce job est pour vous si vous êtes issu(e) d'une formation en gestion en comptabilité et êtes débutant(e)s ou avez 3 ans d'expériences en entreprise dans des services de comptabilité, gestion, logistique, service commercial ou en tant que consultant(e) logiciel chez un éditeur ou un intégrateur de logiciel, n'hésitez pas à nous adresser votre candidature.",Conseil et maîtrise d'ouvrage en systèmes d'information,"[{'code': '101398', 'libelle': 'Finance', 'exigence': 'S'}, {'code': '121126', 'libelle': ""Progiciels de gestion intégrée d'entreprise (ERP)"", 'exigence': 'E'}, {'code': '126340', 'libelle': 'Gestion commerciale, relation clients', 'exigence': 'E'}, {'code': '109818', 'libelle': 'Élaborer des solutions techniques et fonctionnelles', 'exigence': 'S'}, {'code': '120325', 'libelle': ""Présenter les évolutions du système d'information au commanditaire"", 'exigence': 'S'}, {'code': '120326', 'libelle': 'Recenser les besoins du commanditaire', 'exigence': 'S'}, {'code': '120327', 'libelle': 'Analyser les processus métier', 'exigence': 'E'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'S'}]",[[0.4786894]]
+"Data Analyst « SAS, BOARD et Dataviz » (H/F)","Mon client est la Direction du Contrôle de Gestion d'un important Groupe en charge d'une mission de Service Public.
+
+Ils recherchent un Data Analyst de niveau avancé sur SAS, BOARD et Dataviz.
+
+MISSIONS :
+
+- La réalisation ou la spécification de la collecte des données nécessaires à
+l'élaboration d'un modèle de calcul ou d'un tableau de bord à partir des SI et
+Infocentres;
+- La réalisation ou la spécification de modèles de calcul ou de modèles de données
+pour simplifier la réalisation des analyses et des restitutions à partir de Board et
+l'entrepôt de données SAS;
+- La réalisation des tableaux de bord dans des outils de Dataviz (nos outils: DigDash,
+Microstrategy );
+- La compréhension des besoins utilisateurs et savoir évoluer en mode projet;
+- La réalisation d'études de Gestion pour répondre aux interrogations du Comité
+Stratégique;
+- La participation au projet SAP/4Hana ainsi qu'à l'intégration de l'EPM Board.
+
+&gt;&gt; Compétences attendues:
+- maîtrise des algorithmes et des langages de programmation ;
+- maîtrise du langage de data management et des bases de données ;
+
+&gt;&gt; Connaissance outils : SAS, SAS Guide, BOARD, Microstrategy, Digdash, SAP,
+Excel 
+ 
+
+PROFIL :
+
+Diplômé(e) d'une école d'Ingénieur, vous bénéficiez d'une expérience réussie de 5 ans
+minimum en data management et gestion de projet.
+Connaissance en modélisation de calcul/données sous plateforme analytique.
+Expérience en analyse de données pour conceptualiser et réaliser des tableaux de bord
+industrialisés sous outils de datavisualisation.
+La connaissance du contrôle de gestion serait un vrai plus.",Études et prospectives socio-économiques,"[{'code': '109527', 'libelle': 'Adapter les outils de traitement statistique de données', 'exigence': 'S'}, {'code': '109528', 'libelle': ""Rédiger l'information produite"", 'exigence': 'S'}, {'code': '109529', 'libelle': 'Présenter et diffuser les résultats des études réalisées', 'exigence': 'S'}, {'code': '109542', 'libelle': 'Réaliser une étude', 'exigence': 'S'}, {'code': '300457', 'libelle': ""Définir et faire évoluer des procédés de traitement de l'information"", 'exigence': 'S'}]",[[0.47689256]]
+Magasinier atelier nautisme (H/F),"Dans le cadre de notre développement, nous recherchons un(e) magasinier qui assistera le chef d'atelier H/F, pour renforcer l'équipe existante.
+
+Vous justifiez obligatoirement d'une expérience de 2 ans minimum dans le nautisme, avec notamment les connaissances suivantes :
+- commandes des pièces détachées, assurer les commandes de pièces, contrôler les fournisseurs, mettre en stock, gérer les stocks, contrôler prix d'achat/marge/vente, mise en rayon
+- préparer contrôler et distribuer les pièces destinées à l'atelier, rapprocher sortie des pièces avec ordres de travail
+- effectuer un inventaire minimum annuellement et en établir le bilan
+- assurer le lien avec les centres techniques, mise en place garantie constructeur, être force de proposition sur les stocks de pièces à avoir 
+- traitement des demandes SAV, devis, factures
+- assurer le remplacement du chef d'atelier lors de son absence
+- prise de RDV
+
+Tenue à jour des logiciels utilisés : mise à jour, personnalisation 
+Tenue et mise à jour des tarifs accessoires
+Bonne maitrise pack office pour ce poste et une connaissance des pièces détachées bateaux.
+Caces pour conduire un Fenwick apprécié.
+
+Votre rôle consistera à épauler le chef d'atelier.
+
+Horaires de 8h à 12h et 13h à 17h, du lundi au jeudi, 8h-12h / 13h-16h le vendredi.
+Heures supp quotidien notamment de février à août. Heures supp payées.",Magasinage et préparation de commandes,"[{'code': '110036', 'libelle': 'Réaliser le prélèvement de produits selon les instructions de préparation de commande et constituer les colis, lots, ...', 'exigence': 'S'}, {'code': '300263', 'libelle': ""Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"", 'exigence': 'S'}, {'code': '300265', 'libelle': 'Charger, décharger, manutentionner des produits', 'exigence': 'S'}, {'libelle': 'Permis cotier facultatif', 'exigence': 'S'}]",[[0.476442]]
+"Ingénieur Métrologue F/H - Test, essai, validation, expertise (H/F)","Descriptif du poste:
+
+
+Pour répondre à notre « Projet de modernisation » de nos infrastructures ainsi qu'aux enjeux climatiques, VNF souhaite créer une équipe d'experts spécialement dédiés à la Gestion Hydraulique.
+
+Une toute nouvelle unité prend forme, de la gestion des outils, à la modélisation, en passant par conduite de programmes jusqu'à la prospective (et bien d'autres défis encore !), il y aura forcément une place pour vous à bord ! 
+
+En tant qu'Ingénieur métrologue, vous vous assurerez de définir le réseau de mesures à mettre en place, de piloter la fiabilisation des données et de développer des outils d'analyses
+
+
+A ce titre, en lien avec les 7 directions territoriales, vous serez amené à :
+
+
+* Elaborer un programme national pour définir les types de mesures, les techniques et les choix d'instrumentation, d'implantations et modalités de gestion des instruments ;
+* Assurer leur accompagnement et l'animation du réseau interne dans la déclinaison et la mise en œuvre du programme ;
+* Administrer la base de données interne (Aghyre) : vous vous assurez de la gestion et la fiabilisation des données
+* Réaliser la prospective en matière de métrologie
+* Participer aux travaux du Ministère et aux projets de recherche dans ce domaine (OFB, INRAE,.)
+
+
+Vous savez et souhaitez travailler en équipe, afin d'assurer la complémentarité des expertises de la future unité « Gestion Hydraulique ».
+
+Profil recherché:
+
+
+Pour constituer notre équipe d'experts dédiés « Gestion Hydraulique », nous recherchons :
+
+
+* Une formation d'ingénieur vous permettant d'aborder les sujets de la métrologie avec assurance (génie industriel, instrumentation, mesure, .) ;
+* Une expérience d'au moins 5 ans dans la gestion de projets complexes faisant appel à votre expertise technique ;
+* Une expertise en acquisition et traitement de la donnée en hydrologie ;
+* Une expertise technique en hydraulique à surface libre et du fonctionnement hydraulique ;
+
+
+Des déplacements sont à prévoir : 2 à 3 jours par mois (non consécutifs) à Paris ainsi que dans les directions territoriales à raison d'1 à 2 visites annuelles par site (2 à 3 jours de déplacements par visite)","Management et ingénierie études, recherche et développement industriel",,[[0.47486253]]
+TECHNICIEN(NE) METHODES H/F,"Dans le cadre d'un départ, nous recherchons un(e) Technicien(ne) Méthodes (H/F).
+Rattaché(e) au Responsable Méthodes, vos missions sont :
+· Conception et mise en place des postes de travail et des processus de fabrication.
+· Gestion en mode projet du développement et de l'industrialisation process des pièces nouvelles (devis, gammes, planning, outillage, prototypage.).
+· Animation des programmes d'amélioration.Savoir-faire :
+· Logiciels de conception : Catia V5, V6.
+· Suite Bureautique.
+· SAP.
+· Connaissances en usinage, matériaux, traitement thermique.
+Savoir être :
+· Organisé(e), Précis(e), Force de propositions, travail en équipe, Homme/Femme de terrain.
+De formation BAC+2 et plus dans le domaine de la conception.
+Une expérience significative dans l'industrie et/ou la forge sera un plus.
+CDI temps plein.
+Rémunération : selon profil.
+Poste basé à HAGONDANGE (57300).",Intervention technique en méthodes et industrialisation,,[[0.47136133]]
+Gestionnaire comptable,"MISSIONS PRINCIPALES 
+-	Participation au processus de préparation budgétaire
+-	Coordination, gestion et contrôle des procédures budgétaires et comptables des services 
+-	Formalisation des procédures comptables et élaboration de procédures de régulation 
+-	Construire et analyser les tableaux de bord et d'indicateurs dans les différents outils 
+-	Vérifier et classer les pièces comptables 
+-	Assurer les fonctions d'assistant au Directeur administratif et financier 
+-	Superviser les gestionnaires comptables dans le cadre du suivi de la comptabilité 
+-	Assurer la mise à jour administrative et comptable des bases de données
+
+PROFIL
+-	Diplôme supérieur en comptabilité ou en finance souhaité 
+-	Une expérience au sein d'un service comptabilité ou d'un service financier est requise
+-	Connaissance de la comptabilité publique, de la comptabilité analytique et des finances publiques 
+-	Maîtrise des nomenclatures budgétaires 
+-	Capacité à travailler en équipe
+
+RENSEIGNEMENTS PRATIQUES
+
+-	Postes à temps complet basé à GEX
+-	Candidatures ouvertes aux titulaires ou aux contractuelles
+-	Rémunération statutaire + régime indemnitaire
+-	Avantages : supplément familial de traitement - chèques déjeuner - participation mutuelle santé - prise en charge de la prévoyance - prise en charge de l'abonnement transports en commun pour les trajets domicile/travail - COS/CNAS;
+
+Pour postuler :  https://www.welcometothejungle.com/fr/companies/pays-de-gex-agglo/jobs",Comptabilité,"[{'code': '120886', 'libelle': 'Logiciels comptables', 'exigence': 'S'}, {'code': '117139', 'libelle': 'Codifier une facture', 'exigence': 'S'}, {'code': '117140', 'libelle': 'Codifier un mandat', 'exigence': 'S'}, {'code': '117141', 'libelle': 'Codifier un titre', 'exigence': 'S'}]",[[0.46807184]]
+Développeur - CDI - Mérignac (H/F),"Qu'allez-vous trouver chez nous ?
+- Un impact direct de vos actions en faveur de l'emploi de personnes en situation de handicap,
+- Une politique salariale évolutive chaque année, un plan de carrière potentiel sous 2 à 3 ans,
+- Des technos et des projets intéressants dans lesquels vous serez un réel acteur.
+
+Qui sommes nous ?
+
+GESTFORM s'est donc doté, depuis plusieurs années, d'un service interne totalement dédié à la conception et au déploiement de ses outils de traitement numérique.
+
+Véritable ESN interne, cette équipe élabore des solutions logicielles, matérielles, et organisationnelles performantes et paramétrables.
+
+GESTFORM dispose également d'une chaine d'intégration continue (Devops) hébergée dans notre propre data center.
+
+Vos missions :
+
+Au sein de ce Pôle SI constituée d'une quarantaine de personnes, en étroite collaboration avec vos collègues, vous participez développement de nos solutions.
+
+Pour cela vos missions sur ce poste seront :
+-	Travailler sur le développement de nouvelles prestations : de la conception à la mise en production au sein de notre usine numérique
+-	Concevoir et développer les nouvelles fonctionnalités de nos solutions
+-	Participer à l'optimisation de nos solutions existantes
+-	Participer aux refontes technologiques / d'architecture
+-	Participer à l'analyse, qualification et correction des défauts de production
+-	Élaborer les stratégies de tests
+
+Nos langages et outils :
+- IDE : Visual Studio, VSCodium  
+ - Versionning : Git, svn  
+ - Méthodologie : Agile / Scrum  
+- Langage : Angular, Python, .net, C#, Javascript  
+
+Nous avons de plus en plus de technos récentes (de quoi se faire plaisir).
+
+Votre profil
+
+Titulaire d'un Bac+3 / 5 Systèmes Informatiques et Logiciel, vous justifiez d'une expérience de 2-5 ans en développement d'applications.  
+
+Vous disposez de connaissance sur les bases de données SQL Serveur.
+
+Vous disposez également d'une base de connaissance des principes Clean Code et d'une sensibilité concernant l'UI/UX.
+
+Vous attachez une réelle importance à la qualité de votre code et de vos livrables en générale.
+
+Plus qu'un niveau d'étude, nous recherchons une personne autonome et investie dans sa mission, passionnée, rigoureuse et curieuse et ayant un bon sens de la relation client (client interne).
+
+Votre expérience fait que vous pouvez conseiller et accompagner des développeurs juniors. 
+
+Vous vous êtes reconnu(e) dans ce descriptif ? vous avez envie de nous rejoindre ? alors postulez ! Vous serez recontacté(e) par notre chargée de recrutement dans les prochains jours.
+
+Pour votre organisation personnelle :
+- Horaires classiques (même pour les cadres   )
+- Un Accord de télétravail de 2 jours par semaine
+
+La rémunération brute annuelle est composée d'un fixe entre 40 et 42k€ (selon expérience) + prime intéressement + PEE + PERCO + RTT
+
+Également, d'autres avantages :
+- Parcours d'intégration personnalisé
+- Forte Politique de formation
+- Possibilité d'évolution (plan de carrière mis en place)
+- CSE
+- Mutuelle d'entreprise avec prise en charge de 63% de la part de Gestform sur la base mutuelle (22€ à votre charge)",Études et développement informatique,"[{'code': '113798', 'libelle': 'Python', 'exigence': 'S'}, {'code': '118748', 'libelle': 'Méthodologie Scrum', 'exigence': 'S'}, {'code': '300488', 'libelle': 'Concevoir et gérer un projet', 'exigence': 'S'}, {'code': '300679', 'libelle': ""Tester un logiciel, un système d'informations, une application"", 'exigence': 'S'}, {'code': '400261', 'libelle': 'Coder', 'exigence': 'S'}]",[[0.46729473]]
