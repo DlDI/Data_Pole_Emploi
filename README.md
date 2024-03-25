@@ -1,24 +1,53 @@
-# Data_Pole_Emploi
-Data science pour entreprise project
+# Data_Pole_Emploi Project README
 
-## How to run the POC : 
-in the streamlit folder, please install the required packages from requirement.txt file and load the word2vec of the pretrained model : 
-https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.bin.gz 
+## Overview
+This is a Data Science for Business project focused on leveraging data from Pole Emploi. The objective is to develop a data-driven solution that addresses specific business needs by retrieving data through APIs, analyzing, and exploiting this data to create predictive models, and finally, industrializing these models for real-world applications.
 
-then use the stramlit command to run the main.py 
+## How to Run the Proof of Concept (POC)
 
-for the ressources, please refer to the notebooks folder where we have jupyternotebooks for loading data and analysing it and also testing the models. 
-## Travail a faire : 
+1. **Setting up the Streamlit Application:**
+   - Navigate to the `streamlit_app_poc` directory.
+   - Install the required packages using the following command:
+     ```bash
+     pip install -r requirements.txt
+     ```
+   - Download the pre-trained Word2Vec model from the following link: [FastText French Vector](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.bin.gz).
+   
+2. **Running the Application:**
+   - Inside the `streamlit_app_poc` directory, run the following command to start the Streamlit application:
+     ```bash
+     streamlit run main.py
+     ```
 
-Objectif : 
+## Resources
+For resources and further understanding, refer to the `notebooks` directory. This contains Jupyter notebooks used for loading and analyzing data and testing models. It provides a comprehensive guide through the data processing and model evaluation phases of the project.
 
-* Réaliser de bout en bout un projet de Data Science dans un contexte business
+## Tasks (Travail à faire)
 
-Sous-objectifs :
-* Récupérer les données à partir d’une API
-* Comprendre et analyser des données afin de les exploiter
-* Se mettre en situation en définissant un besoin métier auquel les données peuvent répondre
-* Créer un modèle prédictif
-* Industrialiser le modèle
-* Restituer les résultats dans un cadre professionnel 
+### Objective (Objectif):
+Develop a complete Data Science project in a business context from start to finish.
 
+### Sub-Objectives (Sous-objectifs):
+- Retrieve data from an API.
+- Understand and analyze the data to make it actionable.
+- Define a business need that the data can address.
+- Create a predictive model.
+- Industrialize the model for practical application.
+- Present the results in a professional setting.
+
+## Structure
+- `data`: Contains the offers retrieved from the Pole Emploi API.
+- `notebooks`: Contains Jupyter notebooks for data processing and analysis, and for testing the models.
+- `services`: Contains Python scripts like `data_processing.py` for data processing.
+- `streamlit_app_poc`: Contains the proof of concept of our project in Streamlit.
+
+## Requirements
+- Python 3.x
+- Libraries as listed in `requirements.txt`
+- FastText French Vector for model training.
+
+## Contribution
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
