@@ -1,71 +1,55 @@
-# README for Data_Pole_Emploi Streamlit Application
+# Data_Pole_Emploi Project README
 
 ## Overview
+This is a Data Science for Business project focused on leveraging data from Pole Emploi. The objective is to develop a data-driven solution that addresses specific business needs by retrieving data through APIs, analyzing, and exploiting this data to create predictive models, and finally, industrializing these models for real-world applications.
 
-This Streamlit application is specifically designed for the Data_Pole_Emploi project, aiming to assist in processing job applications. It efficiently matches job seekers' CVs with the most suitable job offers from Pôle Emploi, leveraging advanced NLP (Natural Language Processing) techniques.
+## How to Run the Proof of Concept (POC)
 
-## Setup and Installation
+1. **Setting up the Streamlit Application:**
+   - Navigate to the `streamlit_app_poc` directory.
+   - Install the required packages using the following command:
+     ```bash
+     pip install -r requirements.txt
+     ```
+   - Download the pre-trained Word2Vec model from the following link: [FastText French Vector](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.bin.gz).
+   
+2. **Running the Application:**
+   - Inside the `streamlit_app_poc` directory, run the following command to start the Streamlit application:
+     ```bash
+     streamlit run main.py
+     ```
 
-### Prerequisites
+For more details check the streamlit_app_poc/readme.md
 
-- Python 3.x installed on your local system.
-- Access to a terminal or command prompt.
+## Resources
+For resources and further understanding, refer to the `notebooks` directory. This contains Jupyter notebooks used for loading and analyzing data and testing models. It provides a comprehensive guide through the data processing and model evaluation phases of the project.
 
-### Steps
+## Tasks (Travail à faire)
 
-1. **Clone or download the project repository.**
-2. **Navigate to the Streamlit application directory:**
-   ```bash
-   cd path/to/streamlit_app_poc
-   ```
-3. **Install necessary Python packages:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Configure paths:**
-   - Open `config.ini` in a text editor.
-   - Update `PDF_PATH` under `[PATHS]` with the directory containing your PDF files.
-   - Update `MODEL_PATH` with the full path to your Word2Vec model file.
+### Objective (Objectif):
+Develop a complete Data Science project in a business context from start to finish.
 
-### Running the Application
+### Sub-Objectives (Sous-objectifs):
+- Retrieve data from an API.
+- Understand and analyze the data to make it actionable.
+- Define a business need that the data can address.
+- Create a predictive model.
+- Industrialize the model for practical application.
+- Present the results in a professional setting.
 
-Execute the following command within the Streamlit application directory:
+## Structure
+- `data`: Contains the offers retrieved from the Pole Emploi API.
+- `notebooks`: Contains Jupyter notebooks for data processing and analysis, and for testing the models.
+- `services`: Contains Python scripts like `data_processing.py` for data processing.
+- `streamlit_app_poc`: Contains the proof of concept of our project in Streamlit.
 
-```bash
-streamlit run main.py
-```
+## Requirements
+- Python 3.x
+- Libraries as listed in `requirements.txt`
+- FastText French Vector for model training.
 
-Navigate to the displayed URL in your web browser to interact with the application.
-
-## Application Usage
-
-- **Uploading Your CV:** Use the sidebar option to upload your CV in PDF format.
-- **Processing Your CV:** The application will analyze your CV to extract competencies.
-- **Job Matching:** Based on extracted competencies, the system will match and display relevant job offers from Pôle Emploi.
-
-## Application Structure
-
-- `app/`: Main application directory with Python scripts.
-   - `components.py`: Streamlit components for UI enhancements.
-   - `data_processing.py`: Functions for data preprocessing and analysis.
-   - `main.py`: Central script that runs the Streamlit application.
-   - `model.py`: Implements the NLP model and matching algorithms.
-   - `utils.py`: Contains auxiliary functions for general utilities.
-- `notebooks/`: Contains Jupyter notebooks for data exploration and model testing.
-- `requirements.txt`: Lists all dependencies necessary to run the application.
-- `config.ini`: Configuration file for setting paths and other variables.
-- `rome_catalog.json`: Catalog for job competencies and roles.
-
-## Feature Highlights
-
-- **Interactive Interface:** Easy-to-use interface for uploading and analyzing CVs.
-- **Advanced Matching:** Utilizes state-of-the-art NLP techniques for accurate job matching.
-- **PDF Processing:** Extracts text directly from PDFs for analysis.
-
-## Contributing
-
-We welcome contributions! Please check out our contributing guidelines for more information on how to get involved.
+## Contribution
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
-
-This project is licensed under the MIT License. Refer to the `LICENSE` file for more information.
+This project is licensed under the MIT License - see the LICENSE file for details.
